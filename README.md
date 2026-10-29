@@ -68,6 +68,7 @@ src/
     04_convert_json_to_csv.py  species_description.json -> CSV
     05_plot_columns.py         plot which columns MycoBase has and how full they are
     06_run_steps_1_2.py        the extraction tool: steps 1-2 and figures (command line)
+    07_check_mycobank.py       check the extracted names against MycoBank (OK / CHECK per species)
     extraction/
         text.py                text and style helpers, label detection
         layout.py              step 1: PDF -> clean lines in reading order
@@ -118,6 +119,18 @@ python src/06_run_steps_1_2.py --pdf studies_in_mycology
 #   --fig-dpi N       resolution of figure images (default: 150)
 #   --tables          also remove ruled tables from the text (slower)
 ```
+
+### Check the names against MycoBank
+
+```bash
+python src/07_check_mycobank.py                    # checks output/
+python src/07_check_mycobank.py --out output_vol84 # or another output folder
+```
+
+For every species section it checks that the name is in MycoBank (and suggests close names when it is
+not), that the MycoBank number printed in the paper belongs to that name, that MycoBank's authors and
+year match the heading, and what MycoBank's current name is. Each section gets `OK` or `CHECK` with
+the reasons; the result is `<out>/mycobank_check.tsv`.
 
 ## Output
 
