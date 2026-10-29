@@ -1,6 +1,6 @@
 """Step 2 - Segmentation: find where each species section starts and ends.
 
-A line starts a species section (a "heading") when ALL of these hold:
+A line starts a species section (a "heading") when all of these hold:
   * it begins with a bold "Genus epithet"
   * its font is larger than the body text, OR a nomenclatural cue follows
     (MycoBank / MB number / sp. nov. / comb. nov. / Fig. n / citation with a year)
