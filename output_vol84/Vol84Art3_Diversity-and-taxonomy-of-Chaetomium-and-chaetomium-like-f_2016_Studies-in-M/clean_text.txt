@@ -1,0 +1,2648 @@
+# body font size: 10.2 pt   lines: 2509
+
+=== page 1, left column ===
+p1 c0 15.9pt | **Diversity** **and** **taxonomy** **of** **Chaetomium** **and** **chaetomium-like** **fungi**
+p1 c0 15.9pt | **from** **indoor** **environments**
+p1 c0 10.2pt | X.W. Wang1,2*, J. Houbraken2, J.Z. Groenewald2, M. Meijer2, B. Andersen3, K.F. Nielsen3, P.W. Crous2,4,5, and R.A. Samson2*
+p1 c0  8.1pt | **Abstract:** During a study of indoor fungi, 145 isolates belonging to _Chaetomiaceae_ were cultured from air, swab and dust samples from 19 countries. Based on the
+p1 c0  8.1pt | phylogenetic analyses of DNA-directed RNA polymerase II second largest subunit (_rpb2_), β-tubulin (_tub2_), ITS and 28S large subunit (LSU) nrDNA sequences, together
+p1 c0  8.1pt | with morphological comparisons with related genera and species, 30 indoor taxa are recognised, of which 22 represent known species, seven are described as new, and
+p1 c0  8.1pt | one remains to be identified to species level. In our collection, 69 % of the indoor isolates with six species cluster with members of the_ Chaetomium globosum_ species
+p1 c0  8.1pt | complex, representing_ Chaetomium sensu stricto_. The other indoor species fall into nine lineages that are separated from each other with several known chaetomiaceous
+p1 c0  8.1pt | genera occurring among them. No generic names are available for five of those lineages, and the following new genera are introduced here: _Amesia_ with three indoor
+p1 c0  8.1pt | species,_ Arcopilus_ with one indoor species,_ Collariella_ with four indoor species,_ Dichotomopilus_ with seven indoor species and_ Ovatospora_ with two indoor species. The
+p1 c0  8.1pt | generic concept of_ Botryotrichum_ is expanded to include_ Emilmuelleria_ and the chaetomium-like species_ B. muromum_ (=_ Ch. murorum_) in which two indoor species are
+p1 c0  8.1pt | included. The generic concept of_ Subramaniula_ is expanded to include several chaetomium-like taxa as well as one indoor species._ Humicola_ is recognised as a distinct
+p1 c0  8.1pt | genus including two indoor taxa. According to this study, _Ch._ _globosum_ is the most abundant _Chaetomiaceae_ indoor species (74/145), followed by _Ch._ _cochliodes_ (17/
+p1 c0  8.1pt | 145),_ Ch. elatum_ (6/145) and_ B. piluliferum_ (5/145). The morphological diversity of indoor_ Chaetomiaceae_ as well as the morphological characteristics of the new genera
+p1 c0  8.1pt | are described and illustrated. This taxonomic study redefines the generic concept of _Chaetomium_ and provides new insight into the phylogenetic relationships among
+p1 c0  8.1pt | different genera within _Chaetomiaceae_.
+p1 c0  8.1pt | **Key** **words:** _Chaetomiaceae_, Indoor species, Morphological diversity, Phylogeny.
+p1 c0  8.1pt | **Taxonomic** **novelties:** **New** **genera:** _Amesia_ X. Wei Wang, Samson & Crous, _Arcopilus_ X. Wei Wang, Samson & Crous, _Collariella_ X. Wei Wang, Samson & Crous,
+p1 c0  8.1pt | _Dichotomopilus_ X. Wei Wang, Samson & Crous,_ Ovatospora_ X. Wei Wang, Samson & Crous;** New species:**_ Chaetomium tecti__fi__meti_ X. Wei Wang & Samson,_ Collariella_
+p1 c0  8.1pt | _carteri_ X. Wei Wang, Houbraken & Samson, Dichotomopilus pseudoerectus X. Wei Wang & Samson,_ Dichotomopilus pseudofunicola_ X. Wei Wang & Samson,_ Humicola_
+p1 c0  8.1pt | _olivacea_ X. Wei Wang & Samson,_ Melanocarpus tardus_ X. Wei Wang & Samson,_ Ovatospora_ _pseudomollicella_ X. Wei Wang & Samson;** New combinations:**_ Amesia_
+p1 c0  8.1pt | _atrobrunnea_ (Ames) X. Wei Wang & Samson, _Amesia_ _cymbiformis_ (Lodha) X. Wei Wang & Samson, _Amesia_ _nigricolor_ (Ames) X. Wei Wang & Samson, _Amesia_
+p1 c0  8.1pt | _gelasinospora_ (Aue & Müller) X. Wei Wang & Samson, _Arcopilus_ _aureus_ (Chivers) X. Wei Wang & Samson, _Arcopilus_ _cupreus_ (Ames) X. Wei Wang & Samson,
+p1 c0  8.1pt | _Arcopilus_ _fusiformis_ (Chivers) X. Wei Wang & Samson, _Arcopilus_ _fl__avigenus_ (van Warmelo) X. Wei Wang & Samson, _Arcopilus_ _turgidopilosus_ (Ames) X. Wei Wang
+p1 c0  8.1pt | & Samson, _Botryotrichum_ _murorum_ (Corda) X. Wei Wang & Samson, _Botryotrichum_ _spirotrichum_ (R.K. Benjamin) X. Wei Wang & Samson, _Collariella_ _bostrychodes_
+p1 c0  8.1pt | (Zopf) X. Wei Wang & Samson, _Collariella_ _causiiformis_ (Ames) X. Wei Wang & Samson, _Collariella_ _gracilis_ (Udagawa) X. Wei Wang & Samson, _Collariella_
+p1 c0  8.1pt | _quadrangulata_ (Chivers) X. Wei Wang & Samson, _Collariella_ _robusta_ (Ames) X. Wei Wang & Samson, _Collariella_ _virescens_ (Arx) X. Wei Wang & Samson,
+p1 c0  8.1pt | _Dichotomopilus_ _dolichotrichus_ (Ames) X. Wei Wang & Samson, _Dichotomopilus_ _erectus_ (Skolko & J.W. Groves) X. Wei Wang & Samson, _Dichotomopilus_ _funicola_
+p1 c0  8.1pt | (Cooke) X. Wei Wang & Samson, _Dichotomopilus_ _fusus_ (Ames) X. Wei Wang & Samson, _Dichotomopilus_ _indicus_ (Corda) X. Wei Wang & Samson, _Dichotomopilus_
+p1 c0  8.1pt | _pratensis_ (X.W. Wang & L. Cai) X. Wei Wang & Samson, _Dichotomopilus_ _ramosissimus_ (X.W. Wang & L. Cai) X. Wei Wang & Samson, _Dichotomopilus_ _re__fl__exus_
+p1 c0  8.1pt | (Skolko & J.W. Groves) X. Wei Wang & Samson, _Dichotomopilus_ _subfunicola_ (X.W. Wang & L. Cai) X. Wei Wang & Samson, _Dichotomopilus_ _variostiolatus_ (Carter)
+p1 c0  8.1pt | X. Wei Wang & Samson, _Ovatospora_ _brasiliensis_ (Batista & Pontual) X. Wei Wang & Samson, _Ovatospora_ _medusarum_ (Meyer & Lanneau) X. Wei Wang &
+p1 c0  8.1pt | Samson, _Ovatospora_ _mollicella_ (Ames) X. Wei Wang & Samson, _Ovatospora_ _senegalensis_ (Ames) X. Wei Wang & Samson, _Ovatospora_ _unipora_ (Aue & Müller) X.
+p1 c0  8.1pt | Wei Wang & Samson, _Subramaniula_ _anamorphosa_ (S.A. Ahmed et al.) X. Wei Wang & Samson, _Subramaniula_ _cristata_ (Ames) X. Wei Wang & Samson,
+p1 c0  8.1pt | _Subramaniula_ _cuniculorum_ (Fuckel) X. Wei Wang & Samson, _Subramaniula_ _fusispora_ (G. Smith) X. Wei Wang & Samson; **New** **name:** _Subramaniula_ _fl__avipila_ X.
+p1 c0  8.1pt | Wei Wang & Samson; **Neotypi****fi****cation:** _Chaetomium_ _elatum_ Kunze.
+p1 c0 10.0pt | Available online 8 December 2016; http://dx.doi.org/10.1016/j.simyco.2016.11.005.
+p1 c0 12.2pt | **INTRODUCTION**
+p1 c0 10.2pt | Fungal contamination in damp or water-damaged buildings has
+p1 c0 10.2pt | become an increasing problem worldwide (Andersen_ et al._ 2011).
+p1 c0 10.2pt | After water damage (e.g. leaking water pipes, flooding, faulty
+p1 c0 10.2pt | building constructions, or severe and prolonged condensation)
+p1 c0 10.2pt | many building materials become good substrates for certain fungi.
+p1 c0 10.2pt | These growing fungi can cause adverse effects not only on the
+p1 c0 10.2pt | buildings but also to their occupants (Samson_ et al._ 1994, WHO
+p1 c0 10.2pt | 2009, Samson _et_ _al._ 2010, Flannigan & Miller 2011, Andersen
+
+=== page 1, right column ===
+p1 c1 10.2pt | _et_ _al._ 2011, Miller & McMullin 2014). Members of the genus
+p1 c1 10.2pt | _Chaetomium_ are capable of colonising various substrates and are
+p1 c1 10.2pt | well-known for their ability to degrade cellulose and to produce a
+p1 c1 10.2pt | variety of bioactive metabolites. More than 400 species have been
+p1 c1 10.2pt | described in _Chaetomium_. Some of these species have been
+p1 c1 10.2pt | reported to be important inhalant allergens. They contribute to the
+p1 c1 10.2pt | development of the symptoms of both rhinitis and asthma due to
+p1 c1 10.2pt | the production of mycotoxins and microbial volatile organic com-
+p1 c1 10.2pt | pounds as well as the liberation of ascospores and hyphal frag-
+p1 c1 10.2pt | ments in the indoor environment (Gonianakis_ et al_. 2005, Apetrei
+
+=== page 2, left column ===
+p2 c0 10.2pt | _et al._ 2009, Polizzi_ et al._ 2009, Mason_ et al._ 2010, Andersen_ et al._
+p2 c0 10.2pt | 2011, Miller & McMullin 2014)._ Chaetomium globosum_ is the most
+p2 c0 10.2pt | common species of the_ Chaetomiaceae_ in the indoor environment
+p2 c0 10.2pt | (Vesper_ et al._ 2007, Ayanbimpe_ et al._ 2010, Straus 2011, McMullin
+p2 c0 10.2pt | _et al._ 2013, Miller & McMullin 2014), and this species can already
+p2 c0 10.2pt | be present in new gypsum wallboard (Andersen_ et al._ in press).
+p2 c0 10.2pt | _Chaetomium globosum_ has been reported to produce a variety of
+p2 c0 10.2pt | toxic metabolites, such as chaetoglobosins, chaetomugilins, and
+p2 c0 10.2pt | chaetoviridins (Andersen_ et al._ 2011, McMullin_ et al._ 2013, Miller &
+p2 c0 10.2pt | McMullin 2014), while both _Ch._ _elatum_ and _Ch._ _globosum_ were
+p2 c0 10.2pt | able to produce cochliodones in pure cultures as well as on
+p2 c0 10.2pt | naturally contaminated building materials (Do�sen_ et al._ in press).
+p2 c0 10.2pt | Little is known about the other indoor _Chaetomium_ species and
+p2 c0 10.2pt | their potential hazard to humans and buildings. Furthermore,_ Ch._
+p2 c0 10.2pt | _globosum_ and several other_ Chaetomium_ species are reported as
+p2 c0 10.2pt | causal agents of onychomycosis or superficial infections (Koch &
+p2 c0 10.2pt | Haneke 1965, Naidu_ et al._ 1991, Aspiroz_ et al._ 2007, Hubka_ et al._
+p2 c0 10.2pt | 2011, de Hoog _et_ _al._ 2013), and some of them are capable of
+p2 c0 10.2pt | opportunistically causing deep or systemic infections (Hoppin_ et al._
+p2 c0 10.2pt | 1983, Barron_ et al._ 2003, Guppy_ et al._ 1998, Ahmed_ et al._ 2016).
+p2 c0 10.2pt | The genus _Chaetomium_ is commonly recognised by having
+p2 c0 10.2pt | ostiolate ascomata with a membranaceous perithecial wall
+p2 c0 10.2pt | covered by relatively well-developed hairs, producing fasciculate
+p2 c0 10.2pt | and evanescent asci and single-celled, smooth and pigmented
+p2 c0 10.2pt | ascospores with germ pores (Ames 1963, von Arx _et_ _al._ 1986).
+p2 c0 10.2pt | _Chaetomium globosum_, the type species of the genus, was first
+p2 c0 10.2pt | described by Kunze (Kunze & Schmidt 1817). The taxonomy of
+p2 c0 10.2pt | _Chaetomium_ has been studied by several authors (Corda 1840,
+p2 c0 10.2pt | Zopf 1881, Chivers 1915, Skolko & Groves 1948, 1953, Sörgel
+p2 c0 10.2pt | 1960, Ames 1963, Mazzucchetti 1965, Seth 1970, Dreyfuss
+p2 c0 10.2pt | 1976, Millner 1977, Millner _et_ _al._ 1977, von Arx _et_ _al._ 1984).
+p2 c0 10.2pt | von Arx _et_ _al._ (1986) re-defined the taxonomic concept of _Ch._
+p2 c0 10.2pt | _globosum_. They included species that produce globose to ovate
+p2 c0 10.2pt | or obovate ascomata with a wall consisting of _textura_ _intricata_,
+p2 c0 10.2pt | covered by a diverse morphology of ascomatal hairs ranging
+p2 c0 10.2pt | from erect, flexuous to regularly coiled. The ascomata contain
+p2 c0 10.2pt | clavate (or slightly fusiform), evanescent asci, and the asco-
+p2 c0 10.2pt | spores are limoniform and bilaterally-flattened shaped, and have
+p2 c0 10.2pt | an apical germ pore. Following this concept 28 species were
+p2 c0 10.2pt | reduced to synonymy with_ Ch. globosum_. The species concept of
+p2 c0 10.2pt | _Ch._ _globosum_ sensu von Arx was not supported by a recent
+p2 c0 10.2pt | study (Asgari & Zare 2011). For example, von Arx _et_ _al._ (1986)
+p2 c0 10.2pt | treated_ Ch. coarctatum_ as one of the synonyms of_ Ch. globosum_.
+p2 c0 10.2pt | Based on three genomic loci (ITS region, partial LSU rDNA and
+p2 c0 10.2pt | partial β-tubulin gene sequences), the phylogenetic analysis of
+p2 c0 10.2pt | Asgari & Zare (2011) indicated a distant relationship between the
+p2 c0 10.2pt | authentic isolate of_ Ch. globosum_ (CBS 148.51) and the ex-type
+p2 c0 10.2pt | strain of _Ch._ _coarctatum_ (CBS 162.62). On the basis of phylo-
+p2 c0 10.2pt | genetic inference of six loci and morphological characters, _Ch._
+p2 c0 10.2pt | _globosum_ was again revised by Wang _et_ _al._ (2016), and six
+p2 c0 10.2pt | species that were treated as synonyms of_ Ch. globosum_ by von
+p2 c0 10.2pt | Arx _et_ _al._ (1986) were resurrected. Furthermore, the non-
+p2 c0 10.2pt | ostiolate genus _Chaetomidium_ was also synonymised with
+p2 c0 10.2pt | _Chaetomium_ (Wang _et_ _al._ 2016).
+p2 c0 10.2pt | The aim of the present study was to conduct a global
+p2 c0 10.2pt | investigation of the species diversity of indoor_ Chaetomiaceae_ in
+p2 c0 10.2pt | the context of advanced taxonomy and chemical analysis. The
+p2 c0 10.2pt | results would not only be a useful tool for the identification of
+p2 c0 10.2pt | indoor_ Chaetomiaceae_ and evaluation of their chemical potential,
+p2 c0 10.2pt | but also provide new insights into the phylogeny of the
+p2 c0 10.2pt | _Chaetomiaceae_.
+
+=== page 2, right column ===
+p2 c1 12.2pt | **MATERIALS** **AND** **METHODS**
+p2 c1 12.2pt | **Isolates**
+p2 c1 10.2pt | This study is based on a collection of isolates from indoor en-
+p2 c1 10.2pt | vironments of 19 countries which are housed in the working
+p2 c1 10.2pt | collection of the Department of Applied and Industrial Mycology
+p2 c1 10.2pt | (DTO), and of those which were assigned to species of _Chae-_
+p2 c1 10.2pt | _tomiaceae_ and housed in the public collection of the CBS-KNAW
+p2 c1 10.2pt | Fungal Biodiversity Centre, Utrecht, The Netherlands (CBS). The
+p2 c1 10.2pt | strains isolated from dust were collected and isolated as previ-
+p2 c1 10.2pt | ously described (Amend _et_ _al._ 2010). Briefly, sterilised dust
+p2 c1 10.2pt | stream collectors (Indoor Biotechnologies) were attached to
+p2 c1 10.2pt | domestic vacuum cleaners for collection. Samples were filtered
+p2 c1 10.2pt | through a 2-mm sieve and refrigerated at 4 °C until further
+p2 c1 10.2pt | processing. The samples were analysed by a modified dilution-
+p2 c1 10.2pt | to-extinction plating technique (Visagie_ et al._ 2014). Air samples
+p2 c1 10.2pt | were collected approx 1 m above the ground with a viable
+p2 c1 10.2pt | impaction sampler (MAS 100 Merck) and indoor surfaces (i.e.
+p2 c1 10.2pt | walls, ceilings) were sampled with a swab (Greiner Bio-One,
+p2 c1 10.2pt | Alphen aan de Rijn, The Netherlands). The air and swab sam-
+p2 c1 10.2pt | ples were analysed using standard microbiological techniques.
+p2 c1 10.2pt | Agar media used for the isolation of the_ Chaetomiaceae_ strains
+p2 c1 10.2pt | include malt extract agar (Oxoid Ltd, Hampshire, UK) and
+p2 c1 10.2pt | dichloran 18 % glycerol (DG18: Oxoid Ltd, Hampshire, UK) agar.
+p2 c1 10.2pt | Petri dishes were incubated at room temperature or 25 °C, and
+p2 c1 10.2pt | inspected regularly. Metabolite extraction was performed on a
+p2 c1 10.2pt | subset of the representative isolates comprising the major indoor
+p2 c1 10.2pt | species in_ Chaetomiaceae._ All the isolates used in this study are
+p2 c1 10.2pt | listed in Table 1.
+p2 c1 12.2pt | **DNA** **phylogeny**
+p2 c1 10.2pt | Genomic DNA was extracted from 7- to 15-d-old cultures grown
+p2 c1 10.2pt | on oatmeal agar (OA) using the UltraClean™Microbial DNA
+p2 c1 10.2pt | Isolation Kit (Mo Bio Laboratories, Inc., Solana Beach, CA, USA)
+p2 c1 10.2pt | following the manufacturer’s instructions. The primers used for
+p2 c1 10.2pt | PCR amplification and sequencing included: RPB2AM-1bf &
+p2 c1 10.2pt | RPB2AM-7R (Miller & Huhndorf 2005) for the second largest
+p2 c1 10.2pt | subunit of DNA-directed RNA polymerase II (_rpb2_) gene region;
+p2 c1 10.2pt | ITS5 & ITS4 (White _et_ _al._ 1990) for the internal transcribed
+p2 c1 10.2pt | spacer regions (ITS) and intervening 5.8S nrRNA gene region,
+p2 c1 10.2pt | NL1 & NL4 (O’Donnell 1993) for the D1/D2 domains of the 28S
+p2 c1 10.2pt | nrDNA (LSU); T1 (O’Donnell & Cigelnik 1997) and TUB4Rd
+p2 c1 10.2pt | (Groenewald_ et al._ 2013) for the partial beta-tubulin (_tub2_) gene
+p2 c1 10.2pt | region. The PCR conditions were the same as those described
+p2 c1 10.2pt | by Wang _et_ _al._ (2016). Each of the amplicons was sequenced
+p2 c1 10.2pt | with the ABI Prism® Big Dye™Terminator v. 3.1 Cycle
+p2 c1 10.2pt | Sequencing Kit. Samples were analysed on an ABI PRISM 3710
+p2 c1 10.2pt | xl Genetic Analyzer. Consensus sequences for each locus were
+p2 c1 10.2pt | assembled using the forward and reverse sequences with the
+p2 c1 10.2pt | programme MEGA v. 6 (Tamura _et_ _al._ 2013). Novel sequences
+p2 c1 10.2pt | generated in this study were deposited in GenBank (http://www.
+p2 c1 10.2pt | ncbi.nlm.nih.gov, Table 1).
+p2 c1 10.2pt | Besides the sequences generated in this study, additional
+p2 c1 10.2pt | sequences were retrieved from GenBank. The sequence data-
+p2 c1 10.2pt | sets were aligned using MAFFT v. 7 (Katoh & Standley 2013),
+p2 c1 10.2pt | and manually optimised using BioEdit v. 5.0.9 (Hall 1999).
+p2 c1 10.2pt | Congruency between the four loci was tested using the 70 %
+p2 c1 10.2pt | reciprocal bootstrap criterion (Mason-Gamer & Kellogg 1996,
+p2 c1 10.2pt | Gueidan _et_ _al._ 2007, Lombard _et_ _al._ 2010).
+
+=== page 3, left column ===
+p3 c0 10.2pt | **Culture** **accession** **Previous** **name** **Origin**
+p3 c0 10.2pt | **number(s)****1**
+
+=== page 3, right column ===
+p3 c1 10.2pt | **GenBank** **accession** **numbers****2**
+p3 c1 10.2pt | **ITS** **LSU** **rpb2** **tub2**
+
+=== page 4, left column ===
+p4 c0 10.2pt | **Culture** **accession** **Previous** **name** **Origin**
+p4 c0 10.2pt | **number(s)****1**
+
+=== page 4, right column ===
+p4 c1 10.2pt | **GenBank** **accession** **numbers****2**
+p4 c1 10.2pt | **ITS** **LSU** **rpb2** **tub2**
+
+=== page 5, left column ===
+p5 c0 10.2pt | **Culture** **accession** **Previous** **name** **Origin**
+p5 c0 10.2pt | **number(s)****1**
+
+=== page 5, right column ===
+p5 c1 10.2pt | **GenBank** **accession** **numbers****2**
+p5 c1 10.2pt | **ITS** **LSU** **rpb2** **tub2**
+
+=== page 6, left column ===
+p6 c0 10.2pt | **Culture** **accession** **Previous** **name** **Origin**
+p6 c0 10.2pt | **number(s)****1**
+
+=== page 6, right column ===
+p6 c1 10.2pt | **GenBank** **accession** **numbers****2**
+p6 c1 10.2pt | **ITS** **LSU** **rpb2** **tub2**
+
+=== page 7, left column ===
+p7 c0 10.2pt | **Culture** **accession** **Previous** **name** **Origin**
+p7 c0 10.2pt | **number(s)****1**
+p7 c0 10.2pt | The ITS region was used to initially screen the collection of
+p7 c0 10.2pt | fungi from the indoor environments in order to select members of
+p7 c0 10.2pt | the_ Chaetomiaceae_. The_ tub2_ gene region was used to recognise
+p7 c0 10.2pt | the species diversity within the indoor _Chaetomiaceae_ isolates.
+p7 c0 10.2pt | The phylogenetic placement of the indoor isolates was deter-
+p7 c0 10.2pt | mined using four loci (ITS, partial LSU,_ tub2_ and partial_ rpb2_) on
+p7 c0 10.2pt | the basis of the evaluation in a previous study (Wang_ et al._ 2016),
+p7 c0 10.2pt | and representatives of related species and genera in the _Chae-_
+p7 c0 10.2pt | _tomiaceae_ were included as references in the final phylogenetic
+p7 c0 10.2pt | analyses. Phylogenetic analyses were based on Bayesian infer-
+p7 c0 10.2pt | ence (BI), Maximum Likelihood (ML) and Maximum Parsimony
+p7 c0 10.2pt | (MP) as described previously (Wang_ et al._ 2016). For BI, the best
+p7 c0 10.2pt | evolutionary model for each locus was determined using MrMo-
+p7 c0 10.2pt | deltest v. 2.0 (Nylander 2004). Obtained trees were viewed in
+p7 c0 10.2pt | FigTree v. 1.1.2 (Rambaut 2009). The alignment and derived
+p7 c0 10.2pt | trees were deposited in TreeBASE (submission ID 20347; http://
+p7 c0 10.2pt | treebase.org/treebase-web/home.html).
+p7 c0 12.2pt | **Morphology**
+p7 c0 10.2pt | Colony morphology was determined by inoculating strains onto
+p7 c0 10.2pt | four different media (Samson_ et al._ 2010): OA, potato carrot agar
+
+=== page 7, right column ===
+p7 c1 10.2pt | **GenBank** **accession** **numbers****2**
+p7 c1 10.2pt | **ITS** **LSU** **rpb2** **tub2**
+p7 c1 10.2pt | (PCA), malt extract agar (MEA, Oxoid), and Dichloran 18 %
+p7 c1 10.2pt | glycerol agar (DG18), incubated in the dark at 25 °C for 7 d.
+p7 c1 10.2pt | Microscopic observation was performed using methods previ-
+p7 c1 10.2pt | ously described (Wang _et_ _al._ 2016). Morphological descriptions
+p7 c1 10.2pt | are mainly based on OA, sometimes on PCA. For the obser-
+p7 c1 10.2pt | vations of the asexual morphology, SNA (spezieller
+p7 c1 10.2pt | n€ahrstoffarmer agar) was used (Samson _et_ _al._ 2010).
+p7 c1 12.2pt | **Metabolite** **extraction** **of** **pure** **cultures**
+p7 c1 10.2pt | Metabolite profiling was performed on 15-d-old cultures grown on
+p7 c1 10.2pt | MEA and potato dextrose agar (PDA) (Samson _et_ _al._ 2010),
+p7 c1 10.2pt | where three agar plugs (6 mm diam) were cut across one colony
+p7 c1 10.2pt | from each agar medium and pooled in a 2 mL Eppendorf tube.
+p7 c1 10.2pt | One mL extraction solvent (ethyl acetate-2-propanol (3:1; vol/vol)
+p7 c1 10.2pt | containing 1 % formic acid) was added to each vial and the plugs
+p7 c1 10.2pt | were extracted in a sonication bath for 60 min. The extract was
+p7 c1 10.2pt | then transferred to a clean 2 mL Eppendorf tube and evaporated
+p7 c1 10.2pt | to dryness in a stream of N2. The dried extract was subsequently
+p7 c1 10.2pt | re-dissolved in 400 μL methanol in a sonication bath for 30 min,
+p7 c1 10.2pt | centrifuged for 3 min at 15 000 g, and transferred to a clean auto
+p7 c1 10.2pt | sampler vial.
+
+=== page 9, left column ===
+p9 c0 12.2pt | **UHPLC-DAD-QTOF-MS** **analyses**
+p9 c0 10.2pt | Samples(0.5μL)wereanalysedusing ultra-highperformanceliquid
+p9 c0 10.2pt | chromatography-diode array detection-quadrupole time of flight
+p9 c0 10.2pt | mass spectrometry (UHPLC-DAD-QTOF-MS) on an Agilent Infinity
+p9 c0 10.2pt | 1290 UHPLC system (Agilent Technologies, Santa Clara, Califor-
+p9 c0 10.2pt | nia, USA) equipped with a DAD detector scanning 200–640 nm.
+p9 c0 10.2pt | Metabolites were separated on an Agilent Poroshell 120 phenyl-
+p9 c0 10.2pt | hexyl column (2.1 × 250 mm, 2.7 μm) using a linear gradient of
+p9 c0 10.2pt | solvents consisting of water (A) and acetonitrile (B) buffered with
+p9 c0 10.2pt | 20 mM formic acid. The gradient started at 10 % B and increased to
+p9 c0 10.2pt | 100 % in 15 min where it was held for 2 min (Kildgård_ et al._ 2014).
+p9 c0 10.2pt | The flow rate was 0.35 mL/min and the column temperature was
+p9 c0 10.2pt | 60 °C. Mass spectrometry detection was performed in ESI+ mode
+p9 c0 10.2pt | on an Agilent 6545 QTOF MS equipped with Dual Jet Stream
+p9 c0 10.2pt | electrospray ion source, using hexakis-(2,2,3,3-tetrafluoropropoxy)
+p9 c0 10.2pt | phosphazene as the lock mass. Other MS parameters, including
+p9 c0 10.2pt | Auto-MS/HRMS, can be found in Kildgård_ et al._ (2014).
+p9 c0 10.2pt | Secondary metabolites were identified by aggressive der-
+p9 c0 10.2pt | eplication of the full HRMS (high resolution mass spectrometry)
+p9 c0 10.2pt | data against a list of possible known compounds that have been
+p9 c0 10.2pt | described in the literature as well as comparison to 1 500 fungal
+p9 c0 10.2pt | secondary metabolites. All samples were further analysed for
+p9 c0 10.2pt | peaks not detected by the previous approach, and those were
+p9 c0 10.2pt | matched against Antibase2012 for a tentative identification. Me-
+p9 c0 10.2pt | tabolites that did not match were considered as novel compounds
+p9 c0 10.2pt | and their elemental composition was determined from the accu-
+p9 c0 10.2pt | rate mass (±2 ppm) and isotopic pattern (Kildgård _et_ _al._ 2014,
+p9 c0 10.2pt | Do�sen _et_ _al._ in press). The peak areas of [M+H]+, [M+Na]+ or
+p9 c0 10.2pt | [M+H2O]+ of all the compounds, including the tentatively identified
+p9 c0 10.2pt | and the novel compounds, were then integrated in the Agilent
+p9 c0 10.2pt | MassHunter Quant software using extracted ion chromatograms
+p9 c0 10.2pt | ±12 ppm and the peak areas for multivariate data analysis.
+p9 c0 12.2pt | **RESULTS**
+p9 c0 12.2pt | **Isolates**
+p9 c0 10.2pt | A total of 145 indoor isolates (Table 1, in bold font) were identified
+p9 c0 10.2pt | as members of _Chaetomiaceae_ after the ITS sequencing. A
+p9 c0 10.2pt | further selection of 45 representative indoor isolates was made
+p9 c0 10.2pt | based on the _tub2_ gene sequences, combined with an exami-
+p9 c0 10.2pt | nation of the macro- and micromorphology. Similar isolates were
+p9 c0 10.2pt | excluded and strains that possibly represent different species
+p9 c0 10.2pt | were included in the detailed morphological examination and
+p9 c0 10.2pt | four-locus analyses. Thirty-eight representative isolates (Table 1,
+p9 c0 10.2pt | marked with *) were included in the metabolite analysis.
+p9 c0 12.2pt | **Phylogeny**
+p9 c0 10.2pt | The phylogenetic analysis of_ tub2_ gene region placed the indoor
+p9 c0 10.2pt | isolates into 30 well-supported clades in 10 distinct monophyletic
+
+=== page 9, right column ===
+p9 c1 10.2pt | lineages (Tables 1, 2). The preliminary identification based on the
+p9 c1 10.2pt | _tub2_ locus was confirmed by the four-locus analysis on the basis
+p9 c1 10.2pt | of a dataset consisting of 45 representative indoor isolates and
+p9 c1 10.2pt | representative isolates of related genera and species. Only the
+p9 c1 10.2pt | concatenated phylogenetic tree was presented with the bootstrap
+p9 c1 10.2pt | proportions (�50 %) from ML or MP analyses and posterior
+p9 c1 10.2pt | probabilities (�0.95) from Bayesian analyses plotted on the
+p9 c1 10.2pt | phylogramme to show statistical support (Fig. 1).
+p9 c1 10.2pt | The multigene analyses contained 183 strains, including
+p9 c1 10.2pt | _Microascus_ _trigonosporus_ (CBS 218.31) as outgroup taxon. No
+p9 c1 10.2pt | topological conflicts were found when comparing the 70 %
+p9 c1 10.2pt | bootstrap reciprocal tree topologies based on the_ rpb2_ and_ tub2_
+p9 c1 10.2pt | datasets. The minor incongruences observed for the ITS and
+p9 c1 10.2pt | LSU sequence data set failed to resolve some of the species,
+p9 c1 10.2pt | especially those in the_ Ch. globosum_ species complex recovered
+p9 c1 10.2pt | by each of the two protein-coding gene regions used here. All
+p9 c1 10.2pt | four loci were combined following recommendations of
+p9 c1 10.2pt | Cunningham (1997). The concatenated alignment consisted of
+p9 c1 10.2pt | 2 790 characters (including alignment gaps): 525, 968, 724 and
+p9 c1 10.2pt | 573 characters used in the _rpb2_, _tub2_, ITS and LSU partitions,
+p9 c1 10.2pt | respectively. Of these, 1122 characters were constant, 339
+p9 c1 10.2pt | characters parsimony-uninformative and 1 265 characters
+p9 c1 10.2pt | parsimony-informative. For the Bayesian inference, a GTR+I+G
+p9 c1 10.2pt | model was selected for _rpb2_, ITS and LSU and a HKY+I+G
+p9 c1 10.2pt | model for _tub2_. These models were incorporated into the anal-
+p9 c1 10.2pt | ysis. A total of 23 822 trees were generated during the Bayesian
+p9 c1 10.2pt | inference, of which 5 956 trees were discarded as the “burnin-
+p9 c1 10.2pt | phase” and posterior probabilities (PP) were calculated from the
+p9 c1 10.2pt | remaining 17 866 trees. The BI consensus tree and PP
+p9 c1 10.2pt | confirmed the tree topologies and bootstrap support (BS) values
+p9 c1 10.2pt | obtained with the ML and MP analyses. The MP analysis yielded
+p9 c1 10.2pt | 136 equally most parsimonious trees (TL = 11 252; CI = 0.299;
+p9 c1 10.2pt | RI = 0.822; RC = 0.245). The BI consensus tree is presented
+p9 c1 10.2pt | (Fig. 1) with the respective MP- and ML-BS values indicated at
+p9 c1 10.2pt | the nodes.
+p9 c1 10.2pt | The concatenated phylogenetic analyses revealed the _Ch._
+p9 c1 10.2pt | _globosum_ species complex (Wang_ et al._ 2016) (MP-BS = 86; ML-
+p9 c1 10.2pt | BS �50; PP = 0.95) and 13 other monophyletic clades (Fig. 1).
+p9 c1 10.2pt | Six known genera were supported: _Achaetomium_ including the
+p9 c1 10.2pt | type species _A._ _globosum_ (MP-BS = 100; ML-BS = 89;
+p9 c1 10.2pt | PP = 0.95), _Corynascella_ represented by the type species _Cor._
+p9 c1 10.2pt | _humicola_ (MP-BS = 100; ML-BS = 100; PP = 1.0), _Humicola_
+p9 c1 10.2pt | represented by the type species_ H. fuscoatra_ (MP-BS = 92; ML-
+p9 c1 10.2pt | BS = 95; PP = 0.99), _Melanocarpus_ represented by the type
+p9 c1 10.2pt | species_ Me. albomyces_ (MP-BS = 93; ML-BS = 97; PP = 0.99),
+p9 c1 10.2pt | _Myceliophthora_ including the type species _My._ _lutea_ (MP-
+p9 c1 10.2pt | BS = 96; ML-BS = 99; PP = 0.97), and _Thielavia_ including five
+p9 c1 10.2pt | species (MP-BS = 98; ML-BS = 98; PP = 0.99). _Emilmuelleria_
+p9 c1 10.2pt | and _Ch._ _murorum_ clustered in the _Botryotrichum_ clade (MP-
+p9 c1 10.2pt | BS = 100; ML-BS = 99; PP = 1.0), which is represented by the
+p9 c1 10.2pt | type species_ B. piluliferum_ and two other_ Botryotrichum_ species.
+p9 c1 10.2pt | _Chaetomium_ _cristatum_, _Ch._ _cuniculorum_, _Ch._ _irregulare_, _Ch._
+p9 c1 10.2pt | _anamorphosum_ and _Ch._ _fusisporum_ clustered in the _Sub-_
+p9 c1 10.2pt | _ramaniula_ clade (MP-BS = 100; ML-BS = 100; PP = 1.0)
+
+=== page 11, left column ===
+p11 c0 10.2pt | **Per** **genus**
+p11 c0 10.2pt | **Per** **species**
+p11 c0 10.2pt | **USA**
+p11 c0 10.2pt | **Uruguay**
+p11 c0 10.2pt | **Thailand**
+p11 c0 10.2pt | **Switzerland**
+p11 c0 10.2pt | **Spain**
+p11 c0 10.2pt | **South** **Africa**
+p11 c0 10.2pt | **Solomon** **Islands**
+p11 c0 10.2pt | **New** **Guinea**
+p11 c0 10.2pt | **The** **Netherlands**
+p11 c0 10.2pt | **Mexico**
+p11 c0 10.2pt | **Indonesia**
+p11 c0 10.2pt | **India**
+p11 c0 10.2pt | **Germany**
+p11 c0 10.2pt | **Denmark**
+p11 c0 10.2pt | **Cuba**
+p11 c0 10.2pt | **China**
+p11 c0 10.2pt | **Canada**
+p11 c0 10.2pt | **Australia**
+p11 c0 10.2pt | **Algeria**
+p11 c0 10.2pt | **Species** **names**
+
+=== page 12, left column ===
+p12 c0 10.2pt | represented by the type species _S._ _thielavioides_. The _Botryo-_
+p12 c0 10.2pt | _trichum_ and _Subramaniula_ clades formed sisters to each other
+p12 c0 10.2pt | (MP-BS = 54; ML-BS = 97; PP = 1), which clustered closely with
+p12 c0 10.2pt | the_ Humicola_ clade with relatively low statistic support (MP-BS �
+p12 c0 10.2pt | 50; ML-BS = 61; PP = 0.98).
+p12 c0 10.2pt | Five highly supported monophyletic clades represent possible
+p12 c0 10.2pt | novel genera. The clade represented by _Ch._ _indicum_ (MP-
+p12 c0 10.2pt | BS = 100; ML-BS = 99; PP = 1.0) formed a sister to the _Ch._
+p12 c0 10.2pt | _globosum_ species complex, but with no statistical support for
+p12 c0 10.2pt | their relationships. Four others included: the _Ch._ _atrobrunneum_
+p12 c0 10.2pt | clade (MP-BS = 100; ML-BS = 99; PP = 1.0), the _Ch._ _aureum_
+p12 c0 10.2pt | clade (MP-BS = 100; ML-BS = 100; PP = 1.0), the _Ch._ _brasi-_
+p12 c0 10.2pt | _liense_ clade (MP-BS = 99; ML-BS = 99; PP = 0.98) and the_ Ch._
+p12 c0 10.2pt | _bostrychodes_ clade (MP-BS = 100; ML-BS = 99; PP = 0.99).
+p12 c0 10.2pt | They were distant from the _Ch. globosum_ species complex and
+p12 c0 10.2pt | separated by the _Achaetomium_, _Botryotrichum,_ _Corynascella,_
+p12 c0 10.2pt | _Melanocarpus,_ _Myceliophthora,_ _Subramaniula_ and _Thielavia_
+p12 c0 10.2pt | generic clades. The presented topology received little to no
+p12 c0 10.2pt | statistical support for most of these.
+p12 c0 10.2pt | Four known species were originally isolated from indoor
+p12 c0 10.2pt | environments or from materials associated with human lives,
+p12 c0 10.2pt | namely _Ch._ _atrobrunneum_ (ex-type CBS 379.66, from mouldy
+p12 c0 10.2pt | mattress), _Ch._ _causiiforme_ (ex-type CBS 792.83, from sweat-
+p12 c0 10.2pt | band of helmet liner), _Ch._ _turgidopilosum_ (ex-type CBS 169.52,
+p12 c0 10.2pt | from top of a storage tent) and _Ch._ _variostiolatum_ (ex-type
+p12 c0 10.2pt | CBS 179.84, from tarpaulin). Twenty-eight other representative
+p12 c0 10.2pt | indoor isolates clustered in 18 known species clades with high
+p12 c0 10.2pt | statistical support (MP-BS �93; ML-BS �93; PP = 1.0),
+p12 c0 10.2pt | which were represented by their ex-type cultures (seven spe-
+p12 c0 10.2pt | cies), ex-epitype cultures (three species), ex-neotype culture
+p12 c0 10.2pt | (_Ch._ _globosum_), or representative strains (seven species),
+p12 c0 10.2pt | respectively.
+p12 c0 10.2pt | Two isolates (DTO 319-B7 and DTO 318-G9) formed a sister
+p12 c0 10.2pt | clade to another indoor isolate (DTO 319-C7) and clustered with
+p12 c0 10.2pt | _H. fuscoatra_ (ex-type CBS 118.14), the type species of_ Humicola_.
+p12 c0 10.2pt | The isolate CBS 541.76, which is deposited as_ Thielavia minuta_
+p12 c0 10.2pt | in the CBS collection, formed a sister lineage to the type species
+p12 c0 10.2pt | of _Melanocarpus_ (_M._ _albomyces_, ex-type CBS 638.94), which
+p12 c0 10.2pt | was distant from the core _Thielavia_ clade. The isolate CBS
+p12 c0 10.2pt | 251.75 formed a sister lineage to the ex-type of_ Ch. mollicellum_
+p12 c0 10.2pt | and the _Ch._ _brasiliense_ clade (MP-BS = 100; ML-BS = 100;
+p12 c0 10.2pt | PP = 1.0). Three other isolates (DTO 318-G8, DTO 318-I7 and
+p12 c0 10.2pt | CBS 252.75) clustered close to but separated from their closest
+p12 c0 10.2pt | relatives: _Ch._ _fi__meti_, _Ch._ _funicola_ or _Ch._ _ramosissimum_,
+p12 c0 10.2pt | respectively. These isolates represent possible novel phyloge-
+p12 c0 10.2pt | netic species.
+p12 c0 12.2pt | **Metabolite** **pro****fi****ling**
+p12 c0 10.2pt | A subset of isolates (Table 3) was extracted and analysed in
+p12 c0 10.2pt | order to compare their metabolite production. The species
+p12 c0 10.2pt | names used in this paragraph are based on the newly proposed
+p12 c0 10.2pt | taxonomy mentioned below. The analyses showed that more
+p12 c0 10.2pt | than 68 metabolites could be detected, and the structure of 31
+p12 c0 10.2pt | compounds is unknown. The majority of the detected metabolites
+p12 c0 10.2pt | (known and uncharacterised) were produced by isolates
+p12 c0 10.2pt | belonging to _Chaetomium_ _sensu_ _stricto_ and _Dichotomopilus._
+p12 c0 10.2pt | Table 3 shows the production of 35 known and six unknown
+p12 c0 10.2pt | metabolites at species level. In general there were no species
+p12 c0 10.2pt | specific metabolites produced by one species alone, with the
+
+=== page 12, right column ===
+p12 c1 10.2pt | exception of the production of chaetosemin A, chaetoquadrin A, I
+p12 c1 10.2pt | and K by _H._ _olivacea_ (DTO 319-C7) and sterigmatocystin by
+p12 c1 10.2pt | _Humicola_ sp. (DTO 319-B7). Other metabolites were produced
+p12 c1 10.2pt | by isolates belonging to various genera and species. For
+p12 c1 10.2pt | example, cochliodinol A was produced by _C._ _globosum_,
+p12 c1 10.2pt | _D. pratensis_,_ B. murorum_,_ B. piluliferum_,_ S. cristata_,_ A. nigricolor_,
+p12 c1 10.2pt | _O. brasiliensis_ and_ O._ _pseudomollicella_, and cochliodinol B was
+p12 c1 10.2pt | produced by _C._ _cochliodes_, _C._ _pseudo__fi__meti_, _D._ _subfunicola_,
+p12 c1 10.2pt | _D. variostiolatus_,_ D. funicola_,_ A. cymbiformis_,_ Col. bostrychodes_
+p12 c1 10.2pt | and _Col._ _carteri_. There were metabolites that were genus spe-
+p12 c1 10.2pt | cific, as can be seen from Table 3. Some metabolites, like
+p12 c1 10.2pt | chaetoindicin, SB236049, SB236050 and SB238569, were only
+p12 c1 10.2pt | found in genus _Dichotomopilus_, while others were restricted to
+p12 c1 10.2pt | genus _Chaetomium_ _sensu_ _stricto_. Chaetoglobosins A and C,
+p12 c1 10.2pt | chaetomugilin D and prochaetoglobosins I-IV were only pro-
+p12 c1 10.2pt | duced by_ C. coarctacum_ and_ C. globosum_ whereas chaetocin A,
+p12 c1 10.2pt | chaetomin and chaetoviridin B/C were only found in
+p12 c1 10.2pt | _C._ _cochloides_ and _C._ _pseudo__fi__meti_.
+p12 c1 12.2pt | **TAXONOMY**
+p12 c1 10.2pt | Being the type species,_ Chaetomium globosum_ is affiliated with
+p12 c1 10.2pt | the _Ch._ _globosum_ species complex (Wang _et_ _al._ 2016). This
+p12 c1 10.2pt | species complex was confirmed as a monophyletic lineage in
+p12 c1 10.2pt | this study, which represents _Chaetomium_ _sensu_ _stricto_. Thirty
+p12 c1 10.2pt | species found in indoor environments could be accommodated
+p12 c1 10.2pt | in 10 genera of the _Chaetomiaceae_. Five new genera are
+p12 c1 10.2pt | established and seven new species described. One _Humicola_
+p12 c1 10.2pt | species represented by three indoor isolates remains to be
+p12 c1 10.2pt | compared with other known _Humicola_ species and this will be
+p12 c1 10.2pt | done in future phylogenetic and morphological studies. All the
+p12 c1 10.2pt | species obtained from indoor substrates, and each of the rec-
+p12 c1 10.2pt | ognised novel genera in this study are described and illustrated
+p12 c1 10.2pt | below. The generic concepts of _Subramaniula_ and _Botryo-_
+p12 c1 10.2pt | _trichum_ are also expanded.
+p12 c1 10.2pt | **Amesia** X. Wei Wang, Samson & Crous, **gen.** **nov.** MycoBank
+p12 c1 10.2pt | MB818829. Fig. 2.
+p12 c1 10.2pt | _Etymology_: Named after L.M. Marion Ames for his contribution to
+p12 c1 10.2pt | our knowledge of the taxonomy of the _Chaetomiaceae_.
+p12 c1 10.2pt | _Type_ _species_: _Amesia_ _atrobrunnea_ (Ames) X. Wei Wang &
+p12 c1 10.2pt | Samson (= _Ch._ _atrobrunneum_)
+p12 c1 10.2pt | _Ascomata_ superficial, ostiolate, spherical, ellipsoid or ovate with
+p12 c1 10.2pt | walls of _textura_ _angularis_, _intricata_ or _epidermoidea_ in surface
+p12 c1 10.2pt | view._ Terminal hairs_ straight, flexuous, undulate or spirally coiled.
+p12 c1 10.2pt | _Lateral_ _hairs_ straight, flexuous, or similar to terminal hairs, but
+p12 c1 10.2pt | shorter. _Asci_ fasciculate, clavate, broadly clavate or fusiform,
+p12 c1 10.2pt | stalked, with 8 biseriate or irregularly arranged ascospores,
+p12 c1 10.2pt | evanescent. _Ascospores_ brown at maturity, usually fusiform,
+p12 c1 10.2pt | elongate ovate to ovate, with an apical or sub-apical germ pore.
+p12 c1 10.2pt | _Asexual_ _morph_ unknown.
+p12 c1 10.2pt | _Notes_: Several species of _Amesia_ were investigated. These
+p12 c1 10.2pt | species exhibit a high morphological diversity in both ascomatal
+p12 c1 10.2pt | hairs and ascospore morphology. An ITS/LSU analysis indicated
+p12 c1 10.2pt | it to be a monophyletic lineage (de Hoog_ et al._ 2013). Our four-
+p12 c1 10.2pt | locus phylogeny confirmed the ITS/LSU phylogeny. More
+
+=== page 13, left column ===
+p13 c0 10.2pt | _S._ _cristata_
+p13 c0 10.2pt | _O._ _pseudomollicella_
+p13 c0 10.2pt | _O._ _brasiliensis_
+p13 c0 10.2pt | _Melanocarpus_ _tardus_
+p13 c0 10.2pt | _Humicola_ sp.
+p13 c0 10.2pt | _H._ _olivacea_
+p13 c0 10.2pt | _D._ _variostiolatus_
+p13 c0 10.2pt | _D._ _subfunicola_
+p13 c0 10.2pt | _D._ _pseudofunicola_
+p13 c0 10.2pt | _D._ _pseudoerectus_
+p13 c0 10.2pt | _D._ _pratensis_
+p13 c0 10.2pt | _D._ _indicus_
+p13 c0 10.2pt | _D._ _funicola_
+p13 c0 10.2pt | _Col._ _gracilis_
+p13 c0 10.2pt | _Col._ _carteri_
+p13 c0 10.2pt | _Col._ _causiiformis_
+p13 c0 10.2pt | _Col._ _bostrychodes_
+p13 c0 10.2pt | _Ch._ _testifimeti_
+p13 c0 10.2pt | _Ch._ _globosum_
+p13 c0 10.2pt | _Ch._ _elatum_
+p13 c0 10.2pt | _Ch._ _cochliodes_
+p13 c0 10.2pt | _Ch._ _coarctatum_
+p13 c0 10.2pt | _B._ _piluliferum_
+p13 c0 10.2pt | _B._ _murorum_
+p13 c0 10.2pt | _Ar._ _turgidopilosus_
+p13 c0 10.2pt | _Am._ _nigricolor_
+p13 c0 10.2pt | _Am._ _cymbiformis_
+p13 c0 10.2pt | _Am._ _atrobrunnea_
+p13 c0 10.2pt | **Species**
+
+=== page 14, left column ===
+p14 c0 10.2pt | _S._ _cristata_
+p14 c0 10.2pt | _O._ _pseudomollicella_
+p14 c0 10.2pt | _O._ _brasiliensis_
+p14 c0 10.2pt | _Melanocarpus_ _tardus_
+p14 c0 10.2pt | _Humicola_ sp.
+p14 c0 10.2pt | _H._ _olivacea_
+p14 c0 10.2pt | _D._ _variostiolatus_
+p14 c0 10.2pt | _D._ _subfunicola_
+p14 c0 10.2pt | _D._ _pseudofunicola_
+p14 c0 10.2pt | _D._ _pseudoerectus_
+p14 c0 10.2pt | _D._ _pratensis_
+p14 c0 10.2pt | _D._ _indicus_
+p14 c0 10.2pt | _D._ _funicola_
+p14 c0 10.2pt | _Col._ _gracilis_
+p14 c0 10.2pt | _Col._ _carteri_
+p14 c0 10.2pt | _Col._ _causiiformis_
+p14 c0 10.2pt | _Col._ _bostrychodes_
+p14 c0 10.2pt | _Ch._ _testifimeti_
+p14 c0 10.2pt | _Ch._ _globosum_
+p14 c0 10.2pt | _Ch._ _elatum_
+p14 c0 10.2pt | _Ch._ _cochliodes_
+p14 c0 10.2pt | _Ch._ _coarctatum_
+p14 c0 10.2pt | _B._ _piluliferum_
+p14 c0 10.2pt | _B._ _murorum_
+p14 c0 10.2pt | _Ar._ _turgidopilosus_
+p14 c0 10.2pt | _Am._ _nigricolor_
+p14 c0 10.2pt | _Am._ _cymbiformis_
+p14 c0 10.2pt | _Am._ _atrobrunnea_
+p14 c0 10.2pt | **Species**
+
+=== page 14, right column ===
+p14 c1 10.2pt | investigation with larger sampling is required to find the close
+p14 c1 10.2pt | relative(s) of this genus.
+p14 c1 10.2pt | **Amesia** **atrobrunnea** (Ames) X. Wei Wang & Samson, **comb.**
+p14 c1 10.2pt | **nov.** MycoBank MB818832. Fig. 3.
+p14 c1 10.2pt | _Basionym_: _Chaetomium_ _atrobrunneum_ Ames, Mycologia 41:
+p14 c1 10.2pt | 641. 1949.
+p14 c1 10.2pt | _Ascomata_ superficial, ostiolate, fuscous black to black in re-
+p14 c1 10.2pt | flected light, subglobose or ovate, 80–160 μm high, 70–140 μm
+p14 c1 10.2pt | diam. _Ascomatal_ _wall_ brown, _textura_ _angularis_ in surface view.
+p14 c1 10.2pt | _Terminal_ _hairs_ seta-like or flexuous, sometimes branched,
+p14 c1 10.2pt | smooth, brown, 2.5–4 μm diam. near the base. _Lateral_ _hairs_
+p14 c1 10.2pt | similar and shorter. _Asci_ fasciculate, clavate or fusiform, spore-
+p14 c1 10.2pt | bearing part 18.5–29 × 8.5–11.5 μm, stalks 9.5–21 μm long,
+p14 c1 10.2pt | with 8 irregularly arranged ascospores, evanescent._ Ascospores_
+p14 c1 10.2pt | olivaceous brown when mature, fusiform or elongate pyriform,
+p14 c1 10.2pt | (8–)8.5–10.5(–11) × 4.5–5.5(–6) μm, with an apical or slightly
+p14 c1 10.2pt | subapical germ pore at the more attenuated end._ Asexual morph_
+p14 c1 10.2pt | unknown.
+p14 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p14 c1 10.2pt | about 41–47 mm diam in 7 d at 25 °C, fuscous black to black
+p14 c1 10.2pt | owing to ascomata together with masses of ascoapores maturing
+p14 c1 10.2pt | within 7 d, without aerial mycelium, with fawn to greyish sepia
+p14 c1 10.2pt | exudates diffusing into the medium, reverse greyish sepia to
+p14 c1 10.2pt | black. Colonies on PCA with an entire edge, about 39–45 mm
+p14 c1 10.2pt | diam in 7 d at 25 °C, translucent, vinaceous buff and floccose
+p14 c1 10.2pt | due to ascomata mixed with aerial hyphae, without coloured
+p14 c1 10.2pt | exudates; reverse uncoloured. Colonies on MEA with an entire
+p14 c1 10.2pt | edge, about 36–42 mm diam in 7 d at 25 °C, with greyish white
+p14 c1 10.2pt | and floccose mycelium, looser and white to pale olivaceous buff
+p14 c1 10.2pt | texture in the central part due to ascomata mixed with aerial
+p14 c1 10.2pt | hyphae, reverse ochraceous. Colonies on DG18 with an entire
+p14 c1 10.2pt | edge, about 18–24 mm diam in 7 d at 25 °C, sterile, with white
+p14 c1 10.2pt | and floccose aerial mycelium, without coloured exudates;
+p14 c1 10.2pt | reverse uncoloured.
+p14 c1  8.1pt | _Specimens_ _examined_: **India**, isolated from air by Kamal; culture CBS 250.75.
+p14 c1  8.1pt | **Solomon Islands**, isolated from mouldy mattress by G.W. Martin and deposited
+p14 c1  8.1pt | in the CBS collection by H.K. Seth, ex-type culture CBS 379.66.
+p14 c1 10.2pt | _Notes_: Several isolates of this species have been reported to
+p14 c1 10.2pt | cause human systemic and deep infection (Abbott_ et al._ 1995, de
+p14 c1 10.2pt | Hoog_ et al._ 2013). Our previous temperature test (Li_ et al._ 2012)
+p14 c1 10.2pt | demonstrated its potential as an invasive human pathogen: the
+p14 c1 10.2pt | optimum growth temperature is 30–34 °C, and maximum growth
+p14 c1 10.2pt | temperature 47 °C.
+p14 c1 10.2pt | **Amesia cymbiformis** (Lodha) X. Wei Wang & Samson,** comb.**
+p14 c1 10.2pt | **nov.** MycoBank MB818833. Fig. 4.
+p14 c1 10.2pt | _Basionym_: _Chaetomium_ _cymbiforme_ Lodha, J. Indian Bot. Soc.
+p14 c1 10.2pt | 43:127. 1963.
+p14 c1 10.2pt | _Synonym_:_ Chaetomium serpentinum_ Ames ex Carter, Canad. J.
+p14 c1 10.2pt | Bot. 61: 2605. 1983.
+p14 c1 10.2pt | _Ascomata_ superficial, ostiolate, greyish sepia when young and
+p14 c1 10.2pt | olivaceous to dark olivaceous because of the ascospores mass
+p14 c1 10.2pt | in reflected light, subglobose or ovate, 95–180 μm high,
+p14 c1 10.2pt | 90–150 μm diam. _Ascomatal_ _wall_ brown, _textura_ _angularis_ in
+p14 c1 10.2pt | surface view. _Terminal_ _hairs_ flexuous, sometimes recurved,
+p14 c1 10.2pt | smooth, brown, 2–3.5 μm diam. near the base. _Lateral_ _hairs_
+
+=== page 15, left column ===
+p15 c0 10.2pt | flexuous and shorter._ Asci_ fasciculate, clavate or fusiform, spore-
+p15 c0 10.2pt | bearing part 16–26 × 10.5–13 μm, stalks 7–15 μm long, with 8
+p15 c0 10.2pt | irregularly arranged ascospores, evanescent. _Ascospores_
+p15 c0 10.2pt | olivaceous brown when mature, ovate or ellipsoidal, with atten-
+p15 c0 10.2pt | uated ends, (7–)8–9(–9.5) × (5.5–)6–6.5(–7) μm, with an
+p15 c0 10.2pt | apical or slightly subapical germ pore at the more attenuated
+p15 c0 10.2pt | end. _Asexual_ _morph_ unknown.
+p15 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p15 c0 10.2pt | about 33–39 mm diam in 7 d at 25 °C, translucent when young,
+p15 c0 10.2pt | then greenish olivaceous to olivaceous owing to ascomata
+p15 c0 10.2pt | together with masses of ascospores, without aerial mycelium,
+p15 c0 10.2pt | with olivaceous buff to pale luteous exudates diffusing into the
+p15 c0 10.2pt | medium, reverse pale luteous to grey olivaceous. Colonies on
+p15 c0 10.2pt | PCA with an entire edge, about 31–37 mm diam in 7 d at 25 °C,
+p15 c0 10.2pt | translucent, with loose and pale smoke grey aerial hyphae,
+p15 c0 10.2pt | without coloured exudates; reverse uncoloured. Colonies on
+p15 c0 10.2pt | MEA white with an entire edge, about 34–40 mm diam in 7 d at
+p15 c0 10.2pt | 25 °C, non-sporulating, with white and floccose aerial hyphae,
+p15 c0 10.2pt | without coloured exudates, reverse ochraceous. Colonies on
+p15 c0 10.2pt | DG18 white with an entire edge, about 11–17 mm diam in 7 d at
+p15 c0 10.2pt | 25 °C, non-sporulating, with white and floccose aerial mycelium,
+p15 c0 10.2pt | without coloured exudates; reverse uncoloured.
+p15 c0  8.1pt | _Specimens_ _examined_: **Solomon** **Islands**, isolated from tent rope, deposited in
+p15 c0  8.1pt | the CBS collection by J.C. Krug, culture CBS 175.84 (ex-culture of _Ch._ _ser-_
+p15 c0  8.1pt | _pentinum_).** USA**, Atlanta, isolated from case liner, deposited in the CBS collection
+p15 c0  8.1pt | by J.C. Krug, culture CBS 176.84.
+p15 c0 10.2pt | _Notes_:_ Amesia cymbiformis_ is closely related to_ Am. atrobrunnea_
+p15 c0 10.2pt | (Fig. 1), but can be easily distinguished from _Am._ _atrobrunnea_
+p15 c0 10.2pt | (Fig. 3) by the shape and size of its ascospores (Fig. 4). Isolate
+p15 c0 10.2pt | CBS 175.84 was originally studied by Ames and named as
+p15 c0 10.2pt | _C._ _serpentinum_ without description. Carter (1983) validly pub-
+p15 c0 10.2pt | lished this name after the description of_ Ch. cymbiforme_ that was
+p15 c0 10.2pt | originally isolated from cow dung in india (Lodha 1964). After
+p15 c0 10.2pt | studying the type specimen of_ Ch. cymbiforme_ and the ex-culture
+p15 c0 10.2pt | of _Ch._ _serpentinum_, von Arx _et_ _al_. (1986) synonymised _Ch._
+p15 c0 10.2pt | _cymbiforme_ with_ Ch. cymbiforme_. Here we followed von Arx_ et al_.
+p15 c0 10.2pt | (1986) to accept _Ch._ _cymbiforme_ as the _basionym_ of this
+p15 c0 10.2pt | species.
+p15 c0 10.2pt | **Amesia nigricolor** (Ames) X. Wei Wang & Samson,** comb. nov.**
+p15 c0 10.2pt | MycoBank MB818834. Fig. 5.
+p15 c0 10.2pt | _Basionym_: _Chaetomium_ _nigricolor_ Ames, Mycologia 42: 654.
+p15 c0 10.2pt | 1950.
+p15 c0 10.2pt | _Synonym_:_ Chaetomium amberpetense_ Rao & Reddy, Mycopath.
+p15 c0 10.2pt | Mycol. Appl. 24: 114. 1964.
+p15 c0 10.2pt | _Ascomata_ superficial, ostiolate, olivaceous grey in reflected light
+p15 c0 10.2pt | due to ascomatal hairs, subglobose to ovate, 140–300 μm high,
+p15 c0 10.2pt | 100–255 μm diam. _Ascomatal_ _wall_ brown, _textura_ _intricata_ or
+p15 c0 10.2pt | _epidermoidea_ in surface view._ Terminal hairs_ undulate to loosely
+p15 c0 10.2pt | coiled with erect or flexuous lower part, conspicuously rough
+p15 c0 10.2pt | (granulate), greyish sepia to brown, septate, 3–4.5 μm diam in
+p15 c0 10.2pt | the undulate or coiled upper portion. _Lateral_ _hairs_ flexuous, un-
+p15 c0 10.2pt | dulate or apically circinate. _Asci_ fasciculate, clavate to fusiform,
+p15 c0 10.2pt | spore-bearing part 13.5–21 × 7.5–10.5 μm, stalks 6–11.5 μm
+p15 c0 10.2pt | long, with 8 irregularly-arranged ascospores, evanescent. _As-_
+p15 c0 10.2pt | _cospores_ olivaceous brown when mature, ovate, (5.5–)
+p15 c0 10.2pt | 6–7(–7.5) × 4–5(–5.5) μm, with an apical germ pore at the
+p15 c0 10.2pt | attenuated end. _Asexual_ _morph_ unknown.
+
+=== page 15, right column ===
+p15 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p15 c1 10.2pt | 42–48 mm diam in 7 d at 25 °C, with sparse white aerial hyphae,
+p15 c1 10.2pt | with ochraceous to fulvous exudates diffusing into the medium,
+p15 c1 10.2pt | reverse pale luteous to amber. Colonies on PCA with entire
+p15 c1 10.2pt | edge, about 35–41 mm diam in 7 d at 25 °C, with sparse white to
+p15 c1 10.2pt | pale buff aerial hyphae; reverse uncoloured. Colonies on MEA
+p15 c1 10.2pt | with entire edge, about 47–53 mm diam in 7 d at 25 °C, with
+p15 c1 10.2pt | white floccose aerial mycelium, reverse sienna with pale edge.
+p15 c1 10.2pt | Colony on DG18 with entire edge, about 17–23 mm diam in 7 d
+p15 c1 10.2pt | at 25 °C, buff with sparse white aerial hyphae, without coloured
+p15 c1 10.2pt | exudates; reverse uncoloured.
+p15 c1  8.1pt | _Specimen examined_:** India**, Bihar, isolated from paper, culture CBS 291.83 (ex-
+p15 c1  8.1pt | type culture of _Ch._ _amberpetense_).
+p15 c1 10.2pt | _Notes_: _Amesia_ _nigricolor_ is morphologically similar to members
+p15 c1 10.2pt | of the genus _Ovatospora_, especially in ascospore morphology.
+p15 c1 10.2pt | This species differs in possessing ascospores attenuated at one
+p15 c1 10.2pt | end and slightly apiculate at the other end. In contrast, the as-
+p15 c1 10.2pt | cospores of the _Ovatospora_ species are attenuated at one and
+p15 c1 10.2pt | typically round at the other end. A few isolates of_ Am. nigricolor_
+p15 c1 10.2pt | were isolated from patients, both superficial and deep infections
+p15 c1 10.2pt | (de Hoog _et_ _al._ 2013).
+p15 c1 10.2pt | **Arcopilus** X. Wei Wang, Samson & Crous,** gen. nov.** MycoBank
+p15 c1 10.2pt | MB818835. Fig. 6.
+p15 c1 10.2pt | _Etymology_: Name refers to the arcuate terminal ascomatal hairs
+p15 c1 10.2pt | in most of the species in this genus.
+p15 c1 10.2pt | _Type_ _species_: _Arcopilus_ _aureus_ (Chivers) X. Wei Wang &
+p15 c1 10.2pt | Samson (= _Ch._ _aureum_)
+p15 c1 10.2pt | _Colonies_ usually with yellow to orange or red to rust exudates.
+p15 c1 10.2pt | _Ascomata_ superficial, ostiolate, subglobose or ovate with brown
+p15 c1 10.2pt | walls of_ textura angularis_ in surface view._ Terminal hairs_ usually
+p15 c1 10.2pt | arcuate, with apeces incurved, circinate to coiled. _Lateral_ _hairs_
+p15 c1 10.2pt | flexuous or apically incurved. _Asci_ fasciculate, clavate, with 8
+p15 c1 10.2pt | biseriate or irregularly arranged ascospores, evanescent. _As-_
+p15 c1 10.2pt | _cospores_ brown when mature, more or less inequilateral, fusi-
+p15 c1 10.2pt | form, elongate fusiform, navicular, reniform, lunate or limoniform,
+p15 c1 10.2pt | sometimes bilaterally flattened, with one or two apical germ
+p15 c1 10.2pt | pores. _Asexual_ _morph_ unknown.
+p15 c1 10.2pt | _Notes_: This genus usually has arcuate ascomatal hairs, and
+p15 c1 10.2pt | often exhibits a colourful colony due to its ascomata and exu-
+p15 c1 10.2pt | dates. Ascospores of the species in this genus are relatively
+p15 c1 10.2pt | diverse (Fig. 6). Only one indoor species was examined in detail
+p15 c1 10.2pt | in this study. More morphological research is required to delimit
+p15 c1 10.2pt | species within the genus.
+p15 c1 10.2pt | **Arcopilus** **turgidopilosus** (Ames) X. Wei Wang & Samson,
+p15 c1 10.2pt | **comb.** **nov.** MycoBank MB818836. Fig. 7.
+p15 c1 10.2pt | _Basionym_: _Chaetomium_ _turgidopilosum_ Ames, Mycologia 41:
+p15 c1 10.2pt | 639. 1949.
+p15 c1 10.2pt | _Ascomata_ superficial, ostiolate, citrine or greenish olivaceous in
+p15 c1 10.2pt | reflected light due to ascomatal hairs, then becoming greenish
+p15 c1 10.2pt | black due to ascospores aggregating on the top, subglobose or
+p15 c1 10.2pt | ovate, 95–155 μm high, 85–150 μm diam. _Ascomatal_ _wall_
+p15 c1 10.2pt | brown, _textura_ _angularis_, sometimes mixed with hypha-like or
+p15 c1 10.2pt | amorphous cells in surface view._ Terminal hairs_ arcuate, apically
+p15 c1 10.2pt | incurved, circinate to coiled, warty, or brown, distinctly septate,
+
+=== page 20, left column ===
+p20 c0 10.2pt | 3.5–6.5 μm diam near the base, partly ochraceous to cinnamon
+p20 c0 10.2pt | with the widest lower middle portion in 7–9 μm diam and a brown
+p20 c0 10.2pt | to dark brown tip; partly dark brown but fading and tapering to-
+p20 c0 10.2pt | wards the tips. _Lateral_ _hairs_ flexuous or recurved, ochraceous,
+p20 c0 10.2pt | fading and tapering towards the tips. _Asci_ fasciculate, clavate,
+p20 c0 10.2pt | spore-bearing portion 19–28 × 8.5–12 μm, stalks 8–15 μm
+p20 c0 10.2pt | long, with 8 ascospores, evanescent. _Ascospores_ dark brown
+p20 c0 10.2pt | when mature, limoniform, sometimes asymmetrical, bilaterally
+p20 c0 10.2pt | flattened, (8–)8.5–10.5(–11) × (6.5–)7–8(–8.5) × (5–)
+p20 c0 10.2pt | 5.5–6.5 μm, with apical germ pores at both ends._ Asexual morph_
+p20 c0 10.2pt | unknown.
+p20 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p20 c0 10.2pt | 30–36 mm diam in 7 d at 25 °C, with floccose white aerial hy-
+p20 c0 10.2pt | phae at the beginning, with amber to luteous exudates diffusing
+p20 c0 10.2pt | into the medium, reverse amber to luteous. Colonies on PCA
+p20 c0 10.2pt | with pale luteous to amber crenated edge, about 25–31 mm
+p20 c0 10.2pt | diam in 7 d at 25 °C, pale amber with floccose buff aerial hyphae
+p20 c0 10.2pt | mixed with ascomata, with amber exudates diffusing into the
+p20 c0 10.2pt | medium; reverse amber. Colonies on MEA with entire edge,
+p20 c0 10.2pt | about 34–40 mm diam in 7 d at 25 °C, with floccose white aerial
+p20 c0 10.2pt | mycelium, with red to pale rust exudates diffusing into the me-
+p20 c0 10.2pt | dium, reverse rust. Colony growth on DG18 pale rosy buff with
+p20 c0 10.2pt | entire edge, about 7–13 mm diam in 7 d at 25 °C, without
+p20 c0 10.2pt | coloured exudates; reverse uncoloured.
+p20 c0  8.1pt | _Specimen examined_:** USA**, isolated from top of storage tent by G.W. Martin, ex-
+p20 c0  8.1pt | type culture CBS 169.52.
+p20 c0 10.2pt | _Notes_: The ascospores of _Ar._ _turgidopilosus_ are sometimes
+p20 c0 10.2pt | asymmetrical, but less inequilateral than most of the other spe-
+p20 c0 10.2pt | cies known in this genus (Fig. 6). Furthermore, this species is
+p20 c0 10.2pt | distinct from the other species by its swollen ascomatal hairs
+p20 c0 10.2pt | (Fig. 7I). Phylogenetic inference places this species in a basal
+p20 c0 10.2pt | position to the other known species in the genus.
+p20 c0 10.2pt | **Botryotrichum** Sacc. & Marchal,_ Bull. Soc. R. Bot. Belg._ 24(1):
+p20 c0 10.2pt | 66. 1885.
+p20 c0 10.2pt | _Synonym_: _Emilmuelleria_ Arx, Sydowia 38: 6. 1985.
+p20 c0 10.2pt | _Type_ _species_: _Botryotrichum_ _piluliferum_ Sacc. & Marchal
+p20 c0 10.2pt | _Notes_: _Botryotrichum_ _piluliferum_ was first described as an
+p20 c0 10.2pt | asexual species based on an isolate from Belgium (Saccardo
+p20 c0 10.2pt | 1886). Daniels (1961) induced perithecia from soil-buried cellu-
+p20 c0 10.2pt | lose films with a culture of_ B. piluliferum_, and named the induced
+p20 c0 10.2pt | organism as _Ch._ _piluliferum_, the sexual morph of _B._ _piluliferum_.
+p20 c0 10.2pt | _Chaetomium_ _piluliferum_ was noted to be closely related to _Ch._
+p20 c0 10.2pt | _murorum_ by ellipsoid ascospores and unbranched ascomatal
+p20 c0 10.2pt | hairs with circinate tips (Daniels 1961, von Arx_ et al._ 1986). Our
+p20 c0 10.2pt | phylogenetic analyses strongly support a monophyletic lineage
+p20 c0 10.2pt | containing _B._ _piluliferum_, two other _Botryotrichum_ species, _Ch._
+p20 c0 10.2pt | _murorum_ and _E._ _spirotricha_, the type species of the monotypic
+p20 c0 10.2pt | genus_ Emilmuelleria_. This lineage is more closely related to the
+p20 c0 10.2pt | genus _Subramaniula_ than to the other lineages in the _Chaeto-_
+p20 c0 10.2pt | _miaceae_. Since their sister relationships received low bootstrap
+p20 c0 10.2pt | support (MP-BS = 54), we prefer to keep these two clades as two
+p20 c0 10.2pt | separate genera for now.
+
+=== page 20, right column ===
+p20 c1 10.2pt | Three indoor species of _Botryotrichum_ are described below.
+p20 c1 10.2pt | More research based on a higher number of strains and species
+p20 c1 10.2pt | is required to better delimit this genus.
+p20 c1 10.2pt | **Botryotrichum** **murorum** (Corda) X. Wei Wang & Samson,
+p20 c1 10.2pt | **comb.** **nov.** MycoBank MB818837. Figs 8, 9.
+p20 c1 10.2pt | _Basionym_: _Chaetomium_ _murorum_ Corda, Icon. Fung. 1: 24.
+p20 c1 10.2pt | 1837.
+p20 c1 10.2pt | _Ascomata_ superficial, ostiolate, grey olivaceous, olivaceous to
+p20 c1 10.2pt | brown vinaceous in reflected light due to ascomatal hairs, sub-
+p20 c1 10.2pt | globose or ovate, 160–320 μm high, 150–270 μm diam. _Asco-_
+p20 c1 10.2pt | _matal_ _wall_ brown, _textura_ _intricata_ or _epidermoidea_ in surface
+p20 c1 10.2pt | view._ Terminal hairs_ usually over four times longer than ascoma,
+p20 c1 10.2pt | flexuous or undulate, often circinate at the apex (DTO 324-G9,
+p20 c1 10.2pt | Fig. 8), or undulate, usually apically straight, occasionally
+p20 c1 10.2pt | recurved or circinate at the apex (DTO 333-E6, Fig. 9), oliva-
+p20 c1 10.2pt | ceous brown, smooth, 4.5–7.5 μm diam near the base, up to
+p20 c1 10.2pt | about 3 mm long._ Lateral hairs_ seta-like, shorter._ Asci_ fasciculate,
+p20 c1 10.2pt | fusiform, sometimes clavate, spore-bearing portion
+p20 c1 10.2pt | 27–45 × 12.5–19 μm, stalks 12–36 μm long, with 8 irregularly-
+p20 c1 10.2pt | arranged ascospores, evanescent._ Ascospores_ olivaceous brown
+p20 c1 10.2pt | when mature, ellipsoidal-fusiform, (12–)12.5–15(–16.5) × (7–)
+p20 c1 10.2pt | 7.5–8.5 μm, with an apical germ pore._ Asexual morph_ unknown.
+p20 c1 10.2pt | _Culture characteristics_: Colonies on OA with a lobate or crenated
+p20 c1 10.2pt | edge, about 32–39 mm diam in 7 d at 25 °C, with sparse smoke
+p20 c1 10.2pt | grey aerial hyphae mixed with pale olivaceous grey ascomata,
+p20 c1 10.2pt | with vinaceous buff to livid purple or livid violet exudates diffusing
+p20 c1 10.2pt | into the medium, reverse pale purplish grey to fuscous black.
+p20 c1 10.2pt | Colonies on PCA showing an entire or slightly crenated edge with
+p20 c1 10.2pt | aerial hyphae olivaceous buff (DTO 324-G9, Fig. 8), or showing a
+p20 c1 10.2pt | irregularly or radially striated with lobate edge without aerial hy-
+p20 c1 10.2pt | phae (DTO 333-E6, Fig. 9), with a few concentric and lobate rings
+p20 c1 10.2pt | on it, about 24–34 mm diam in 7 d at 25 °C, without coloured
+p20 c1 10.2pt | exudates; reverse olivaceous buff to honey. Colonies on MEA with
+p20 c1 10.2pt | a slightly undulate or lobate edge, about 30–37 mm diam in 7 d at
+p20 c1 10.2pt | 25 °C, possessing white and floccose with radial furrows (DTO
+p20 c1 10.2pt | 324-G9, Fig. 8) or pale olivaceous grey to white and floccose
+p20 c1 10.2pt | mycelium with concentric and floral or irregular rings on it (DTO
+p20 c1 10.2pt | 333-E6, Fig. 9), non-sporulating, without coloured exudates;
+p20 c1 10.2pt | reverse uncoloured at the beginning, then ochraceous, umber to
+p20 c1 10.2pt | cinnamon. Colonies on DG18 with an irregularly crenated edge,
+p20 c1 10.2pt | about 9–17 mm diam in 7 d at 25 °C, pale buff to buff, wrinkled on
+p20 c1 10.2pt | the surface, without aerial hyphae, non-sporulating, without col-
+p20 c1 10.2pt | oured exudates; reverse uncoloured to pale luteous.
+p20 c1  8.1pt | _Specimens_ _examined_: **China**, isolated from air by A.J. Chen, culture DTO 324-
+p20 c1  8.1pt | G9.** Denmark**, isolated from ceiling tile by B. Andersen, culture DTO 333-E6 (=
+p20 c1  8.1pt | IBT 42175).
+p20 c1 10.2pt | _Notes_: Isolates DTO 324-G9 and DTO 333-E6 have different
+p20 c1 10.2pt | colony morphologies and ascomatal hairs. The ascospores of
+p20 c1 10.2pt | DTO 324-G9 are also slightly bigger than those of DTO 333-E6.
+p20 c1 10.2pt | However, the phylogenetic analysis did not show any sequence
+p20 c1 10.2pt | differences between them, suggesting that the differences
+p20 c1 10.2pt | mentioned above represent the morphological diversity within the
+p20 c1 10.2pt | species.
+
+=== page 23, left column ===
+p23 c0 10.2pt | **Botryotrichum** **peruvianum** Matsush., Icon. Microfung. Mat-
+p23 c0 10.2pt | sush. Lect. (Kobe): 17. 1975. Fig. 10.
+p23 c0 10.2pt | _Sexual_ _morph_ unknown. _Sterile_ _setae_ often solitary, sometimes
+p23 c0 10.2pt | clustered with conidiophores, brown, verrucose, erect, flexuous
+p23 c0 10.2pt | or undulate, unbranched, 2.5–4.5 μm diam near the base, up to
+p23 c0 10.2pt | 2 200 μm long._ Conidiophores_ descrete or clustered with a tuft of
+p23 c0 10.2pt | setae, hyaline, occasionally ochraceous, 2–4.5 μm near the
+p23 c0 10.2pt | base, up to 60 μm long, usually sympodially branched to produce
+p23 c0 10.2pt | several conidiogenous cells. _Conidiogenous_ _cells_ terminal or
+p23 c0 10.2pt | intercalary, monoblastic or sympodially polyblastic, cylindrical to
+p23 c0 10.2pt | degenerated form like a broad denticle, 0–14.5 × 2–3.5 μm,
+p23 c0 10.2pt | sometimes swollen beneath the conidium. _Conidia_ single, oc-
+p23 c0 10.2pt | casionally two to three in chains, globose to subglobose, hyaline
+p23 c0 10.2pt | when young, then becoming pale luteous to ochraceous,
+p23 c0 10.2pt | conspicuously roughtened, (10–)12–16(–17.5) μm diam.
+p23 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p23 c0 10.2pt | 36–41 mm diam in 7 d at 25 °C, with sparse white aerial hyphae,
+p23 c0 10.2pt | and then becoming ochraceous to pale mouse grey because of
+p23 c0 10.2pt | the formation of groups of conidia and setae, without coloured
+p23 c0 10.2pt | exudates; reverse uncoloured. Colonies on PCA with an undu-
+p23 c0 10.2pt | late to lobate edge, about 22–28 mm diam in 7 d at 25 °C, with
+p23 c0 10.2pt | sparse white aerial hyphae, pale luteous in the centre, without
+p23 c0 10.2pt | coloured exudates; reverse honey in the centre. Colonies on
+p23 c0 10.2pt | MEA with a slightly lobate edge, about 21–28 mm diam in 7 d at
+p23 c0 10.2pt | 25 °C, with floccose, buff to pale ochraceous aerial hyphae,
+p23 c0 10.2pt | greyish sepia in the centre; without coloured exudates; reverse
+p23 c0 10.2pt | ochraceous to umber. Colonies on DG18 buff to honey, with a
+p23 c0 10.2pt | slightly crenated edge, about 9–15 mm diam in 7 d at 25 °C,
+p23 c0 10.2pt | slightly winkled without aerial hyphae; without coloured exudates;
+p23 c0 10.2pt | reverse buff.
+p23 c0  8.1pt | _Specimen_ _examined:_ **Cuba**, isolated from air by R. Casta~neda, culture CBS
+p23 c0  8.1pt | 421.93.
+p23 c0 10.2pt | _Note_: This species can be distinguished from _B._ _piluliferum_ by
+p23 c0 10.2pt | conspicuously roughened and pigmented conidia and by longer
+p23 c0 10.2pt | setae.
+p23 c0 10.2pt | **Botryotrichum** **piluliferum** Sacc. & Marchal,_ Bull. Soc. R. Bot._
+p23 c0 10.2pt | _Belg._ 24(1): 66. 1885. Fig. 11.
+p23 c0 10.2pt | _Synonym_: _Chaetomium_ _piluliferum_ Daniels, Trans. Br. Mycol.
+p23 c0 10.2pt | Soc. 44: 84. 1961.
+p23 c0 10.2pt | _Sexual_ _morph_ absence in the examined specimens. _Sterile_
+p23 c0 10.2pt | _setae_ solitary or in group from the hyaline hypha, brown,
+p23 c0 10.2pt | verrucose, erect or flexuous, unbranched or branched near the
+p23 c0 10.2pt | base, 3.5–7.5 μm diam near the base, usually less than 300 μm
+p23 c0 10.2pt | long, occasionally up to 690 μm long. _Conidiophores_ usually
+p23 c0 10.2pt | produced together with a tuft of setae, or descreate, hyaline,
+p23 c0 10.2pt | occasionally ochraceous, 3–5 μm near the base, up to 40 μm
+p23 c0 10.2pt | long, usually sympodially branched to produce several con-
+p23 c0 10.2pt | idiogenous cells. _Conidiogenous_ _cells_ terminal or intercalary,
+p23 c0 10.2pt | monoblastic or sympodially polyblastic, cylindrical to broad
+p23 c0 10.2pt | denticle, more or less constricted at the base, 0–13 × 2–4.5 μm.
+p23 c0 10.2pt | _Conidia_ usually single, globose to subglobose, hyaline, occa-
+p23 c0 10.2pt | sionally ochraceous to umber, smooth to slightly roughtened,
+p23 c0 10.2pt | (9–)11–17.5(–18.5) μm diam.
+
+=== page 23, right column ===
+p23 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with an irregularly
+p23 c1 10.2pt | fimbriate edge, 22–28 mm diam in 7 d at 25 °C, with white and
+p23 c1 10.2pt | sparsely floccose aerial hyphae and then partially becoming pale
+p23 c1 10.2pt | mouse grey because of the formation of groups of setae, without
+p23 c1 10.2pt | coloured exudates; reverse uncoloured. Colonies on PCA with
+p23 c1 10.2pt | entire or slightly undulate edge, about 18–24 mm diam in 7 d at
+p23 c1 10.2pt | 25 °C, with white to buff, floccose aerial hyphae, without coloured
+p23 c1 10.2pt | exudates; reverse honey to pale luteous. Colonies on MEA with
+p23 c1 10.2pt | an entire edge, about 25–31 mm diam in 7 d at 25 °C, with
+p23 c1 10.2pt | floccose, white to rosy buff aerial hyphae; without coloured ex-
+p23 c1 10.2pt | udates; reverse ochraceous. Colonies on DG18 buff to honey,
+p23 c1 10.2pt | with an entire or lobate edge, about 7–13 mm diam in 7 d at
+p23 c1 10.2pt | 25 °C, winkled without aerial hyphae; without coloured exudates;
+p23 c1 10.2pt | reverse luteous.
+p23 c1  8.1pt | _Specimens examined_:** Netherlands**, isolated from a wall, cultures DTO 194-F7,
+p23 c1  8.1pt | DTO 254-B8, DTO 254-B9.
+p23 c1 10.2pt | _Notes_: The indoor isolates match the original description of
+p23 c1 10.2pt | _B._ _piluliferum_ (Saccardo 1886). According to the observation of
+p23 c1 10.2pt | Daniels (1961), aside from the ascomata, the asexual morph of
+p23 c1 10.2pt | _Ch. piluliferum_ produced two different types of asexual structures:
+p23 c1 10.2pt | one (text and fig. 1 in Daniels 1961) was similar to the description
+p23 c1 10.2pt | above, another was acremonium-like with hyaline conidia forming
+p23 c1 10.2pt | in chains on simple and hyaline phialides (text and fig. 2 in Daniels
+p23 c1 10.2pt | 1961). In our study, neither ascomata nor an acremonium-like
+p23 c1 10.2pt | morph was observed in the cultures of the indoor isolates.
+p23 c1 10.2pt | **Chaetomium** Kunze, Mykol. Hefte 1: 16. 1817.
+p23 c1 10.2pt | _Ascomata_ globose, ellipsoid to ovate or obovate, ostiolate or
+p23 c1 10.2pt | non-ostiolate in a few species, with walls usually composed of
+p23 c1 10.2pt | _textura_ _intricata_ or _epidermoidea_ in surface view, or of _textura_
+p23 c1 10.2pt | _angularis_ in a few species._ Ascomatal hairs_ hypha-like, flexuous,
+p23 c1 10.2pt | undulate, coiled to simply or dichotomously branched, with
+p23 c1 10.2pt | verrucose surface, or smooth in a few species. _Asci_ clavate or
+p23 c1 10.2pt | fusiform with 8 biseriate or irregularly arranged ascospores,
+p23 c1 10.2pt | evanescent._ Ascospores_ limoniform to globose, or irregular in a
+p23 c1 10.2pt | few species, bilaterally flattened, usually more than 7 μm in
+p23 c1 10.2pt | length. _Asexual_ _morphs_, if present, acremonium-like.
+p23 c1 10.2pt | _Type_ _species_: _Chaetomium_ _globosum_ Kunze.
+p23 c1 10.2pt | _Notes_: Since Saccardo (1882) separated _Chaetomidium_ from
+p23 c1 10.2pt | _Chaetomium_ as a distinct genus, _Chaetomium_ had been
+p23 c1 10.2pt | defined to be a genus possessing typical ostiolate ascomata for
+p23 c1 10.2pt | over 100 years. Robust phylogenetic evidence (Wang _et_ _al._
+p23 c1 10.2pt | 2016) indicated that three species of _Chaetomidium_, including
+p23 c1 10.2pt | its type species _Ch._ _fi__meti_, clustered in the _Chaetomium_ _glo-_
+p23 c1 10.2pt | _bosum_ species complex. The data generated in this study
+p23 c1 10.2pt | further proved that the traditional morphologically-defined
+p23 c1 10.2pt | _Chaetomium_ (Ames 1963, von Arx _et_ _al._ 1986) has been
+p23 c1 10.2pt | divided into several different lineages which are intermingled
+p23 c1 10.2pt | with several other genera in the _Chaetomiaceae_. On the other
+p23 c1 10.2pt | hand, the monophyly of the _Chaetomium_ _globosum_ species
+p23 c1 10.2pt | complex was confirmed by the phylogenetic analysis based on
+p23 c1 10.2pt | the expanded dataset in this study (Fig. 1), thus the genus
+p23 c1 10.2pt | _Chaetomium_ is restricted to the_ Chaetomium_ _globosum_ species
+p23 c1 10.2pt | complex.
+
+=== page 28, left column ===
+p28 c0 10.2pt | Six indoor species were recognised in this genus.
+p28 c0 10.2pt | **Chaetomium cervicicola** X. Wei Wang_ et al.,_ Persoonia 36: 93.
+p28 c0 10.2pt | 2016.
+p28 c0 10.2pt | Culture sterile.
+p28 c0  8.1pt | _Specimen_ _examined_: **Mexico**, isolated from dust, culture DTO 318-G6.
+p28 c0 10.2pt | _Notes_: This isolate phylogenetically clustered in the _Ch._ _cervi-_
+p28 c0 10.2pt | _cicola_ clade. The ex-type culture CBS 128492 was also sterile.
+p28 c0 10.2pt | See phylogenetic description in Wang _et_ _al._ (2016).
+p28 c0 10.2pt | **Chaetomium** **coarctatum** Sergejeva, Not. Syst. sect. Crypt.
+p28 c0 10.2pt | Inst. Bot. Acad. Sci. U.S.S.R. 14: 146. 1961. Fig. 12.
+p28 c0 10.2pt | _Ascomata_ superficial, ostiolate, greyish white to olivaceous buff
+p28 c0 10.2pt | in reflected light owing to ascomatal hairs, subglobose,
+p28 c0 10.2pt | 320–480 μm high, 250–390 μm diam. _Ascomatal_ _wall_ brown,
+p28 c0 10.2pt | _textura_ _epidermoidea_ or_ intricata_ in surface view._ Terminal_ _hairs_
+p28 c0 10.2pt | conspicuously rough, brown, undulate, 3–4 μm near the base
+p28 c0 10.2pt | and tapering towards the tips. _Lateral_ _hairs_ erect or flexuous,
+p28 c0 10.2pt | tapering towards the tips. _Asci_ fasciculate, fusiform or clavate,
+p28 c0 10.2pt | spore-bearing part 31–43 × 14–21 μm, stalks 20–38 μm
+p28 c0 10.2pt | long, with 8 irregularly-arranged ascospores, evanescent.
+p28 c0 10.2pt | _Ascospores_ olivaceous brown when mature, broad limoniform
+p28 c0 10.2pt | to nearly globose, biapiculate, bilaterally flattened, (9–)
+p28 c0 10.2pt | 10–12 × 9.5–11(–11.5) × (6–)6.5–7.5(–8) μm, with an apical
+p28 c0 10.2pt | germ pore. _Asexual_ _morph_ unknown.
+p28 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p28 c0 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with sparse
+p28 c0 10.2pt | white to buff aerial hyphae and pale greenish olivaceous to
+p28 c0 10.2pt | greenish olivaceous or citrine exudates diffusing into the me-
+p28 c0 10.2pt | dium; reverse ochraceous to citrine. Colonies on PCA honey to
+p28 c0 10.2pt | yellow with an irregular, fimbriate or rhizoid edge, about
+p28 c0 10.2pt | 42–48 mm diam in 7 d at 25 °C, with spare and pale luteous
+p28 c0 10.2pt | aerial hyphae, with amber exudates diffusing into the medium;
+p28 c0 10.2pt | reverse amber to luteous. Colonies on MEA buff with an entire
+p28 c0 10.2pt | edge, spreading rapidly, over 70 mm diam in 7 d at 25 °C, with
+p28 c0 10.2pt | floccose, greyish white aerial hyphae; reverse pale luteous to
+p28 c0 10.2pt | luteous owing to exudates diffusing into the medium. Colonies on
+p28 c0 10.2pt | DG18 buff or honey, with a thinner and irregular lobate or
+p28 c0 10.2pt | petaloid perisphere, about 17–23 mm diam in 7 d at 25 °C, with
+p28 c0 10.2pt | sparse white aerial hyphae; reverse scarlet owing to exudates
+p28 c0 10.2pt | diffusing into the medium.
+p28 c0  8.1pt | _Specimen examined_:** China**, Beijing, isolated from air by A.J. Chen, culture DTO
+p28 c0  8.1pt | 324-H2.
+p28 c0 10.2pt | _Note_: The morphology of the indoor isolates studied here fits with
+p28 c0 10.2pt | that of the ex-type culture, CBS 162.62 (fig. 8 in Wang _et_ _al._
+p28 c0 10.2pt | 2016), indicating that this species has a relatively stable
+p28 c0 10.2pt | morphology.
+p28 c0 10.2pt | **Chaetomium** **cochliodes** Palliser, North Amer. Flora 3:61.
+p28 c0 10.2pt | 1910. Fig. 13.
+p28 c0 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to dark
+p28 c0 10.2pt | citrine in reflected light owing to ascomatal hairs, ellipsoid or
+p28 c0 10.2pt | subglobose, 200–440 μm high, 140–420 μm diam. _Ascomatal_
+
+=== page 28, right column ===
+p28 c1 10.2pt | _wall_ brown, _textura_ _intricata_ in surface view. _Terminal_ _hairs_
+p28 c1 10.2pt | conspicuously rough, dark brown, erect in the lower part,
+p28 c1 10.2pt | 3.5–6 μm near the base, tapering and fading towards the tips,
+p28 c1 10.2pt | spirally coiled in the upper part, usually with coils regularly
+p28 c1 10.2pt | tapering in diameter towards the tips, occasionally with coiled
+p28 c1 10.2pt | branches. _Lateral_ _hairs_ brown, flexuous, undulate or loosely
+p28 c1 10.2pt | coiled, tapering and fading towards the tips. _Asci_ fasciculate,
+p28 c1 10.2pt | fusiform or clavate, spore-bearing part 30–45 × 13.5–21 μm,
+p28 c1 10.2pt | stalks 28–56 μm long, with 8 biseriate ascospores, evanescent.
+p28 c1 10.2pt | _Ascospores_ brown when mature, limoniform, usually biapiculate
+p28 c1 10.2pt | at both ends, bilaterally flattened, (8.5–)9–10.5(–11) × (7–)
+p28 c1 10.2pt | 7.5–9(–9.5) × 5.5–6.5 μm, with an apical germ pore. _Asexual_
+p28 c1 10.2pt | _morph_ unknown.
+p28 c1 10.2pt | _Culture characteristics_: Colonies on OA with an entire edge and
+p28 c1 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, usually with
+p28 c1 10.2pt | sparse buff and floccose aerial hyphae, then without aerial hy-
+p28 c1 10.2pt | phae when ascomata manure, with pale luteous or pale amber to
+p28 c1 10.2pt | citrine exudates diffusing into the medium, reverse pale amber to
+p28 c1 10.2pt | pale citrine. Colonies on PCA with a fimbriate to rhizoid edge,
+p28 c1 10.2pt | about 52–58 mm diam in 7 d at 25 °C, appearing olivaceous buff
+p28 c1 10.2pt | to greenish olivaceous texture owing to ascomata mixed with
+p28 c1 10.2pt | sparse aerial hyphae, with pale greenish olivaceous to pale
+p28 c1 10.2pt | luteous exudates diffusing into the medium; reverse honey to
+p28 c1 10.2pt | olivaceous buff. Colonies on MEA with an entire edge and
+p28 c1 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with sparse
+p28 c1 10.2pt | white or greyish white and floccose aerial hyphae, with citrine
+p28 c1 10.2pt | exudates diffusing into the medium, reverse sienna with pale
+p28 c1 10.2pt | perisphere. Colony growth on DG18 with a slightly undulate
+p28 c1 10.2pt | edge, about 19–25 mm diam in 7 d at 25 °C, buffish white and
+p28 c1 10.2pt | floccose with white edge, without coloured exudates; reverse
+p28 c1 10.2pt | uncoloured.
+p28 c1  8.1pt | _Specimens_ _examined_: **Netherlands**, Maastricht, isolated from air, culture DTO
+p28 c1  8.1pt | 013-C2; Eindhoven, isolated from air, culture DTO 089-E2. **South** **Africa**, iso-
+p28 c1  8.1pt | lated from dust, cultures DTO 319-B5 and DTO 319-B6.** USA**, isolated from dust,
+p28 c1  8.1pt | cultures DTO 318-H2, DTO 318-H4, DTO 318-H5, DTO 318-H7, DTO 318-H8,
+p28 c1  8.1pt | DTO 318-I1, 318-I3, DTO 318-I5, DTO 318-I6, DTO 318-I8, DTO 318-I9 and DTO
+p28 c1  8.1pt | 319-A1. The description above is based on the isolate DTO 318-I1.
+p28 c1 10.2pt | _Notes_: This is a common indoor species, especially in the USA.
+p28 c1 10.2pt | The indoor isolates showed consistent morphology, fitting with
+p28 c1 10.2pt | that of _Ch._ _cochliodes_ (ex-epitype CBS 155.52, fig. 9 in Wang
+p28 c1 10.2pt | _et_ _al._ 2016).
+p28 c1 10.2pt | **Chaetomium** **elatum** Kunze, Deutsche Schw€amme 8: 3, No.
+p28 c1 10.2pt | 184. 1818. Figs 14, 15.
+p28 c1 10.2pt | _Ascomata_ superficial, ostiolate often covered by sparse white or
+p28 c1 10.2pt | buff aerial hyphae, grey olivaceous to isabelline in reflected
+p28 c1 10.2pt | light, globose or obovate, 280–440 μm high, 255–380 μm
+p28 c1 10.2pt | diam. _Ascomatal_ _wall_ brown, composed of hypha-like or
+p28 c1 10.2pt | amorphous cells, _textura_ _intricata_ or _textura_ _epidermoidea_ in
+p28 c1 10.2pt | surface view. _Terminal_ _hairs_ verrucose or warty, dark brown,
+p28 c1 10.2pt | tapering and fading towards the tips, erect or flexuous in the
+p28 c1 10.2pt | lower part, 3–5 μm diam near the base, repeatedly and
+p28 c1 10.2pt | dichotomously branched at right to nearly straight angles in the
+p28 c1 10.2pt | upper part, with erect to flexuous (DTO 319-B3) or undulate
+p28 c1 10.2pt | (DTO 318-H9) terminal branches taping and fading towards the
+p28 c1 10.2pt | tips. _Lateral_ _hairs_ brown, erect or flexuous, occasionally un-
+p28 c1 10.2pt | dulate, tapering towards the tips. _Asci_ fasciculate, clavate or
+
+=== page 29, left column ===
+p29 c0 10.2pt | fusiform, spore-bearing part 36–49 × 12.5–16.5 μm, stalks
+p29 c0 10.2pt | 24–55 μm long, with 8 biseriate ascospores, evanescent. _As-_
+p29 c0 10.2pt | _cospores_ brown when mature, limoniform, biapiculate or um-
+p29 c0 10.2pt | bonate, bilaterally flattened, (10–)11.5–13.5(–16) × (8–)
+
+=== page 29, right column ===
+p29 c1 10.2pt | 8.5–10(–11) × (6.5–)7–8 μm, with an apical germ pore.
+p29 c1 10.2pt | _Asexual_ _morph_ acremonium-like. _Conidiophores_ phialidic,
+p29 c1 10.2pt | formed laterally from aerial hyphae, simple, 6–24.5 μm long,
+p29 c1 10.2pt | 1.5–3.5 μm diam at the base. _Conidia_ formed basipetally in
+
+=== page 31, left column ===
+p31 c0 10.2pt | chains, hyaline, aseptate, smooth, ovate, often with a truncated
+p31 c0 10.2pt | base and a rounded apex, (2–)2.5–4(–5.5) × 1.5–2(–2.5) μm.
+p31 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge and
+p31 c0 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with sparse,
+p31 c0 10.2pt | honey to greenish olivaceous aerial hyphae (DTO 319-B3), or
+p31 c0 10.2pt | forming sparse or radially sectorial, white to buff and floccose
+p31 c0 10.2pt | aerial hyphae (DTO 318-H9), without coloured exudates when
+p31 c0 10.2pt | young, or with greyish yellow-green, olivaceous buff to honey
+p31 c0 10.2pt | exudates diffusing into the medium, reverse honey to greenish
+p31 c0 10.2pt | olivaceous. Colonies on PCA pale luteous to luteous, with
+p31 c0 10.2pt | irregularly deep lobate edge, about 52–61 mm diam in 7 d at
+p31 c0 10.2pt | 25 °C, aerial hyphae sparse and honey, with luteous exudates
+p31 c0 10.2pt | diffusing into the medium; reverse pale luteous to amber. Col-
+p31 c0 10.2pt | onies on MEA forming pale honey, citrine green to citrine and
+p31 c0 10.2pt | floccose mycelium with entire edge, about 58–66 mm diam in
+p31 c0 10.2pt | 7 d at 25 °C, reverse citrine green to citrine. Colony growth on
+p31 c0 10.2pt | DG18 forming white to buff aerial hyphae, with slightly lobate or
+p31 c0 10.2pt | rhizoid edge, 18–23 mm diam in 7 d at 25 °C, non-sporulating,
+p31 c0 10.2pt | without coloured exudates; reverse buff.
+p31 c0  8.1pt | _Specimens_ _examined_: **Australia**, isolated from dust, culture DTO 319-B3.
+p31 c0  8.1pt | **Denmark**, isolated from cardboard by B. Andersen,** neotype designated here,**
+p31 c0  8.1pt | herbarium CBS H-22851, MBT 373430, culture ex-neotype CBS 142034 = DTO
+p31 c0  8.1pt | 333-E9 (= IBT 42179); from dust, culture DTO 333-E5 (= IBT 41944); from
+p31 c0  8.1pt | gypsum, culture DTO 333-F8 (= IBT 42329). **USA**, isolated from dust, cultures
+p31 c0  8.1pt | DTO 318-G7; DTO 318-H9.
+p31 c0 10.2pt | _Notes: Chaetomium elatum_ was originally described based on an
+p31 c0 10.2pt | isolate collected from dead leaves in Germany. Our attempt to
+p31 c0 10.2pt | find the holotype of_ Ch. elatum_ housed in B (Botanischer Garten
+p31 c0 10.2pt | und Botanisches Museum Berlin-Dahlem, Zentraleinrichtung der
+p31 c0 10.2pt | Freien Universit€at Berlin) was unsuccessful because the asco-
+p31 c0 10.2pt | mycete collection was partly destroyed by a fire in 1943, in which
+p31 c0 10.2pt | the holotype of _Ch._ _globosum_ might have been included.
+p31 c0 10.2pt | Therefore, a dried culture, CBS H-22851 from DTO 333-E9, is
+p31 c0 10.2pt | designated here as neotype of_ Ch. elatum_, which was collected
+p31 c0 10.2pt | in Denmark geographically close to the collection location of the
+p31 c0 10.2pt | holotype.
+p31 c0 10.2pt | As in our previous study (Wang_ et al._ 2016), the phylogenetically
+p31 c0 10.2pt | defined _Ch._ _elatum_ showed a diverse morphology in terminal
+p31 c0 10.2pt | ascomatal hairs. For example, CBS 910.70 (ex-type cultue of_ Ch._
+p31 c0 10.2pt | _ramipilosum_) exhibits relatively slender and flexible terminal hairs
+p31 c0 10.2pt | (2.5–4.5 μm diam near the base, fig. 10 in Wang _et_ _al._ 2016),
+p31 c0 10.2pt | while DTO 319-B3, DTO 318-H9 and DTO 333-E9 exhibit rela-
+p31 c0 10.2pt | tively rigid terminal hairs which are more similar to _Ch._ _rec-_
+p31 c0 10.2pt | _tangulare_. Also DTO 319-B3 has erect to flexuous terminal
+p31 c0 10.2pt | branches of the hairs (Fig. 14), while DTO 318-H9 and DTO 333-
+p31 c0 10.2pt | E9 have undulate terminal branches of the hairs (Fig. 15).
+p31 c0 10.2pt | However,_ Ch. rectangulare_ can be distinguished from_ Ch. elatum_
+p31 c0 10.2pt | by smaller ascospores (10–11 × 7–9 × 6–7.5 μm) and thicker
+p31 c0 10.2pt | terminal hairs (4.5–7 μm diam near the base fig. 28 in Wang
+p31 c0 10.2pt | _et_ _al._ 2016).
+p31 c0 10.2pt | **Chaetomium globosum** Kunze, Mykol. Hefte 1: 16. 1817. Figs
+p31 c0 10.2pt | 16–18.
+
+=== page 31, right column ===
+p31 c1 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous (DTO 319-
+p31 c1 10.2pt | B2), or slightly dark olivaceous buff to grey (DTO 333-E3), or
+p31 c1 10.2pt | dull green (CBS 666.82) in reflected light owing to ascomatal
+p31 c1 10.2pt | hairs which can possess sulphur yellow lower parts (DTO 319-
+p31 c1 10.2pt | B2) or appear sulphur yellow to yellow (CBS 666.82), sub-
+p31 c1 10.2pt | globose, ovate or obovate, 140–270 μm high, 100–240 μm
+p31 c1 10.2pt | diam. _Ascomatal_ _wall_ brown, _textura_ _intricata_ in surface view.
+p31 c1 10.2pt | _Terminal_ _hairs_ finely warty, brown, erect (more often in CBS
+p31 c1 10.2pt | 666.82) or flexuous (more often in DTO 333-E3) or undulate to
+p31 c1 10.2pt | loosely coiled (most of the indoor isolates, see DTO 319-B2,
+p31 c1 10.2pt | Fig. 16) with erect or flexuous lower part, tapering and fading
+p31 c1 10.2pt | towards the tips, 2–5 μm diam near the base. _Lateral_ _hairs_
+p31 c1 10.2pt | brown, flexuous, fading and tapering towards the tips. _Asci_
+p31 c1 10.2pt | fasciculate, fusiform or clavate, spore-bearing part
+p31 c1 10.2pt | 19–38 × 12–17 μm, stalks 22–48 μm long (most of the indoor
+p31 c1 10.2pt | isolates, Figs 16, 17), or 10–19 μm long (CBS 666.82) with 8
+p31 c1 10.2pt | irregularly-arranged ascospores, evanescent._ Ascospores_ brown
+p31 c1 10.2pt | when mature, limoniform, usually biapiculate, bilaterally flattened,
+p31 c1 10.2pt | 8.5–11(–12) × 7–8.5(–9.5) × 5.5–7 μm, with an apical germ
+p31 c1 10.2pt | pore. _Asexual_ _morph_ absent.
+p31 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p31 c1 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with sparse
+p31 c1 10.2pt | white to olivaceous buff aerial hyphae when young, then without
+p31 c1 10.2pt | aerial hyphae and becoming citrine green, yellow, greenish
+p31 c1 10.2pt | olivaceous to grey olivaceous (most of the indoor isolates, Figs
+p31 c1 10.2pt | 16, 17) or dull green (CBS 666.82) owing to the aggregation of
+p31 c1 10.2pt | ascomata, with fulvous, apricot to sienna exudates (DTO 319-
+p31 c1 10.2pt | B2), or olivaceous to olivaceous grey exudates (DTO 333-E3)
+p31 c1 10.2pt | or ochraceous to greenish olivaceous exudates (CBS 666.82)
+p31 c1 10.2pt | diffusing into the medium; reverse apricot, orange or sienna
+p31 c1 10.2pt | (DTO 319-B2), grey olivaceous to olivaceous (DTO 333-E3) or
+p31 c1 10.2pt | umber to dark brick (CBS 666.82). Colonies on PCA translucent,
+p31 c1 10.2pt | usually with a more or less lobate edge, about 39–48 mm diam
+p31 c1 10.2pt | in 7 d at 25 °C, without or with very sparse and floccose, pale
+p31 c1 10.2pt | yellow aerial hyphae, without coloured exudates; reverse
+p31 c1 10.2pt | uncoloured. Colonies on MEA with an entire (DTO 319-B2 and
+p31 c1 10.2pt | CBS 666.82) or a fimbriate to rhizoid (DTO 333-E3) edge,
+p31 c1 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, honey to
+p31 c1 10.2pt | olivaceous buff (DTO 319-B2 and DTO 333-E3), or malachite
+p31 c1 10.2pt | green to dull green (CBS 666.82) owing to the aggregation of
+p31 c1 10.2pt | ascomata mixed with floccose aerial hyphae, reverse fulvous,
+p31 c1 10.2pt | orange to sienna (DTO 319-B2 and DTO 333-E3) or scarlet to
+p31 c1 10.2pt | rust (CBS 666.82) owing to exudates diffusing into the medium.
+p31 c1 10.2pt | Colonies on DG18 with a lobate or slightly crenated edge, about
+p31 c1 10.2pt | 10–17 mm diam in 7 d at 25 °C, buff to pale luteous, with sparse
+p31 c1 10.2pt | white to greyish white aerial hyphae; reverse orange, rust to bay
+p31 c1 10.2pt | (DTO 319-B2), ochraceous (DTO 333-E3) or scarlet (CBS
+p31 c1 10.2pt | 666.82) owing to exudates diffusing into the medium.
+p31 c1  8.1pt | _Specimens examined_:** Algeria**, isolated from air, cultures DTO 134-D9; DTO 134-
+p31 c1  8.1pt | E1; DTO 134-E2; DTO 134-E3; DTO 134-E4; DTO 134-E5. **Canada**, isolated
+p31 c1  8.1pt | from dust, cultures DTO 318-G3; DTO 318-G4; DTO 318-G5. **China**, isolated
+p31 c1  8.1pt | from chili powder, culture CBS 666.82; isolated from air by A.J. Chen in Beijing,
+p31 c1  8.1pt | cultures DTO 324-D7; DTO 324-G8; DTO 324-H1; DTO 324-H4; DTO 324-H5;
+p31 c1  8.1pt | DTO 324-I1; DTO 324-I2; DTO 324-I3; DTO 324-I4; DTO 324-I5; DTO 324-I6;
+p31 c1  8.1pt | DTO 324-I7; DTO 324-I8; DTO 324-I9; DTO 325-A1; DTO 325-A2; DTO 325-A3;
+
+=== page 33, left column ===
+p33 c0 10.2pt | _Notes_: The general description and morphological diversity
+p33 c0 10.2pt | of _Ch._ _globosum_ has been discussed by Wang _et_ _al._ (2016).
+p33 c0 10.2pt | The information presented here gave more insight in the
+p33 c0 10.2pt | morphological diversity of this species, especially its colony
+p33 c0 10.2pt | morphology.
+p33 c0 10.2pt | **Chaetomium** **tecti****fi****meti** X. Wei Wang & Samson, _sp._ _nov._
+p33 c0 10.2pt | MycoBank MB818838. Fig. 19.
+p33 c0 10.2pt | _Etymology_: Name refers to an indoor species similar to _Ch._
+p33 c0 10.2pt | _fi__meti_.
+p33 c0 10.2pt | _Ascomata_ superficial, non-ostiolate, olivaceous grey to oliva-
+p33 c0 10.2pt | ceous black, with numerous short, pale olivaceous to olivaceous
+p33 c0 10.2pt | grey ascomatal hairs, and several long dark olivaceous hairs in
+p33 c0 10.2pt | reflected light, spherical or oblate, 210–340 μm diam._ Ascomata_
+p33 c0 10.2pt | _walls_ composed of two layers separating easily from each other
+p33 c0 10.2pt | when old: the external wall thick, dark brown, composed of thick-
+p33 c0 10.2pt | walled, angular or irregular cells, _textura_ _angularis_ in surface
+p33 c0 10.2pt | view; the inner layer thin, luteous to pale brown, composed of
+p33 c0 10.2pt | amorphous cells, _textura_ _epidermoidea_ in surface view. _Asco-_
+p33 c0 10.2pt | _matal_ _hairs_ of two types: shorter type covering the whole asco-
+p33 c0 10.2pt | mata, conspicuously rough, dark brown at the lower part, fading
+p33 c0 10.2pt | towards the tips, 3–4.5 μm near the base, up to 400 μm long;
+p33 c0 10.2pt | longer type arising from the bases of the ascomata, sometimes
+p33 c0 10.2pt | absent on OA, smooth, dark brown, 4.5–7 μm near the base,
+p33 c0 10.2pt | 400–2000 μm long. _Asci_ fasciculate, fusiform or clavate, with 8
+p33 c0 10.2pt | biseriate ascospores, spore-bearing part 26–40 × 16–20 μm,
+p33 c0 10.2pt | stalks 20–40 μm long, evanescent. _Ascospores_ olivaceous
+p33 c0 10.2pt | brown to brown when mature, limoniform, bilaterally flattened,
+p33 c0 10.2pt | (12–)12.5–15(–16) × 10–11.5(–12) × (8–)8.5–10 μm, with an
+p33 c0 10.2pt | apical germ pore. _Asexual_ _morph_ unknown.
+p33 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p33 c0 10.2pt | about 30–36 mm diam in 7 d at 25 °C, with olivaceous buff aerial
+p33 c0 10.2pt | hyphae, producing green yellow to ochraceous exdudates
+p33 c0 10.2pt | diffusing into the medium, reverse pale luteous to pale amber.
+p33 c0 10.2pt | Colonies on PCA with a slightly crenated edge, about 19–25 mm
+p33 c0 10.2pt | diam in 7 d at 25 °C, with buff and floccose aerial hyphae and
+p33 c0 10.2pt | translucent perisphere; without coloured exudates; reverse buff
+
+=== page 33, right column ===
+p33 c1 10.2pt | to honey. Colonies on MEA with a slightly undulate edge, about
+p33 c1 10.2pt | 29–35 mm diam in 7 d at 25 °C, with floccose mycelium
+p33 c1 10.2pt | appearing pale olivaceous grey centre and vinaceous buff in
+p33 c1 10.2pt | perisphere, reverse fulvous to sienna with a pale edge. Colony
+p33 c1 10.2pt | growth on DG18 with a slightly crenated edge, about 13–19 mm
+p33 c1 10.2pt | diam in 7 d at 25 °C, with white aerial hyphae, without coloured
+p33 c1 10.2pt | exudates; reverse uncoloured.
+p33 c1  8.1pt | _Specimen examined_:** USA**, isolated from dust by Whitfield & K. Mwange in 2009
+p33 c1  8.1pt | (**holotype** CBS H-22844, culture ex-type CBS 142032 = DTO 318-G8).
+p33 c1 10.2pt | _Notes_: Phylogenetic inference indicated that _Ch._ _tecti__fi__meti_
+p33 c1 10.2pt | clustered close to but separate from _Ch._ _fi__meti_ (ex-epitype cul-
+p33 c1 10.2pt | ture DSM 62108). This species can be distinguished by its
+p33 c1 10.2pt | smaller ascomata (210–340 μm diam) than those of _Ch._ _fi__meti_
+p33 c1 10.2pt | (320–500 μm diam), and broader ascospores (8.5–10 μm wide
+p33 c1 10.2pt | in front view) than those of_ Ch.__ fi__meti_ (7–8 μm wide in front view).
+p33 c1 10.2pt | **Collariella** X. Wei Wang, Samson & Crous,** gen. nov.** MycoBank
+p33 c1 10.2pt | MB818839. Figs 20, 21.
+p33 c1 10.2pt | _Etymology_: Name refers to a dark collar-like apex around the
+p33 c1 10.2pt | ostiolar pore of the ascomata in most of the species in this
+p33 c1 10.2pt | genus.
+p33 c1 10.2pt | _Type_ _species_: _Collariella_ _bostrychodes_ (Zopf) X. Wei Wang &
+p33 c1 10.2pt | Samson (= _Ch._ _bostrychodes_)
+p33 c1 10.2pt | This genus is divided into two subclades by both phylogenetic
+p33 c1 10.2pt | and morphological evidence. The two subclades are closely
+p33 c1 10.2pt | related to each other with high statistical support (Fig. 1), indi-
+p33 c1 10.2pt | cating that they share a recent common ancestor. We therefore
+p33 c1 10.2pt | decided to keep them in the same genus. Different descriptions
+p33 c1 10.2pt | are provided here for each subclade:
+p33 c1 10.2pt | **Subclade** **1**: _Ascomata_ superficial, ostiolate, ovate, obovate,
+p33 c1 10.2pt | ampulliform or cylindrical with brown walls of _textura_ _angularis_
+p33 c1 10.2pt | in surface view. Apices of ascomata truncated, usually with a
+p33 c1 10.2pt | darkened collar around the ostiolar pore, and easy to rupture
+p33 c1 10.2pt | and to be dispersed together with ascomatal hairs as a whole.
+p33 c1 10.2pt | _Terminal_ _hairs_ highly diverse, straight, flexuous, undulate or
+p33 c1 10.2pt | spirally coiled or presenting two different types. _Lateral_ _hairs_
+p33 c1 10.2pt | straight, flexuous. _Asci_ fasciculate, fusiform or clavate,
+p33 c1 10.2pt | stalked, with 8 biseriate or irregularly arranged ascospores,
+p33 c1 10.2pt | evanescent._ Ascospores_ olivaceous brown at maturity, broadly
+p33 c1 10.2pt | limoniform to quadrangular, bilaterally flattened, with an apical
+p33 c1 10.2pt | germ pore, usually less than 7.5 μm in length. _Asexual_ _morph_
+p33 c1 10.2pt | unknown.
+p33 c1 10.2pt | **Subclade** **2**: _Ascomata_ superficial, ostiolate, subglobose or
+p33 c1 10.2pt | ovate, with brown walls of _textura_ _angularis_ in surface view.
+p33 c1 10.2pt | _Terminal_ _hairs_ straight, flexuous, undulate or arcuate. _Lateral_
+p33 c1 10.2pt | _hairs_ straight, flexuous. _Asci_ fasciculate, clavate, fusiform or
+p33 c1 10.2pt | obovate, spore-bearing portion 18–26 × 11–14.5 μm, stalks
+p33 c1 10.2pt | 7–13 μm long, with 8 irregularly-arranged ascospores,
+p33 c1 10.2pt | evanescent. _Ascospores_ brown when mature, ellipsoidal or
+p33 c1 10.2pt | fusiform, never bilaterally flattened, with one or two apical or
+p33 c1 10.2pt | sometimes slightly sub-apical germ pores, usually more than
+p33 c1 10.2pt | 9 μm in length. _Asexual_ _morph_ unknown.
+
+=== page 35, left column ===
+p35 c0 10.2pt | **Collariella** **bostrychodes** (Zopf) X. Wei Wang & Samson,
+p35 c0 10.2pt | **comb.** **nov.** MycoBank MB818862. Fig. 22.
+p35 c0 10.2pt | _Basionym_:_ Chaetomium bostrychodes_ Zopf, Abh. Bot. Ver. Prov.
+p35 c0 10.2pt | Brandenburg 19:173. 1877.
+p35 c0 10.2pt | _Ascomata_ superficial, pale greenish grey or pale purplish grey in
+p35 c0 10.2pt | reflected light owing to ascomatal hairs, subglobose, ovate or
+p35 c0 10.2pt | obovate, ostiolate, 210–300 μm high (including the collar),
+p35 c0 10.2pt | 160–240 μm diam. Wide, apically black due to a darkened collar
+p35 c0 10.2pt | in 25–55 μm high and 75–170 μm wide around the ostiolar pore
+p35 c0 10.2pt | with the area near the apical collar often in paler colour than the
+p35 c0 10.2pt | lower part of the ascoma. _Ascomatal_ _wall_ brown, _textura_ _angu-_
+p35 c0 10.2pt | _laris_ in surface view._ Terminal hairs_ arising from the apical collar,
+p35 c0 10.2pt | conspicuously rough, dark brown, septate, erect in the lower part,
+p35 c0 10.2pt | 4–7 μm near the base, spirally coiled in the upper part, often with
+p35 c0 10.2pt | coiled branches. _Lateral_ _hairs_ seta-like, tapering and fading to-
+p35 c0 10.2pt | wards the tips. _Asci_ fasciculate, fusiform or clavate, spore-
+p35 c0 10.2pt | bearing part 22–33 × 7–11 μm, stalks 9–20 μm long, with 8
+p35 c0 10.2pt | irregularly-arranged ascospores, evanescent. _Ascospores_
+p35 c0 10.2pt | olivaceous when mature, limoniform, bilaterally flattened,
+p35 c0 10.2pt | 6–7(–7.5) × (5–)5.5–6.5 × (4–)4.5–5.5 μm, with an apical germ
+p35 c0 10.2pt | pore. _Asexual_ _morph_ unknown.
+p35 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p35 c0 10.2pt | 34–40 mm diam in 7 d at 25 °C, usually without or with sparse
+p35 c0 10.2pt | white aerial hyphae, without coloured exudates, reverse uncol-
+p35 c0 10.2pt | oured. Colonies on PCA translucent, with entire edge, about
+p35 c0 10.2pt | 33–39 mm diam in 7 d at 25 °C, without aerial hyphae, without
+p35 c0 10.2pt | coloured exudates; reverse uncoloured. Colonies on MEA
+p35 c0 10.2pt | translucent and membranous, with entire edge, about 29–35 mm
+p35 c0 10.2pt | diam in 7 d at 25 °C, forming radiating and luteous or fulvous
+p35 c0 10.2pt | furrows, non-sporulating, often with sparse and concentric white
+p35 c0 10.2pt | aerial hyphae; reverse uncoloured. Colonies on DG18 with entire
+p35 c0 10.2pt | edge, about 14–20 mm diam in 7 d at 25 °C, with white floccose
+p35 c0 10.2pt | aerial hyphae especially at the edge, non-sporulating, reverse
+p35 c0 10.2pt | uncoloured.
+p35 c0  8.1pt | _Specimens_ _examined_: **Indonesia**, isolated from dust, DTO 319-C3. **China**,
+p35 c0  8.1pt | Beijing, isolated from air by A.J. Chen, cultures DTO 324-H3; DTO 324-H6. The
+p35 c0  8.1pt | description above is based on the isolate DTO 324-H6.
+p35 c0 10.2pt | _Notes_: This species was originally described with ellipsoid
+p35 c0 10.2pt | ascomata (Saccardo 1882), and later Ames (1963) described the
+p35 c0 10.2pt | species with subglobose to ovoid ascomata. von Arx_ et al._ (1986)
+p35 c0 10.2pt | placed several species in synonymy with _Col._ _bostrychodes_ (=
+p35 c0 10.2pt | _Ch._ _bostrychodes_), and their description covered a high
+p35 c0 10.2pt | morphological diversity in the shape of ascomata. Our descrip-
+p35 c0 10.2pt | tion based on the indoor isolates fitted with that of Ames. Ex-
+p35 c0 10.2pt | amination on more isolates of related species is required to
+p35 c0 10.2pt | delimit this species more accurately.
+p35 c0 10.2pt | **Collariella carteri** X. Wei Wang, Houbraken & Samson,** sp. nov.**
+p35 c0 10.2pt | MycoBank MB818863. Fig. 23.
+p35 c0 10.2pt | _Etymology_: Named after Dr Adrian Carter, who recognised this
+p35 c0 10.2pt | species as new in his PhD thesis.
+p35 c0 10.2pt | _Synonym_:_ Chaetomium intricatum_ A. Carter,_ A Taxonomic Study_
+p35 c0 10.2pt | _of the Ascomycete genus Chaetomium Kunze_, unpublished PhD
+p35 c0 10.2pt | thesis of the University of Toronto. 1982. nom. inval.
+
+=== page 35, right column ===
+p35 c1 10.2pt | _Ascomata_ superficial, often covered by sparse white aerial hy-
+p35 c1 10.2pt | phae, easily falling down rather than erect when mature, dark
+p35 c1 10.2pt | brick to sepia in reflected light, globose or subglobose, ostiolate,
+p35 c1 10.2pt | occasionally pyriform owing to a short ostiolar beak,
+p35 c1 10.2pt | 175–320 μm high (including the collar), 110–220 μm diam,
+p35 c1 10.2pt | apically black due to a darkened collar in 20–60 μm high and
+p35 c1 10.2pt | 40–120 μm wide around the ostiolar pore._ Ascomatal wall_ brown,
+p35 c1 10.2pt | _textura intricata_ mixed_ with angularis_ or_ epidermoidea_ in surface
+p35 c1 10.2pt | view. _Terminal_ _hairs_ arising from the apical collar, seta-like or
+p35 c1 10.2pt | flexuous, 30–180 μm long, usually shorter than the height of an
+p35 c1 10.2pt | ascoma, smooth, dark brown, distinctly septate, 4–8.5 μm near
+p35 c1 10.2pt | the base, tapering and fading towards the nearly hyaline tips.
+p35 c1 10.2pt | _Lateral hairs_ similar but quite sparse._ Asci_ fasciculate, clavate or
+p35 c1 10.2pt | slightly fusiform, spore-bearing part 17–26 × 8.5–11.5 μm, stalks
+p35 c1 10.2pt | 10–18 μm long, with 8 biseriate or irregularly arranged asco-
+p35 c1 10.2pt | spores, evanescent. _Ascospores_ olivaceous when mature,
+p35 c1 10.2pt | limoniform, usually biapiculate at both ends, bilaterally flattened,
+p35 c1 10.2pt | (6–)6.5–7.5(–8.5) × (4.5–)5–6(–7.5) × 4–5.5 μm, with an
+p35 c1 10.2pt | apical germ pore. _Asexual_ _morph_ unknown.
+p35 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p35 c1 10.2pt | 24–30 mm diam in 7 d at 25 °C, with white aerial hyphae and
+p35 c1 10.2pt | citrine green or greenish yellow to citrine exudates diffusing into
+p35 c1 10.2pt | the medium, reverse greenish yellow to greenish olivaceous.
+p35 c1 10.2pt | Colonies on PCA translucent, with entire edge, about 28–34 mm
+p35 c1 10.2pt | diam in 7 d at 25 °C, without aerial hyphae, without coloured
+p35 c1 10.2pt | exudates; reverse uncoloured. Colonies on MEA translucent and
+p35 c1 10.2pt | membranous, with entire edge, about 29–33 mm diam in 7 d at
+p35 c1 10.2pt | 25 °C, forming radiated and luteous or ochraceous furrows; non-
+p35 c1 10.2pt | sporulating, reverse uncoloured. Colony growth on DG18 very
+p35 c1 10.2pt | limited, less 3 mm diam after 7 d, without coloured exudates;
+p35 c1 10.2pt | reverse uncoloured.
+p35 c1  8.1pt | _Specimen examined:_** Canada**, Vancouver, isolated from air of Bacteriology Lab in
+p35 c1  8.1pt | the University of British Columbia by R.J. Bandoni on 14 Feb. 1966 (**holotype**
+p35 c1  8.1pt | CBS H-22845, culture ex-type CBS 128.85).
+p35 c1 10.2pt | _Notes_: _Collariella_ _carteri_ is easily recognised by its short and
+p35 c1 10.2pt | seta-like terminal ascomatal hairs. Carter (1982) noted that the
+p35 c1 10.2pt | ascomatal wall of this species consists of _textura_ _intricata_ in
+p35 c1 10.2pt | surface view. Our observation showed that the wall structure of
+p35 c1 10.2pt | CBS 128.85 consisted of _textura_ _intricate_, _angularis_ and _epi-_
+p35 c1 10.2pt | _dermoidea_ (Fig. 23E–I). This species formed a sister lineage to
+p35 c1 10.2pt | _Col._ _bostrychodes_.
+p35 c1 10.2pt | **Collariella** **causiiformis** (Ames) X. Wei Wang & Samson,
+p35 c1 10.2pt | **comb.** **nov.** MycoBank MB818864. Fig. 24.
+p35 c1 10.2pt | _Basionym_: _Chaetomium_ _causiiforme_ Mycologia 41: 644. 1949.
+p35 c1 10.2pt | _Ascomata_ superficial, usually forming a layer on the surface of OA
+p35 c1 10.2pt | medium owing to adjacent long ascomatal hairs intermingling with
+p35 c1 10.2pt | each other, hazel to olivaceous in reflected light due to ascomatal
+p35 c1 10.2pt | hairs, globose or subglobose, ostiolate, 70–140 μm high
+p35 c1 10.2pt | (including the darkened collar), 60–120 μm diam, apically black
+p35 c1 10.2pt | due to a darkened collar in 10–24 μm high and 32–65 μm wide
+p35 c1 10.2pt | around the ostiolar pore._ Ascomatal wall_ translucent, ochraceous,
+p35 c1 10.2pt | _textura angularis_ in surface view._ Terminal hairs_ arising from the
+p35 c1 10.2pt | apical collar, a few type I: up to 2 600 μm long, undulate,
+
+=== page 41, left column ===
+p41 c0 10.2pt | olivaceous, smooth, septate, 3.5–5 μm diam near the base; most
+p41 c0 10.2pt | type II: usually less than 700 μm long, olivaceous, smooth,
+p41 c0 10.2pt | septate, flexous or geniculate, often branched, sometimes spi-
+p41 c0 10.2pt | cally recurved or circinate, 2–3 μm diam near the base._ Lateral_
+p41 c0 10.2pt | _hairs_ seta-like, sparse. _Asci_ fasciculate, fusiform, sometimes
+p41 c0 10.2pt | clavate, spore-bearing portion 15–22 × 8–13 μm, stalks 6–13 μm
+p41 c0 10.2pt | long, with 8 irregularly-arranged ascospores, evanescent._ Asco-_
+p41 c0 10.2pt | _spores_ olivaceous when mature, broad limoniform or ovate,
+p41 c0 10.2pt | bilaterally flattened, (5–)5.5–6.5 × (4.5–)5–5.5(–6) × (3.5–)
+p41 c0 10.2pt | 4–5 μm, with an apical germ pore._ Asexual morph_ unknown.
+p41 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA translucent at the
+p41 c0 10.2pt | beginning, with entire edge, 27–33 mm diam in 7 d at 25 °C,
+p41 c0 10.2pt | without aerial hyphae, without coloured exudates, reverse
+p41 c0 10.2pt | uncoloured. Colonies on PCA translucent, with entire edge and
+p41 c0 10.2pt | lobate and relatively thicker texture in the centre, about
+p41 c0 10.2pt | 24–30 mm diam in 7 d at 25 °C, without aerial hyphae, without
+p41 c0 10.2pt | coloured exudates; reverse uncoloured. Colonies on MEA
+p41 c0 10.2pt | translucent and membranous, with entire edge, about 20–26 mm
+p41 c0 10.2pt | diam in 7 d at 25 °C, forming radiating and luteous or fulvous
+p41 c0 10.2pt | furrows, non-sporulating; reverse uncoloured. No visible growth
+p41 c0 10.2pt | of colonies on DG18 after 7 d at 25 °C.
+p41 c0  8.1pt | _Specimen examined_:** Solomon Islands**, isolated from sweatband of helmet liner
+p41 c0  8.1pt | by G.W. Martin, ex-type culture CBS 792.83.
+p41 c0 10.2pt | _Notes_: _Collariella_ _causiiformis_ forms two types of terminal
+p41 c0 10.2pt | ascomatal hairs and this feature is not observed in the other
+p41 c0 10.2pt | known_ Collariella_ species. This species formed a sister lineage to
+p41 c0 10.2pt | the clade in which both _Col._ _carteri_ and _Col._ _bostrychodes_ are
+p41 c0 10.2pt | included.
+p41 c0 10.2pt | **Collariella gracilis** (Udagawa) X. Wei Wang & Samson,** comb.**
+p41 c0 10.2pt | **nov.** MycoBank MB818865. Fig. 25.
+p41 c0 10.2pt | _Basionym_: _Chaetomium_ _gracile_ Udagawa, J. Gen. Appl. Micro-
+p41 c0 10.2pt | biol. 6: 235. 1960.
+p41 c0 10.2pt | _Ascomata_ superficial, often covered by white aerial hyphae,
+p41 c0 10.2pt | ostiolate, olivaceous in reflected light due to ascomatal hairs and
+p41 c0 10.2pt | with black ascospores aggregating on the top, subglobose or
+p41 c0 10.2pt | ovate, 120–200 μm high, 100–180 μm diam, often with trun-
+p41 c0 10.2pt | cated and darkened apices, but not easy to rupture and to be
+p41 c0 10.2pt | dispersed. _Ascomatal_ _wall_ brown, _textura_ _angularis_. _Terminal_
+p41 c0 10.2pt | _hairs_ numerous, arcuate, partly apically flexuous, incurved or
+p41 c0 10.2pt | circinate, fine rough, brown, septate, 3.5–5.5 μm diam near
+p41 c0 10.2pt | the base. _Lateral_ _hairs_ relatively sparse, seta-like or flexuous.
+p41 c0 10.2pt | _Asci_ fasciculate, clavate, fusiform or obovate, spore-bearing
+p41 c0 10.2pt | portion 18–26 × 11–14.5 μm, stalks 7–13 μm long, with
+p41 c0 10.2pt | 8 irregularly-arranged ascospores, evanescent. _Ascospores_
+p41 c0 10.2pt | brown when mature, ellipsoidal or broadly fusiform, (9.5–)
+p41 c0 10.2pt | 10–12.5(–13) × 6–7.5(–8) μm, with an apical or sometimes
+p41 c0 10.2pt | slightly sub-apical germ pore. _Asexual_ _morph_ unknown.
+p41 c0 10.2pt | _Culture characteristics_: Colonies on OA with white aerial hyphae,
+p41 c0 10.2pt | translucent at the beginning, with an entire or slightly undulate
+p41 c0 10.2pt | edge, about 32–38 mm diam in 7 d at 25 °C, irregularly pro-
+p41 c0 10.2pt | ducing white aerial hyphae later, with citrine green or amber to
+p41 c0 10.2pt | citrine exudates diffusing into the medium, reverse yellow to
+p41 c0 10.2pt | amber. Colonies on PCA citrine, with or slightly crenated edge,
+p41 c0 10.2pt | about 23–29 mm diam in 7 d at 25 °C, with sparse white to straw
+p41 c0 10.2pt | aerial hyphae, reverse citrine. Colonies on MEA with entire edge,
+p41 c0 10.2pt | about 29–35 mm diam in 7 d at 25 °C, with white to yellowish
+
+=== page 41, right column ===
+p41 c1 10.2pt | buff and floccose aerial mycelium, reverse saffron due to exu-
+p41 c1 10.2pt | dates diffusing into the medium. Colony growth on DG18 with
+p41 c1 10.2pt | entire edge, about 11–17 mm diam in 7 d at 25 °C, pale rosy buff
+p41 c1 10.2pt | with white aerial hyphae, without coloured exudates; reverse
+p41 c1 10.2pt | uncoloured.
+p41 c1  8.1pt | _Specimen_ _examined_: **India**, Uttar Pradesh, isolated from air by Kamal, culture
+p41 c1  8.1pt | CBS 249.75.
+p41 c1 10.2pt | _Notes_: von Arx _et_ _al._ (1986) suggested that this species was
+p41 c1 10.2pt | closely related to _Col._ _virescens_. Our phylogenetic analysis
+p41 c1 10.2pt | confirmed their close relationship. The two species differ in
+p41 c1 10.2pt | ascomata and ascospores (Figs 20, 21).
+p41 c1 10.2pt | **Dichotomopilus** X. Wei Wang, Samson & Crous, **gen.** **nov.**
+p41 c1 10.2pt | MycoBank MB818840. Figs 26, 27.
+p41 c1 10.2pt | _Etymology_: Name refers to the shape of terminal ascomatal hairs
+p41 c1 10.2pt | which are usually dichotomously branched.
+p41 c1 10.2pt | _Ascomata_ superficial, ostiolate, spherical, ellipsoid or ovate with
+p41 c1 10.2pt | walls of _textura_ _intricata_ or _epidermoidea_ in surface view, or of
+p41 c1 10.2pt | _textura_ _angularis_ in a few species. _Terminal_ _hairs_ seta-like and
+p41 c1 10.2pt | the beginning, then the majority developing into dichotomously
+p41 c1 10.2pt | or irregularly branched to form a net structure to hold asco-
+p41 c1 10.2pt | spores, sometimes branched and seta-like together, occasional
+p41 c1 10.2pt | stayinging seta-like, usually punctulate or verrucose, with the
+p41 c1 10.2pt | exception of those of _D._ _dolichotrichus_ (= _Ch._ _dolichotrichum_)
+p41 c1 10.2pt | presenting smooth._ Lateral hairs_ unbranched, seta-like, tapering
+p41 c1 10.2pt | towards tips. _Asci_ fasciculate, clavate, broadly clavate or ovate,
+p41 c1 10.2pt | stalked, with 8 biseriate or irregularly arranged ascospores,
+p41 c1 10.2pt | evanescent quickly. _Ascospores_ brown at maturity, narrowly
+p41 c1 10.2pt | ovate, ovate or broad ovate, bilaterally flattened, attenuate at
+p41 c1 10.2pt | one or both ends, with an apical or slightly sub-apical germ
+p41 c1 10.2pt | pore at the most attenuated end, the opposite end more or
+p41 c1 10.2pt | less apiculate if not attenuate, usually less than 7.5 μm long,
+p41 c1 10.2pt | with the exception of _D._ _fusus_ (= _Ch._ _fusum_) possessing cy-
+p41 c1 10.2pt | lindrical ascospores without visible germ pores. _Asexual_ _morph_
+p41 c1 10.2pt | unknown.
+p41 c1 10.2pt | _Type_ _species_: _Dichotomopilus_ _indicus_ (Corda) X. Wei Wang &
+p41 c1 10.2pt | Samson = (_Ch._ _indicum_)
+p41 c1 10.2pt | _Notes_: Skolko & Groves (1948) provided the first overview of this
+p41 c1 10.2pt | group of fungi. Based on the presence or absence of un-
+p41 c1 10.2pt | branched terminal hairs and the characteristics of the branched
+p41 c1 10.2pt | hairs, they circumscribed and accepted six species. Their
+p41 c1 10.2pt | classification was followed by Ames (1963), Mazzucchetti (1965)
+p41 c1 10.2pt | and Seth (1970). However, von Arx _et_ _al._ (1986) only accepted
+p41 c1 10.2pt | two species:_ Ch. indicum_ and_ Ch. funicola_._ Chaetomium indicum_
+p41 c1 10.2pt | was described to show typical dichotomously branched terminal
+p41 c1 10.2pt | ascomatal hairs, while _Ch._ _funicola_ was described to produce
+p41 c1 10.2pt | both unbranched seta-like and dichotomously branched terminal
+p41 c1 10.2pt | hairs. Based on these definitions, _Ch._ _dolichotrichum_ was
+p41 c1 10.2pt | treated as a synonym of_ Ch. funicola_, and the rest of the species
+p41 c1 10.2pt | accepted by Skolko & Groves (1948) were questioned. Wang
+p41 c1 10.2pt | _et_ _al._ (2014) re-assessed all these species based on a five-
+p41 c1 10.2pt | locus phylogenetic analysis. The results indicated that all
+p41 c1 10.2pt | these species clustered in a monophyletic clade. Five of the six
+p41 c1 10.2pt | species of Skolko & Groves (1948) were recognised with the
+p41 c1 10.2pt | exception of _Ch._ _cancroideum_, which clustered in the _Ch._ _funi-_
+p41 c1 10.2pt | _cola_ clade. At the same time, three more species: _Ch._ _sub-_
+p41 c1 10.2pt | _funicola_,_ Ch. ramosissimum_ and_ Ch. pratense_ were discovered,
+
+=== page 45, left column ===
+p45 c0 10.2pt | which were phylogenetically close to but separated from _Ch._
+p45 c0 10.2pt | _funicola_,_ Ch. erectum_ and_ Ch. indicum_, respectively (Wang_ et al._
+p45 c0 10.2pt | 2014).
+p45 c0 10.2pt | In the present study, a new genus_ Dichotomopilus_ is proposed to
+p45 c0 10.2pt | accommodate this monophyletic lineage. Within the genus, two
+p45 c0 10.2pt | more species _D._ _pseudofunicla_ and _D._ _pseudoerectus_ were
+p45 c0 10.2pt | described as new. Two other species, _D._ _variostiolatus_ (= _Ch._
+p45 c0 10.2pt | _variostiolatum_) and _D._ _fusus_ (_Ch._ _fusum_), also clustered in this
+p45 c0 10.2pt | genus. The former was originally described to possess un-
+p45 c0 10.2pt | branched seta-like terminal hairs (Fig. 26A), and the latter pro-
+p45 c0 10.2pt | duces dichotomously-branched terminal hairs (Fig. 26L), and
+p45 c0 10.2pt | quite distinct ascospores (Fig. 27L).
+p45 c0 10.2pt | Seven indoor species were recognised in_ Dichotomopilus_. A high
+p45 c0 10.2pt | morphological diversity in ascomatal hairs, asci and ascospores
+p45 c0 10.2pt | was observed within indoor isolates of _D._ _funicola_, _D._ _indicus_,
+p45 c0 10.2pt | _D._ _subfunicola_ and _D._ _variostiolatus_. Our morphological exami-
+p45 c0 10.2pt | nation indicated extremely high intra-/ inter-species diversity and
+p45 c0 10.2pt | also overlap occurs between the indoor isolates of the four
+p45 c0 10.2pt | species. In contrast, the species _D._ _pratensis_ (Figs 26G, 27G),
+p45 c0 10.2pt | _D. dolichotrichus_ (Figs 26J, 27J),_ D. re__fl__exus_ (Figs 26K, 27K) and
+p45 c0 10.2pt | _D._ _fusus_ (Figs 26L, 27L) from different substrates and different
+p45 c0 10.2pt | locations are morphologically stable, and easy to be recognised
+p45 c0 10.2pt | on the basis of morphology. It is a challenge to identify
+p45 c0 10.2pt | _D. funicola_,_ D. indicus_,_ D. subfunicola_ and_ D. variostiolatus_ only
+p45 c0 10.2pt | based on morphology. We highly recommend the use of
+p45 c0 10.2pt | sequence data to recognise these species in the genus
+p45 c0 10.2pt | _Dichotomopilus_.
+p45 c0 10.2pt | **Dichotomopilus** **funicola** (Cooke) X. Wei Wang & Samson,
+p45 c0 10.2pt | **comb.** **nov.** MycoBank MB818841. Fig. 28.
+p45 c0 10.2pt | _Basionym_:_ Chaetomium funicola_ Cooke, Grevillea 1: 176. 1873.
+p45 c0 10.2pt | _Synonym_: _Chaetomium_ _cancroideum_ Tschudy, Am. J. Bot. 24:
+p45 c0 10.2pt | 478. 1937.
+p45 c0 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to grey
+p45 c0 10.2pt | olivaceous in reflected light, subglobose to ellipsoid or ovate,
+p45 c0 10.2pt | 195–255 μm high, 180–240 μm diam._ Ascomatal wall_ composed
+p45 c0 10.2pt | of brown, irregular or elongate cells (_textura_ _intricata_ or _epi-_
+p45 c0 10.2pt | _dermoidea_). _Terminal_ _hairs_ composed of two types: (1) wider,
+p45 c0 10.2pt | dark brown and erect, 4–5.5 μm diam near the base, tapering
+p45 c0 10.2pt | and fading towards tips, dichotomously branched profusely at
+p45 c0 10.2pt | acute angles starting from the upper half part, punctulate; (2)
+p45 c0 10.2pt | thinner, luteous to brown, 2–3.5 μm diam near the base,
+p45 c0 10.2pt | dichotomously branched at wide to acute angles starting near the
+p45 c0 10.2pt | base; the terminal branches relatively short, erect, incurved or
+p45 c0 10.2pt | reflexed, often in dense clusters. _Lateral_ _hairs_ simply branched
+p45 c0 10.2pt | or seta-like, tapering and fading towards tips. _Asci_ fasciculate,
+p45 c0 10.2pt | with 8 irregularly-arranged ascospores, clavate, pyriform to
+p45 c0 10.2pt | ovate, spore-bearing portion 11–18 × 7–11.5 μm, stalks
+p45 c0 10.2pt | 6–10 μm long, evanescent quickly._ Ascospores_ olivaceous when
+p45 c0 10.2pt | mature, ovate to slightly elongate ovate, bilaterally flattened,
+p45 c0 10.2pt | 5–6 × 3.5–4.8 × 3–3.8 μm, with an apical germ pore at the more
+p45 c0 10.2pt | attenuated end. _Asexual_ _morph_ unknown.
+p45 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p45 c0 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with pale
+p45 c0 10.2pt | yellow, sparse and floccose aerial hyphae, producing greenish
+p45 c0 10.2pt | olivaceous to citrine exudates diffusing into the medium; reverse
+p45 c0 10.2pt | ochraceous to cinnamon. Colonies on PCA olivaceous buff to
+p45 c0 10.2pt | greenish olivaceous because of the sparse aerial hyphae and
+
+=== page 45, right column ===
+p45 c1 10.2pt | ascomata, with irregularly crenated edge, spreading rapidly, over
+p45 c1 10.2pt | 70 mm diam in 7 d at 25 °C, without coloured exudates; reverse
+p45 c1 10.2pt | olivaceous buff to greenish olivaceous. Colonies on MEA with
+p45 c1 10.2pt | entire edge, about 57–63 mm diam in 7 d at 25 °C, forming
+p45 c1 10.2pt | profuse and pale yellow mycelium and then greenish olivaceous
+p45 c1 10.2pt | because of the formation of ascomata, without coloured exudates,
+p45 c1 10.2pt | reverse ochraceous. Colonies on DG18 buff with slightly lobate or
+p45 c1 10.2pt | crenated edge, about 10–16 mm diam in 7 d at 25 °C, without
+p45 c1 10.2pt | aerial hyphae, without coloured exudates; reverse pale buff.
+p45 c1  8.1pt | _Specimens_ _examined_: **Denmark**, isolated from dust by B. Andersen, cultures
+p45 c1  8.1pt | DTO 333-F1 (=IBT 42276); DTO 333-F2 (= IBT 42277).** USA**, isolated from dust,
+p45 c1  8.1pt | culture DTO 318-I2.
+p45 c1 10.2pt | _Notes_: The terminal hairs of the indoor isolate examined above
+p45 c1 10.2pt | look like intermediates between the ex-epitype culture of
+p45 c1 10.2pt | _D._ _funicola_ (fig. 3i–o in Wang _et_ _al._ 2014) and the authentic
+p45 c1 10.2pt | culture of_ Ch. cancroideum_ (Fig. 26E in this study), especially in
+p45 c1 10.2pt | the terminal branches. This implied intra-species variation within
+p45 c1 10.2pt | this species, and encouraged us to synonymise _Ch._ _cancroi-_
+p45 c1 10.2pt | _deum_ into _D._ _funicola_. This treatment is consistent with the
+p45 c1 10.2pt | phylogenetic data (Fig. 1).
+p45 c1 10.2pt | **Dichotomopilus** **indicus** (Corda) X. Wei Wang & Samson,
+p45 c1 10.2pt | **comb.** **nov.** MycoBank MB818842. Figs 29–31.
+p45 c1 10.2pt | _Basionym_:_ Chaetomium indicum_ Corda, Icon. Fung. 4: 38. 1840.
+p45 c1 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to grey
+p45 c1 10.2pt | olivaceous in reflected light, subglobose or ovate, 160–310 μm
+p45 c1 10.2pt | high, 140–275 μm diam. _Ascomatal_ _wall_ composed of brown,
+p45 c1 10.2pt | irregular or elongate cells (_textura_ _intricata_ or _epidermoidea_).
+p45 c1 10.2pt | _Terminal hairs_ composed of two types: (1) wider, dark brown and
+p45 c1 10.2pt | erect, 4–5 μm diam near the base, tapering and fading towards
+p45 c1 10.2pt | tips, dichotomously branched at acute angles starting from the
+p45 c1 10.2pt | upper half part, punctulate; (2) thinner, luteous to brown, 2–3.5 μm
+p45 c1 10.2pt | diam near the base, dichotomously branched at wide to acute
+p45 c1 10.2pt | angles starting near the base (DTO 333-F3), or only composed of
+p45 c1 10.2pt | one type: dark brown and erect, 3–5.5 μm diam near the base,
+p45 c1 10.2pt | dichotomously branched at acute to wide angles starting from the
+p45 c1 10.2pt | upper half part, verrucose, tapering and fading towards tips (DTO
+p45 c1 10.2pt | 319-B3) or partly shorter and dichotomously branched 1–4 times
+p45 c1 10.2pt | at acute angles starting from the upper half part, partly longer,
+p45 c1 10.2pt | unbranched and seta-like (DTO 333-E2). _Lateral_ _hairs_ un-
+p45 c1 10.2pt | branched, seta-like, tapering and fading towards tips. _Asci_
+p45 c1 10.2pt | fasciculate, with 8 irregularly-arranged ascospores visible, clavate,
+p45 c1 10.2pt | broadly clavate, fusiform to pyriform, spore-bearing portion
+p45 c1 10.2pt | 11–25.5 × 6.5–13.5 μm, stalks 6–15 μm long, evanescent quickly.
+p45 c1 10.2pt | _Ascospores_ olivaceous when mature, ovate to slightly elongate
+p45 c1 10.2pt | ovate, bilaterally flattened, 5.5–6.5 × 3.5–4.5 × 2.5–3 μm (DTO
+p45 c1 10.2pt | 333-F3), or 5.5–6.5 × 4–5 × 3–4 μm (DTO 319-B3), or (6–)
+p45 c1 10.2pt | 6.5–7.5(–8) × 4.5–5.5 × 3.5–4.5μm (DTO 333-E2), withan apical
+p45 c1 10.2pt | germ pore at the more attenuated end._ Asexual morph_ unknown.
+p45 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p45 c1 10.2pt | 20–48 mm diam in 7 d at 25 °C, with sparse buff, pale yellow to
+p45 c1 10.2pt | pale primrose aerial hyphae, without coloured exudates at the
+p45 c1 10.2pt | beginning, and then producing pale luteous, amber, ochraceous
+p45 c1 10.2pt | to cinnamon exudates diffusing into the medium, reverse buff,
+p45 c1 10.2pt | pale luteous, luteous, ochraceous to cinnamon. Colonies on PCA
+p45 c1 10.2pt | usually with entire, slightly undulate, or irregularly crenated edge,
+p45 c1 10.2pt | about 25–54 mm diam in 7 d at 25 °C, olivaceous buff, pale
+p45 c1 10.2pt | yellow to greenish olivaceous because of the sparse aerial
+
+=== page 47, left column ===
+p47 c0 10.2pt | hyphae together with ascomata and ascospores, without col-
+p47 c0 10.2pt | oured exudates; reverse olivaceous buff, pale yellow to greenish
+p47 c0 10.2pt | olivaceous. Colonies on MEA with entire or slightly lobate edge,
+p47 c0 10.2pt | about 36–53 mm diam in 7 d at 25 °C, forming thick yellowish
+p47 c0 10.2pt | white to pale yellow mycelium, sometimes with radiating furrows,
+p47 c0 10.2pt | reverse pale luteous to ochraceous. Isolate DTO 333E2 showed
+p47 c0 10.2pt | distinct colony morphology: white and a little bit wrinkled with
+p47 c0 10.2pt | entire edge, about 12–18 mm diam in 7 d at 25 °C, forming a
+p47 c0 10.2pt | relatively thin layer of aerial hyphae, reverse pale luteous. Col-
+p47 c0 10.2pt | onies on DG18 white with entire to crenated edge, about
+p47 c0 10.2pt | 8–15 mm diam in 7 d at 25 °C, with sparse white aerial hyphae,
+p47 c0 10.2pt | reverse pale yellow, pale luteous or rust. DTO 333E2 showed
+p47 c0 10.2pt | distinct colony morphology: buff and wrinkled with crenated
+p47 c0 10.2pt | edge, about 3–9 mm diam in 7 d at 25 °C, without aerial hyphae,
+p47 c0 10.2pt | reverse buff.
+p47 c0  8.1pt | _Specimens examined_:** Denmark**, isolated from feather by B. Andersen, cultures
+p47 c0  8.1pt | DTO 333-F3 (IBT 42278); DTO 333-E2 (IBT 41796).** South Africa**, isolated from
+p47 c0  8.1pt | dust, culture DTO 319-B8.
+p47 c0 10.2pt | _Notes_: Three isolates phylogenetically recognised as _D. indicus_
+p47 c0 10.2pt | were examined critically. Each of them showed distinct
+p47 c0 10.2pt | morphology. Isolate DTO 319-B8 presented relatively sparse
+p47 c0 10.2pt | terminal hairs with the branched part not significantly thinner than
+p47 c0 10.2pt | the basal part of the hairs (Fig. 29). DTO 333-E2 showed seta-
+p47 c0 10.2pt | like terminal hairs, and only parts of them were branched near
+p47 c0 10.2pt | the top (Fig. 30). DTO 333-F3 presented relatively numerous
+p47 c0 10.2pt | terminal hairs dichotomously branched in two different types, the
+p47 c0 10.2pt | thicker ones with the branched part conspicuously thinner than
+p47 c0 10.2pt | the basal parts (Fig. 31). The examined isolates also showed
+p47 c0 10.2pt | difference to some extent in ascospores. DTO 333-E2 produced
+p47 c0 10.2pt | the largest ascospores (6.5–7.5 × 4.5–5.5 × 3.5–4.5 μm)
+p47 c0 10.2pt | compared to those of the two other isolates, while DTO 333-F3
+p47 c0 10.2pt | produced narrower ascospores (5.5–6.5 × 3.5–4.5 × 2.5–3 μm)
+p47 c0 10.2pt | than DTO 319-B8 (5.5–6.5 × 4–5 × 3–4 μm).
+p47 c0 10.2pt | **Dichotomopilus pratensis** (X.W. Wang & L. Cai) X. Wei Wang
+p47 c0 10.2pt | & Samson, **comb.** **nov.** MycoBank MB818843. Fig. 32.
+p47 c0 10.2pt | _Basionym_: _Chaetomium_ _pratense_ X.W. Wang & L. Cai, Mycol.
+p47 c0 10.2pt | Prog. 13: 723. 2014.
+p47 c0 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to oliva-
+p47 c0 10.2pt | ceous in reflected light, subglobose or ovate, 135–230 μm high,
+p47 c0 10.2pt | 120–200 μm diam._ Ascomatal wall_ composed of brown, irregular
+p47 c0 10.2pt | or elongate cells (_textura_ _intricata_ or _epidermoidea_). _Terminal_
+p47 c0 10.2pt | _hairs_ dark brown and often attached by yellow but soluble
+p47 c0 10.2pt | crystals which would soon dissolve in the mounting solution,
+p47 c0 10.2pt | 4–6 μm diam near the base, erect, dichotomously branched at
+p47 c0 10.2pt | wide (nearly straight) to right angles primarily starting from the
+p47 c0 10.2pt | upper half part, verrucose. _Lateral_ _hairs_ unbranched, seta-like,
+p47 c0 10.2pt | tapering and fading towards tips. _Asci_ fasciculate, clavate,
+p47 c0 10.2pt | sometimes fusiform or pyriform, with 8 irregularly-arranged as-
+p47 c0 10.2pt | cospores, spore-bearing portion 14–22 × 8–11.5 μm, stalks
+p47 c0 10.2pt | 5–10 μm long, evanescent quickly._ Ascospores_ olivaceous when
+p47 c0 10.2pt | mature, broad ovate to nearly globose, bilaterally flattened,
+p47 c0 10.2pt | 5–6.5 × 4.5–5.5 × 3.5–4.5 μm, with an apical germ pore at the
+p47 c0 10.2pt | more attenuated end, and slight apiculate at the other end.
+p47 c0 10.2pt | _Asexual_ _morph_ unknown.
+
+=== page 47, right column ===
+p47 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA pale luteous to amber
+p47 c1 10.2pt | with entire or slightly undulate edge, about 34–40 mm diam in
+p47 c1 10.2pt | 7 d at 25 °C, with sparse aerial hyphae, with amber exudates
+p47 c1 10.2pt | diffusing into the medium, reverse amber to luteous. Colonies on
+p47 c1 10.2pt | PCA translucent with entire edge, about 43–49 mm diam in 7 d
+p47 c1 10.2pt | at 25 °C, pale luteous to greenish olivaceous because of the
+p47 c1 10.2pt | formation of ascomatal, without aerial hyphae, without coloured
+p47 c1 10.2pt | exudates; reverse buff to pale luteous under the clusters of
+p47 c1 10.2pt | ascomata. Colonies on MEA amber, with irregularly lobate edge,
+p47 c1 10.2pt | about 29–35 mm diam in 7 d at 25 °C, with sparse yellow aerial
+p47 c1 10.2pt | hyphae, reverse luteous to ochraceous. Colonies on DG18 with
+p47 c1 10.2pt | entire edge, about 28–34 mm diam in 7 d at 25 °C, with yellow to
+p47 c1 10.2pt | amber aerial hyphae, reverse amber to luteous.
+p47 c1  8.1pt | _Specimen_ _examined_: **Germany**, Kiel-Kitzeberg, isolated from air by K.H.
+p47 c1  8.1pt | Domsch, culture CBS 860.68.
+p47 c1 10.2pt | _Notes_: Comparing several isolates of _D._ _pratensis_ indicated a
+p47 c1 10.2pt | stable morphology. This species can be easily distinguished by
+p47 c1 10.2pt | its yellow to amber colony, broad ovate to nearly globose as-
+p47 c1 10.2pt | cospores and the terminal hairs usually branched at wide
+p47 c1 10.2pt | (straight to right) angle. Prevously, a mistake in sequencing gave
+p47 c1 10.2pt | a wrong identification for the indoor isolate CBS 860.68 (was
+p47 c1 10.2pt | wrongly identified as _Ch._ _indicum_ in Wang _et_ _al._ 2014). We
+p47 c1 10.2pt | corrected this mistake in the present study.
+p47 c1 10.2pt | **Dichotomopilus pseudoerectus** X. Wei Wang & Samson,** sp.**
+p47 c1 10.2pt | **nov.** MycoBank MB818844. Fig. 33.
+p47 c1 10.2pt | _Etymology_: Name refers to its similarity to _D._ _erectus_ (= _Ch._
+p47 c1 10.2pt | _erectum_).
+p47 c1 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to oliva-
+p47 c1 10.2pt | ceous grey in reflected light, subglobose or ovate, 135–220 μm
+p47 c1 10.2pt | high, 125–195 μm diam. _Ascomatal_ _wall_ composed of brown,
+p47 c1 10.2pt | angular or elongate hypha-like cells (_textura angularis_ mixed with
+p47 c1 10.2pt | _textura_ _intricata_). _Terminal_ _hairs_ dark brown, irregular in length
+p47 c1 10.2pt | and often attached by amber but soluble crystals which would
+p47 c1 10.2pt | soon dissolve in the mounting solution, 3–4.5 μm diam near the
+p47 c1 10.2pt | base, dichotomously branched at wide to acute angles starting
+p47 c1 10.2pt | near the bases, verrucose. _Lateral_ _hairs_ similar to the terminal
+p47 c1 10.2pt | ones but shorter, or seta-like._ Asci_ fasciculate, with 8 irregularly-
+p47 c1 10.2pt | arranged ascospores visible, clavate, broadly clavate, pyriform to
+p47 c1 10.2pt | ovate, spore-bearing portion 10–15 × 7.5–10.5 μm, stalks
+p47 c1 10.2pt | 4.5–10.5 μm long, evanescent quickly. _Ascospores_ olivaceous
+p47 c1 10.2pt | when mature, ovate to broad ovate, bilaterally flattened,
+p47 c1 10.2pt | 5.5–6.5(–7) × 5–5.5 × 3.5–4 μm, with an apical germ pore at
+p47 c1 10.2pt | the more attenuated end. _Asexual_ _morph_ unknown.
+p47 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge and
+p47 c1 10.2pt | spreading rapidly, over 70 mm diam in 7 d at 25 °C, with luteous
+p47 c1 10.2pt | to ochraceous and floccose aerial hyphae, with amber to
+p47 c1 10.2pt | ochraceous exudates diffusing into the medium, reverse ochra-
+p47 c1 10.2pt | ceous. Colonies on PCA olivaceous with entire edge, about
+p47 c1 10.2pt | 45–51 mm diam in 7 d at 25 °C, with pale yellow to pale luteous,
+p47 c1 10.2pt | sparse and floccose aerial hyphae, without coloured exudates;
+p47 c1 10.2pt | reverse honey. Colonies on MEA white to pale yellow, with
+p47 c1 10.2pt | irregularly fimbriate edge, wrinkled with irregularly radiating fur-
+p47 c1 10.2pt | rows, about 22–26 mm diam in 7 d at 25 °C, with sparse aerial
+
+=== page 51, left column ===
+p51 c0 10.2pt | hyphae, reverse luteous to fulvous. Colonies on DG18 pale
+p51 c0 10.2pt | ochraceous with entire edge, about 7–13 mm diam in 7 d at
+p51 c0 10.2pt | 25 °C, without aerial hyphae, reverse pale luteous.
+p51 c0  8.1pt | _Specimen examined_:** India**, Uttar Pradesh, isolated from air by Kamal (**holotype**
+p51 c0  8.1pt | CBS H-22846, culture ex-type CBS 252.75).
+p51 c0 10.2pt | _Notes_: the ex-type culture CBS 252.75 is deposited in the CBS
+p51 c0 10.2pt | collection as_ Ch. erectum_. This species is indeed morphologically
+p51 c0 10.2pt | similar to_ D. erectus_ (=_ Ch. erectum_). However, the phylogenetic
+p51 c0 10.2pt | analysis (Fig. 1) indicated that it is closer to_ D. ramosissimus_ than
+p51 c0 10.2pt | to _D._ _erectus_. _Dichotomophilus_ _pseudoerectus_ can be differen-
+p51 c0 10.2pt | tiated from _D._ _ramosissimus_ by relatively sparse terminal asco-
+p51 c0 10.2pt | matal hairs which are often different in length.
+p51 c0 10.2pt | **Dichotomopilus pseudofunicola** X. Wei Wang & Samson,** sp.**
+p51 c0 10.2pt | **nov.** MycoBank MB818845. Fig. 34.
+p51 c0 10.2pt | _Etymology_: Name refers to its similarity to _D._ _funicola_.
+p51 c0 10.2pt | _Ascomata_ superficial, ostiolate, grey olivaceous to dark grey
+p51 c0 10.2pt | olivaceous in reflected light, subglobose or ovate, 140–260 μm
+p51 c0 10.2pt | high, 130–235 μm diam. _Ascomatal_ _wall_ composed of brown,
+p51 c0 10.2pt | hypha-like or irregular cells (_textura_ _intricata_). _Terminal_ _hairs_
+p51 c0 10.2pt | olivaceous brown, 4–7 μm diam near the base, punctulate, partly
+p51 c0 10.2pt | longer and erect, seta-like, unbranched or dichotomously
+p51 c0 10.2pt | branched 1–3 times at wide to acute angles usually only at the top
+p51 c0 10.2pt | part; partly shorter, dichotomously branched profusely starting
+p51 c0 10.2pt | near the base and forming a globose net to enfold ascospores.
+p51 c0 10.2pt | _Lateral hairs_ unbranched, seta-like, tapering and fading towards
+p51 c0 10.2pt | tips._ Asci_ fasciculate, clavate, broadly clavate to pyriform or ovate,
+p51 c0 10.2pt | with 8 irregularly-arranged ascospores, spore-bearing portion
+p51 c0 10.2pt | 12–18 × 7–10.5 μm, stalks 6–11 μm long, evanescent quickly.
+p51 c0 10.2pt | _Ascospores_ olivaceous when mature, ovate to limoniform, bia-
+p51 c0 10.2pt | piculate, bilaterally flattened, 5.5–6(–6.5) × 4–5 × 3.5–4 μm, with
+p51 c0 10.2pt | an apical germ pore at the more attenuated end._ Asexual morph_
+p51 c0 10.2pt | unknown.
+p51 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p51 c0 10.2pt | about 55–61 mm diam in 7 d at 25 °C, with yellowish white to
+p51 c0 10.2pt | pale yellow, producing honey to pale luteous exudates diffusing
+p51 c0 10.2pt | into the medium; reverse pale luteous. Colonies on PCA with
+p51 c0 10.2pt | entire edge, about 54–60 mm diam in 7 d at 25 °C, olivaceous
+p51 c0 10.2pt | buff, greenish olivaceous in the centre because of the formation
+p51 c0 10.2pt | of ascomata, without coloured exudates; reverse olivaceous buff.
+p51 c0 10.2pt | Colonies on MEA white to pale yellow with an entire and pale
+p51 c0 10.2pt | olivaceous buff edge, about 45–51 mm diam in 7 d at 25 °C,
+p51 c0 10.2pt | forming floccose aerial hyphae, without coloured exudates,
+p51 c0 10.2pt | reverse ochraceous. Colonies on DG18 white to buff with an
+p51 c0 10.2pt | entire edge, about 11–17 mm diam in 7 d at 25 °C, without aerial
+p51 c0 10.2pt | hyphae, without coloured exudates; reverse pale buff.
+p51 c0  8.1pt | _Specimen examined_:** USA**, isolated from dust by Whitfield & K. Mwange in 2009
+p51 c0  8.1pt | (**holotype** CBS H-22847, culture ex-type CBS 142033 = DTO 318-I7).
+p51 c0 10.2pt | _Notes_: Based on the examined isolate, this species seems to be
+p51 c0 10.2pt | the best example to reflect the description of _D._ _funicola_ (= _Ch._
+p51 c0 10.2pt | _funicola_) given by von Arx _et_ _al._ (1986), showing seta-like
+p51 c0 10.2pt | together with repeatedly dichotomously branched terminal
+
+=== page 51, right column ===
+p51 c1 10.2pt | hairs. The isolate of _D._ _pseudofunicola_ grew slower than the
+p51 c1 10.2pt | isolates of_ D. funicola_. As this species is only known by the type,
+p51 c1 10.2pt | more isolates are waited for a better delimitation of this species.
+p51 c1 10.2pt | **Dichotomopilus** **subfunicola** (X.W. Wang & L. Cai) X. Wei
+p51 c1 10.2pt | Wang & Samson,** comb. nov.** MycoBank MB818846. Figs 35, 36.
+p51 c1 10.2pt | _Basionym_:_ Chaetomium subfunicola_ X.W. Wang & L. Cai, Mycol.
+p51 c1 10.2pt | Prog. 13: 723. 2014.
+p51 c1 10.2pt | _Ascomata_ superficial, ostiolate, greenish olivaceous to citrine
+p51 c1 10.2pt | olivaceous in reflected light, subglobose to ellipsoid, 145–270 μm
+p51 c1 10.2pt | high, 120–250 μm diam. _Ascomatal_ _wall_ composed of brown,
+p51 c1 10.2pt | irregular or elongate cells (_textura_ _intricata_ or _epidermoidea_).
+p51 c1 10.2pt | _Terminal hairs_ composed of two types: (1) wider, dark brown and
+p51 c1 10.2pt | erect, 3.5–6 μm diam near the base, tapering and fading towards
+p51 c1 10.2pt | tips, seta-like or dichotomously branched at wide to acute angles
+p51 c1 10.2pt | starting near the base, verrucose; (2) thinner, umber to brown,
+p51 c1 10.2pt | 2.5–4.5 μm diam near the base, dichotomously branched pro-
+p51 c1 10.2pt | fusely at wide to acute angles starting near the base and often
+p51 c1 10.2pt | forming a loose net to enfold ascospores (CBS 812.73), or only
+p51 c1 10.2pt | composed of the thinner type ones (CBS 794.83). _Lateral_ _hairs_
+p51 c1 10.2pt | simply branched or seta-like, tapering and fading towards tips.
+p51 c1 10.2pt | _Asci_ fasciculate, with 8 irregularly-arranged ascospores, clavate,
+p51 c1 10.2pt | ovate to broadly ovate or pyriform, spore-bearing portion
+p51 c1 10.2pt | 12.5–18.5 × 7.5–12 μm, stalks 4.5–9 μm long, evanescent
+p51 c1 10.2pt | quickly. _Ascospores_ olivaceous when mature, ovate, bilaterally
+p51 c1 10.2pt | flattened, 5.5–6.5(–7.5) × 4–5 × 3.5–4(–4.5) μm, with an apical
+p51 c1 10.2pt | germ pore at the more attenuated end._ Asexual morph_ unknown.
+p51 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p51 c1 10.2pt | about 46–54 mm diam in 7 d at 25 °C, with pale yellow, floccose
+p51 c1 10.2pt | aerial hyphae, producing pale luteous, pale citrine, citrine green
+p51 c1 10.2pt | to greenish olivaceous exudates diffusing into the medium;
+p51 c1 10.2pt | reverse pale luteous, citrine, greyish yellow-green to citrine
+p51 c1 10.2pt | green. Colonies on PCA pale yellow to greenish olivaceous
+p51 c1 10.2pt | because of the sparse aerial hyphae and ascomata, with entire
+p51 c1 10.2pt | or slightly lobate edge, about 55–62 mm diam in 7 d at 25 °C,
+p51 c1 10.2pt | without coloured exudates; reverse uncoloured. Colonies on
+p51 c1 10.2pt | MEA with lobate edge, about 41–47 mm diam in 7 d at 25 °C,
+p51 c1 10.2pt | forming profuse and pale yellow mycelium, greenish olivaceous
+p51 c1 10.2pt | because of the formation of ascomata (CBS 812.73), or with
+p51 c1 10.2pt | white to pale yellow aerial hyphae forming a few crenated
+p51 c1 10.2pt | concentric circles near the edge (CBS 794.83), without coloured
+p51 c1 10.2pt | exudates, reverse pale luteous to ochraceous. Colonies on
+p51 c1 10.2pt | DG18 pale luteous, with slightly lobate or crenated edge, about
+p51 c1 10.2pt | 7–16 mm diam in 7 d at 25 °C, with white aerial hyphae, without
+p51 c1 10.2pt | coloured exudates; reverse pale luteous.
+p51 c1  8.1pt | _Specimens_ _examined_: **New** **Guinea**, isolated from pistol belt by E.T. Reese,
+p51 c1  8.1pt | culture CBS 812.73.** Switzerland**, Engadin, isolated from paper by M. Dreyfuss,
+p51 c1  8.1pt | culture CBS 794.83.
+p51 c1 10.2pt | _Notes_: _Dichotomopilus_ _subfunicola_ is another species close to
+p51 c1 10.2pt | _D._ _funicola_. There is phylogenetic variation within the species,
+p51 c1 10.2pt | but no strong evidence allowed us to segregate it into two
+p51 c1 10.2pt | different species. This species also showed high morphological
+p51 c1 10.2pt | intra-species variation, especially in terminal ascomatal hairs.
+
+=== page 59, left column ===
+p59 c0 10.2pt | Isolates of the species often form two types of ascomatal hairs,
+p59 c0 10.2pt | but some isolates produce only one type (CBS 794.83, Fig. 36).
+p59 c0 10.2pt | Wang_ et al._ (2014) differentiated_ D. subfunicola_ from_ D. funicola_
+p59 c0 10.2pt | by broader (ovate) asci. Examination of more isolates showed a
+p59 c0 10.2pt | morphological diversity in the shape of the asci, and this in-
+p59 c0 10.2pt | dicates that this character is not suitable for differentiation be-
+p59 c0 10.2pt | tween those two species.
+p59 c0 10.2pt | **Dichotomopilus** **variostiolatus** (Carter) X. Wei Wang &
+p59 c0 10.2pt | Samson, **comb.** **nov.** MycoBank MB818847. Figs 37–39.
+p59 c0 10.2pt | _Basionym_:_ Chaetomium variostiolatum_ Carter, Canad. J. Bot. 61:
+p59 c0 10.2pt | 2603. 1983.
+p59 c0 10.2pt | _Ascomata_ superficial, or covered by white to pale yellow aerial
+p59 c0 10.2pt | hyphae, ostiolate, olivaceous grey dark brick to brown vinaceous
+p59 c0 10.2pt | in reflected light due to ascomatal hairs, globose or subglobose,
+p59 c0 10.2pt | 150–250 μm diam. _Ascomatal_ _wall_ brown, _textura_ _intricata_ or
+p59 c0 10.2pt | _epidermoidea_ in surface view. _Ascomatal_ _hairs_ seta-like or
+p59 c0 10.2pt | flexuous, smooth to finely verrucose, brown, 4–6.5 μm diam
+p59 c0 10.2pt | near the base, fading and tapering towards the tips (CBS
+p59 c0 10.2pt | 179.84), or olivaceous to brown, 2–3.5 μm diam near the base,
+p59 c0 10.2pt | dichotomously branched profusely at wide angles starting near
+p59 c0 10.2pt | the base and forming a nearly globose net to enfold ascospores,
+p59 c0 10.2pt | and often with several longer hairs out of the net (DTO 319-A2),
+p59 c0 10.2pt | or composed of both types: (1) thinner, olivaceous to brown,
+p59 c0 10.2pt | 1.6–3.5 μm diam near the base, dichotomously branched pro-
+p59 c0 10.2pt | fusely at acute to wide angles starting near the base, often
+p59 c0 10.2pt | constricted at septa, verrucose; (2) wider, dark brown and erect,
+p59 c0 10.2pt | 3–5 μm diam near the base, tapering and fading towards tips,
+p59 c0 10.2pt | seta-like or branched near the top, the branches often constricted
+p59 c0 10.2pt | at septa, verrucose (DTO 319-B9)._ Lateral hairs_ simply branched
+p59 c0 10.2pt | or seta-like, tapering and fading towards tips, sometimes covered
+p59 c0 10.2pt | by pale yellow soluble crystals. _Asci_ fasciculate, clavate, fusi-
+p59 c0 10.2pt | form, pyriform or obovate, with 8 irregularly arranged asco-
+p59 c0 10.2pt | spores, spore-bearing part 11–24 × 7–12.5 μm, stalks 7–20 μm
+p59 c0 10.2pt | long, evanescent quickly. _Ascospores_ brown when mature,
+p59 c0 10.2pt | ovate, (5–)5.5–6.5(–7) × (3.5–)4–4.5(–5) × 3–4 μm, with an
+p59 c0 10.2pt | apical germ pore at the attenuated end. _Asexual_ _morph_
+p59 c0 10.2pt | unknown.
+p59 c0 10.2pt | _Culture characteristics_: Colonies on OA with lobate edge, about
+p59 c0 10.2pt | 34–46 mm diam (CBS 179.84 and DTO 319-B9) or spreading
+p59 c0 10.2pt | rapidly, over 70 mm diam (DTO 319-A2) in 7 d at 25 °C, with a
+p59 c0 10.2pt | relatively thick layer of white mycelium varying usually in
+p59 c0 10.2pt | thickness (CBS 179.84), or white to pale yellow at the beginning
+p59 c0 10.2pt | because of the aerial hyphae, gradually olivaceous grey
+p59 c0 10.2pt | because of the formation of ascomata (DTO 319-A2), or with
+p59 c0 10.2pt | sparse pale yellow aerial hyphae (DTO 319-B9), producing
+p59 c0 10.2pt | luteous, amber, citrine green to citrine exudates diffusing into
+p59 c0 10.2pt | the medium; reverse pale luteous, greyish olivaceous or greyish
+p59 c0 10.2pt | yellow-green. Colonies on PCA translucent, with an entire or
+p59 c0 10.2pt | crenated edge, about 29–47 mm diam (CBS 179.84 and DTO
+p59 c0 10.2pt | 319-B9) or over 70 mm diam (DTO 319-A2) in 7 d at 25 °C,
+p59 c0 10.2pt | with sparse and floccose aerial hyphae, without coloured exu-
+p59 c0 10.2pt | dates; reverse uncoloured. Colonies on MEA with an entire or
+p59 c0 10.2pt | lobate to irregularly crenated edge, about 34–40 mm diam(CBS
+p59 c0 10.2pt | 179.84 and DTO 319-B9), or about 54–60 mm diam (DTO 319-
+p59 c0 10.2pt | A2) in 7 d at 25 °C, with floccose and white aerial hyphae
+p59 c0 10.2pt | together with several radiated furrows and a dark ring around
+p59 c0 10.2pt | the central point because of the formation of ascomata (CBS
+p59 c0 10.2pt | 179.84 and DTO 319-B9), or white to greyish yellow-green
+
+=== page 59, right column ===
+p59 c1 10.2pt | because of the profuse aerial hyphae and ascomata below
+p59 c1 10.2pt | (DTO 319-A2) without coloured exudates; reverse luteous to
+p59 c1 10.2pt | ochraceous. Colonies on DG18 white to buff with an entire, a
+p59 c1 10.2pt | slightly crenated or lobate to edge, about 9–18 mm diam in 7 d
+p59 c1 10.2pt | at 25 °C, with a white floccose ring composed of aerial hyphae
+p59 c1 10.2pt | near the edge (CBS 179.84),or without aerial hyphae (DTO 319-
+p59 c1 10.2pt | A2 and DTO 319-B9), without coloured exudates, reverse
+p59 c1 10.2pt | uncoloured.
+p59 c1  8.1pt | _Specimens examined_:** New Guinea**, collected from tarpaulin by E.T. Reese, ex-
+p59 c1  8.1pt | type culture CBS 179.84. **Thailand**, isolated from dust, cultures DTO 319-B9;
+p59 c1  8.1pt | DTO 319-C1. **USA**, isolated from dust, culture DTO 319-A2.
+p59 c1 10.2pt | _Notes_:_ Dichotomopilus_ _variostiolatus_ was originally described to
+p59 c1 10.2pt | possess unbranched seta-like terminal hairs on the basis of the
+p59 c1 10.2pt | ex-type culture CBS 179.84 (Carter 1983). This study confirmed
+p59 c1 10.2pt | the examination of Carter (Fig. 37), proving a stable morphology
+p59 c1 10.2pt | of the ex-type culture. At the same time, several indoor isolates
+p59 c1 10.2pt | were found to cluster with the ex-type. These isolates produce
+p59 c1 10.2pt | either dichotomously branched (Fig. 38) or together with seta-like
+p59 c1 10.2pt | (Fig. 39) terminal hairs, indicating a broad range of the species
+p59 c1 10.2pt | population.
+p59 c1 10.2pt | **Humicola** Traaen, _Nytt_ _Mag._ _Natur._ 52: 33. 1914.
+p59 c1 10.2pt | _Type_ _species_: _Humicola_ _fuscoatra_ Traaen
+p59 c1 10.2pt | Two indoor taxa of this genus were recognised in this study. They
+p59 c1 10.2pt | are clustered closely with the type species of _Humicola_,
+p59 c1 10.2pt | _H._ _fuscoatra_ (ex-type CBS 118.14) in a strongly supported
+p59 c1 10.2pt | monophyletic lineage (Fig. 1).
+p59 c1 10.2pt | **Humicola** **olivacea** X. Wei Wang & Samson, **sp.** **nov.** Myco-
+p59 c1 10.2pt | Bank MB818848. Fig. 40.
+p59 c1 10.2pt | _Etymology_: Name refers to the colony colour of this fungus.
+p59 c1 10.2pt | _Somatic hyphae_ hyaline to honey, 1–2.5 μm wide._ Aleurioconidia_
+p59 c1 10.2pt | usually produced singly or in chains on 2–8 μm long or very
+p59 c1 10.2pt | reduced lateral hyphae, olivaceous brown, subglobose to broad
+p59 c1 10.2pt | obovate, attenuated at the base, (7.5–)8–9.5(–11) × (7–)
+p59 c1 10.2pt | 7.5–9(–10) μm. Description of the micromorphology was based
+p59 c1 10.2pt | on the culture on SNA.
+p59 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p59 c1 10.2pt | about 49–55 mm diam in 7 d at 25 °C, greenish olivaceous
+p59 c1 10.2pt | because of the formation of a large number of conidia, with a thin
+p59 c1 10.2pt | layer of aerial hyphae; reverse black. Colonies on PCA greenish
+p59 c1 10.2pt | olivaceous to grey olivaceous, with an entire edge, about
+p59 c1 10.2pt | 37–43 mm diam in 7 d at 25 °C, with sparse white to grey aerial
+p59 c1 10.2pt | hyphae; reverse black with grey edge. Colonies on MEA white,
+p59 c1 10.2pt | with an entire edge, 47–53 mm diam in 7 d at 25 °C, forming
+p59 c1 10.2pt | radiating furrows, with white and relatively sparse floccose aerial
+p59 c1 10.2pt | hyphae; reverse olivaceous buff to greenish olivaceous. Colonies
+p59 c1 10.2pt | on DG18 olivaceous with an entire and buff edge, about
+p59 c1 10.2pt | 13–19 mm diam in 7 d at 25 °C, with olivaceous aerial hyphae;
+p59 c1 10.2pt | reverse hazel with buff edge. Colonies on SNA with an entire
+p59 c1 10.2pt | edge, about 41–47 mm diam in 7 d at 25 °C, translucent, without
+p59 c1 10.2pt | aerial hyphae, grey olivaceous in the centre; reverse olivaceous
+p59 c1 10.2pt | in the centre.
+p59 c1  8.1pt | _Specimen_ _examined_: **USA**, isolated from dust by K. Seifert (**holotype** CBS H-
+p59 c1  8.1pt | 22848, culture ex-type CBS 142031 = DTO 319-C7).
+
+=== page 61, left column ===
+p61 c0 10.2pt | _Notes_: This species is morphologically similar to _H._ _glauca_,
+p61 c0 10.2pt | _H. lutea_ and _H. repens_ (Bertoldi 1976), especially in shape and
+p61 c0 10.2pt | size of aleurioconidia, but can be distinguished by the colour of
+p61 c0 10.2pt | aleurioconidia, the colony morphology and the formation of
+p61 c0 10.2pt | aleurioconidia easily in chains. The ITS sequence data also
+p61 c0 10.2pt | supported the differences between this species and the three
+p61 c0 10.2pt | morphologically similar species (data not shown here).
+p61 c0 10.2pt | **Humicola** sp. Fig. 41.
+p61 c0 10.2pt | _Somatic_ _hyphae_ hyaline to subhyaline, 1–3 μm wide. _Aleur-_
+p61 c0 10.2pt | _ioconidia_ produced terminally or laterally singly or two in chains
+p61 c0 10.2pt | on hyaline to pale brown hyphae which are very reduced till up to
+p61 c0 10.2pt | 16 μm long, smooth, globose, obovoid, pyriform to clavate, pale
+p61 c0 10.2pt | brown to brown, (7.5–)8.5–11.5(–13.5) × (5.5–)7.5–9(–11) μm.
+p61 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire or irreg-
+p61 c0 10.2pt | ularly undulated edge, about 52–58 mm diam in 7 d at 25 °C,
+p61 c0 10.2pt | partially with thick white and floccose aerial hyphae, immersed
+p61 c0 10.2pt | hyphae grey to black; reverse black. Colonies on PCA white to
+p61 c0 10.2pt | honey, with an entire edge, about 48–54 mm diam in 7 d at
+p61 c0 10.2pt | 25 °C, translucent, with thick white aerial hyphae in the centre;
+p61 c0 10.2pt | reverse white to smoke grey, black in the centre. Colonies on
+p61 c0 10.2pt | MEA with an entire edge, 51–57 mm diam in 7 d at 25 °C, with
+p61 c0 10.2pt | thick, white to honey floccose aerial hyphae; reverse black.
+p61 c0 10.2pt | Colonies on DG18 white, with an entire edge, about 18–24 mm
+p61 c0 10.2pt | diam in 7 d at 25 °C, with relatively thin white aerial hyphae;
+p61 c0 10.2pt | reverse pale luteous, black in the centre. Colonies on SNA white,
+p61 c0 10.2pt | with an entire edge, about 56–62 mm diam in 7 d at 25 °C,
+p61 c0 10.2pt | translucent with sparse and uneven white aerial hyphae; reverse
+p61 c0 10.2pt | partially black.
+p61 c0  8.1pt | _Specimens_ _examined_: **Mexico**, isolated from dust, cultures DTO 318-G9; DTO
+p61 c0  8.1pt | 318-H1. **South** **Africa**, isolated from dust, culture DTO 319-B7.
+p61 c0 10.2pt | _Notes_: These isolates are morphologically similar to_ H. piriformis_
+p61 c0 10.2pt | especially in the shape of their aleurioconidia. However, it differs
+p61 c0 10.2pt | in having larger aleurioconidia than _H._ _piriformis_ (7.0–7.5 μm
+p61 c0 10.2pt | diam). The ITS sequences of _H._ _aurea_, _H._ _glauca_, _H._ _lutea_,
+p61 c0 10.2pt | _H. piriformis_ and_ H. repens_ are identical and our indoor isolates
+p61 c0 10.2pt | differ only by one base pair. ITS sequences seemed not to be
+p61 c0 10.2pt | informative enough to distinguish the aleurioconidial fungi. For
+p61 c0 10.2pt | example, the ITS sequences of _H._ _grisea_ and _Trichocladium_
+p61 c0 10.2pt | _asperum_ were identical (data not shown here), but the
+p61 c0 10.2pt | morphology of these two species are distinct (Hambleton _et_ _al._
+p61 c0 10.2pt | 2005). Cultures of all the related species and more research
+p61 c0 10.2pt | are needed to re-evaluate these related species, and then to
+p61 c0 10.2pt | make an identification decision for this taxon.
+p61 c0 10.2pt | _Humicola_ is a well-known hyphomycetous genus possessing
+p61 c0 10.2pt | smooth-walled and usually aseptate aleurioconidia forming
+p61 c0 10.2pt | attached to lateral or terminal conidiogenous cells (Bertoldi 1976,
+p61 c0 10.2pt | Hambleton_ et al._ 2005). Further study is strongly encouraged to
+p61 c0 10.2pt | clarify the relationships of the_ Humicola_ species included in this
+p61 c0 10.2pt | study to the other_ Humicola_ species as well as the members of
+p61 c0 10.2pt | _Farrowia_ (Hawksworth 1975) and some traditional species of
+p61 c0 10.2pt | _Chaetomium_ such as_ C. homopilatum_ which have humicola-like
+p61 c0 10.2pt | asexual morphs.
+
+=== page 61, right column ===
+p61 c1 10.2pt | **Melanocarpus** Arx, Stud. Mycol. 8:17. 1975.
+p61 c1 10.2pt | _Type_ _species_: _Melanocarpus_ _albomyces_ (Cooney & R. Emers.)
+p61 c1 10.2pt | Arx
+p61 c1 10.2pt | **Melanocarpus** **tardus** X. Wei Wang & Samson, **sp.** **nov.**
+p61 c1 10.2pt | MycoBank MB818849. Fig. 42.
+p61 c1 10.2pt | _Etymology_: Name refers to the restricted growth of this fungus on
+p61 c1 10.2pt | the agar media.
+p61 c1 10.2pt | _Ascomata_ superficial, or embedded in white aerial mycelium,
+p61 c1 10.2pt | often aggregated, non-ostiolate, black in reflected light, glabrous
+p61 c1 10.2pt | or with a few hypha-like and hyaline hairs, globose, 50–170 μm
+p61 c1 10.2pt | diam._ Ascomatal wall_ brown, ochraceous or fulvous when young,
+p61 c1 10.2pt | dark brown to black when mature, _textura_ _epidermoidea_ or
+p61 c1 10.2pt | _intricata_ in surface view._ Asci_ fasciculate, ovate to broadly ovate,
+p61 c1 10.2pt | spore-bearing portion 11–16.5 × 9–13.5 μm, stalks 4–9.5 μm
+p61 c1 10.2pt | long, with 8 irregularly-arranged ascospores, evanescent quickly
+p61 c1 10.2pt | before the ascospores mature._ Ascospores_ brown when mature,
+p61 c1 10.2pt | ovate to broadly ovate, bilaterally flattened, 7–8(–8.5) × (6–)
+p61 c1 10.2pt | 6.5–7.5 × 5–6 μm, with an apical germ pore at the attenuated
+p61 c1 10.2pt | end. _Asexual_ _morph_ unknown.
+p61 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA growing slowly, about
+p61 c1 10.2pt | 2–7 mm diam in 7 d at 25 °C, with an entire edge, with white,
+p61 c1 10.2pt | floccose and compact aerial mycelium, without coloured exu-
+p61 c1 10.2pt | dates, or producing honey to greenish olivaceous exudates
+p61 c1 10.2pt | diffusing into the medium when becoming old; reverse uncol-
+p61 c1 10.2pt | oured. Colonies on PCA with an entire edge, about 2–8 mm diam
+p61 c1 10.2pt | in 7 d at 25 °C, buff, slightly floccose, without coloured exudates;
+p61 c1 10.2pt | reverse uncoloured. Colonies on MEA with a lobate edge, about
+p61 c1 10.2pt | 3–8 mm diam in 7 d at 25 °C, with white and floccose mycelium,
+p61 c1 10.2pt | without coloured exudates; reverse uncoloured. The growth of
+p61 c1 10.2pt | colonies on DG18 was restricted, less than 2 mm after 7 d at
+p61 c1 10.2pt | 25 °C, without coloured exudates; reverse uncoloured.
+p61 c1  8.1pt | _Specimen_ _examined_: **Switzerland**, St. Gallen, isolated from cotton jacket
+p61 c1  8.1pt | by E. Müller in Sep. 1976 (**holotype** CBS H-22849, culture ex-type CBS
+p61 c1  8.1pt | 541.76).
+p61 c1 10.2pt | _Notes_: The ex-type culture CBS 541.76 is deposited in the CBS
+p61 c1 10.2pt | collection as_ T. minuta_._ Thielavia minuta_ was originally described
+p61 c1 10.2pt | to have rapidly spreading colonies. Furthermore, the ascomata are
+p61 c1 10.2pt | covered by a dense layer of curved brown and curved hairs, and
+p61 c1 10.2pt | the ascospores are ovate shaped, measuring 6.5–8 × 5–5.5 μm
+p61 c1 10.2pt | (Cain 1961). CBS 541.76 exhibits very restricted growth on agar
+p61 c1 10.2pt | media, and the ascomata are glabrous or nearly so, and contain
+p61 c1 10.2pt | conspicuously bilaterally flattened ascospores. This combination
+p61 c1 10.2pt | of characteristics does not fit with that of_ T. minuta_ and therefore a
+p61 c1 10.2pt | new species was introduced for this isolate.
+p61 c1 10.2pt | Although _Melanocarpus_ _tardus_ and the type species of the
+p61 c1 10.2pt | genus _Melanocarpus_, _Me._ _albomyces_ are on two very long
+p61 c1 10.2pt | branches in the phylogenetic tree (Fig. 1), they clustered together
+p61 c1 10.2pt | with high statistic support. We prefer to keep this species as a
+p61 c1 10.2pt | member of _Melanocarpus_ rather than introducing a novel
+p61 c1 10.2pt | monotypic genus to accommodate it.
+
+=== page 63, left column ===
+p63 c0 10.2pt | The genus _Melanocarpus_ was considered to possess non-
+p63 c0 10.2pt | ostiolate ascomata, and differs from _Thielavia_ in having
+p63 c0 10.2pt | spreading colonies; obovate, spherical or oblate ascospores and
+p63 c0 10.2pt | chrysonilia-like asexual morph (von Arx_ et al._ 1988). The isolate
+p63 c0 10.2pt | CBS 541.76 does not produce spreading colonies and
+p63 c0 10.2pt | chrysonilia-like asexual morph. The addition of this species into
+p63 c0 10.2pt | _Melanocarpus_ prompts the re-evaluation of this genus.
+p63 c0 10.2pt | **Ovatospora** X. Wei Wang, Samson & Crous, **gen.** **nov.** Myco-
+p63 c0 10.2pt | Bank MB818850. Figs 43, 44.
+p63 c0 10.2pt | _Etymology_: Name refers to ovate to broad ovate ascospores of
+p63 c0 10.2pt | all the known species in this genus.
+p63 c0 10.2pt | _Type species_:_ Ovatospora brasiliensis_ (Batista & Pontual) (=_ Ch._
+p63 c0 10.2pt | _brasiliense_).
+p63 c0 10.2pt | _Ascomata_ superficial, ostiolate, subglobose or ovate with brown
+p63 c0 10.2pt | walls of_ textura angularis_ in surface view._ Terminal hairs_ usually
+p63 c0 10.2pt | coiled, sometimes with coiled branches. _Lateral_ _hairs_ flexuous.
+p63 c0 10.2pt | _Asci_ fasciculate, cylindrical with 8 uniseriate ascospores, or
+p63 c0 10.2pt | clavate with 8 biseriate or irregularly arranged ascospores,
+p63 c0 10.2pt | evanescent. _Ascospores_ brown when mature, broadly ovate,
+p63 c0 10.2pt | bilaterally flattened, rounded at one end, with an apical germ pore
+p63 c0 10.2pt | at another attenuate or apiculate end._ Asexual morph_ unknown.
+p63 c0 10.2pt | **Ovatospora** **brasiliensis** (Batista & Pontual) X. Wei Wang &
+p63 c0 10.2pt | Samson, **comb.** **nov.** MycoBank MB818851. Fig. 45.
+p63 c0 10.2pt | _Basionym_: _Chaetomium_ _brasiliense_ Batista & Pontual, Bol. Agr.
+p63 c0 10.2pt | Com. Pernambuco 15: 70. 1948.
+p63 c0 10.2pt | _Ascomata_ superficial, pale olivaceous grey to mouse grey in
+p63 c0 10.2pt | reflected light due to ascomatal hairs, globose or subglobose,
+p63 c0 10.2pt | ostiolate, 85–135 μm high, 75–110 μm diam. _Ascomatal_ _wall_
+p63 c0 10.2pt | brown,_ textura angularis_, sometimes mixed with_ textura intricata_
+p63 c0 10.2pt | in surface view. _Terminal_ _hairs_ undulate to loosely coiled with
+p63 c0 10.2pt | erect or flexuous lower part, conspicuously rough (granulate),
+p63 c0 10.2pt | greyish sepia to brown, septate, 2–3.5 μm diam in the undulate
+p63 c0 10.2pt | or coiled upper portion. _Lateral_ _hairs_ flexuous, tapering and
+p63 c0 10.2pt | fading towards the tips. _Asci_ fasciculate, cylindrical, spore-
+p63 c0 10.2pt | bearing part 35–45 × 5–7.5 μm, stalks 8–18 μm long, with 8
+p63 c0 10.2pt | uniseriate ascospores, evanescent before ascospores become
+p63 c0 10.2pt | mature. _Ascospores_ olivaceous brown when mature, ovate,
+p63 c0 10.2pt | flattened, (6.5–)7–7.5(–8) (5.5–)
+p63 c0 10.2pt | bilaterally ×
+p63 c0 10.2pt | 6–6.5(–7) × (4.5–)5–5.5(–6) μm, with an apical germ pore at
+p63 c0 10.2pt | the attenuated end. _Asexual_ _morph_ unknown.
+p63 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire or slightly
+p63 c0 10.2pt | undulate edge, about 41–47 mm diam in 7 d at 25 °C, usually
+p63 c0 10.2pt | irregularly concentric because of the concentric formation of
+p63 c0 10.2pt | ascomata between the floccose rings consisting of pale grey to
+p63 c0 10.2pt | pale olivaceous grey or honey-coloured aerial mycelium, with
+p63 c0 10.2pt | pigmented hyphae immersed in medium, and with dark exudates
+p63 c0 10.2pt | diffusing into the medium, reverse black. Colonies on PCA
+p63 c0 10.2pt | translucent, with entire edge, about 36–42 mm diam in 7 d at
+p63 c0 10.2pt | 25 °C, with olivaceous buff and floccose aerial hyphae mixed
+p63 c0 10.2pt | with ascomata, without coloured exudates; reverse olivaceous or
+p63 c0 10.2pt | olivaceous grey. Colonies on MEA with slightly undulate edge,
+
+=== page 63, right column ===
+p63 c1 10.2pt | about 32–38 mm diam in 7 d at 25 °C, with floccose, concentric
+p63 c1 10.2pt | and buff to white aerial mycelium, with pigmented hyphae
+p63 c1 10.2pt | immersed in medium, without coloured exudates, reverse black
+p63 c1 10.2pt | with pale edge. Colony growth on DG18 with entire edge, about
+p63 c1 10.2pt | 16–22 mm diam in 7 d at 25 °C, with white aerial mycelium
+p63 c1 10.2pt | appearing irregularly petaloid texture, without coloured exudates;
+p63 c1 10.2pt | reverse uncoloured.
+p63 c1  8.1pt | _Specimen examined_:** India**, Calcutta, isolated from moist jute cloth by S.N. Basu,
+p63 c1  8.1pt | culture CBS 140.50.
+p63 c1 10.2pt | _Notes_: _Ovatospora_ _brasiliensis_ formed a sister lineage to
+p63 c1 10.2pt | _O._ _mollicella_ and can be distinguished by producing zonate
+p63 c1 10.2pt | colonies and smaller ascospores (7–7.5 × 6–6.5 × 5–5.5 _vs_.
+p63 c1 10.2pt | 8–9.5 × 7–8 × 6–7 μm, von Arx_ et al._ 1986). No ex-type culture
+p63 c1 10.2pt | is available. Typification of this species awaits obtaining a culture
+p63 c1 10.2pt | or isolate morphologically consistent with the holotype.
+p63 c1 10.2pt | **Ovatospora** **pseudomollicella** X. Wei Wang & Samson, **sp.**
+p63 c1 10.2pt | **nov.** MycoBank MB818852. Fig. 46.
+p63 c1 10.2pt | _Etymology_: Name refers to the similarity to_ Ovatospora mollicella_
+p63 c1 10.2pt | (= _Ch._ _mollicellum_).
+p63 c1 10.2pt | _Ascomata_ superficial, pale smoke grey to pale olivaceous grey in
+p63 c1 10.2pt | reflected light due to ascomatal hairs, subglobose to ovate,
+p63 c1 10.2pt | ostiolate, 100–135 μm high, 80–120 μm diam. _Ascomatal_ _wall_
+p63 c1 10.2pt | brown, _textura_ _angularis_ in surface view. _Terminal_ _hairs_ loosely
+p63 c1 10.2pt | coiled to regularly coiled with erect or flexuous lower part,
+p63 c1 10.2pt | conspicuously rough (granulate), greyish sepia to brown,
+p63 c1 10.2pt | septate, 1.5–2.5 μm diam in the undulate or coiled upper portion.
+p63 c1 10.2pt | _Lateral_ _hairs_ flexuous or undulate. _Asci_ fasciculate, cylindrical,
+p63 c1 10.2pt | spore-bearing part 40–51 × 6.5–8.5 μm, stalks 7–20 μm long,
+p63 c1 10.2pt | with 8 uniseriate ascospores, evanescent before ascospores
+p63 c1 10.2pt | become mature. _Ascospores_ olivaceous brown when mature,
+p63 c1 10.2pt | ovate, bilaterally flattened, (7–)7.5–8.5(–9) × (5.5–)
+p63 c1 10.2pt | 6–7.5(–8) × 5–6(–7) μm, with an apical germ pore at the
+p63 c1 10.2pt | attenuated end. _Asexual_ _morph_ unknown.
+p63 c1 10.2pt | _Culture_ _characteristics_: Colonies on OA with entire edge, about
+p63 c1 10.2pt | 43–49 mm diam in 7 d at 25 °C, with a floccose, white to pale
+p63 c1 10.2pt | grey mycelium, often with one or a few irregular concentric rings,
+p63 c1 10.2pt | with pigmented hyphae immersed in medium, and with mouse
+p63 c1 10.2pt | grey to black exudates diffusing into the medium, reverse black.
+p63 c1 10.2pt | Colonies on PCA with entire edge, about 33–39 mm diam in 7 d
+p63 c1 10.2pt | at 25 °C, with floccose and white to olivaceous buff aerial hyphae
+p63 c1 10.2pt | mixed with ascomata, without coloured exudates; reverse hazel
+p63 c1 10.2pt | to olivaceous. Colonies on MEA with slightly undulate edge,
+p63 c1 10.2pt | about 41–37 mm diam in 7 d at 25 °C, with floccose, white
+p63 c1 10.2pt | and irregularly petaloid rather than concentric aerial mycelium,
+p63 c1 10.2pt | with pigmented hyphae immersed in medium, without coloured
+p63 c1 10.2pt | exudates, reverse black with pale edge. Colony growth on DG18
+p63 c1 10.2pt | with slightly crenated edge, about 18–24 mm diam in 7 d at
+p63 c1 10.2pt | 25 °C, pale vinaceous to vinaceous buff with white aerial
+p63 c1 10.2pt | mycelium, without coloured exudates; reverse rosy vinaceous to
+p63 c1 10.2pt | flesh and saffron in the centre.
+p63 c1  8.1pt | _Specimen examined_:** India**, Uttar Pradesh, isolated from air by Kamal (**holotype**
+p63 c1  8.1pt | CBS H-22850, culture ex-type CBS 251.75).
+
+=== page 67, left column ===
+p67 c0 10.2pt | _Notes_: Phylogenetic inference indicated that_ O. pseudomollicella_
+p67 c0 10.2pt | clustered close to but separated from_ O. mollicella_ (CBS 583.83).
+p67 c0 10.2pt | This species can be distinguished by the size of its ascospores
+p67 c0 10.2pt | (7.5–8.5 × 6–7.5 × 5–6 μm), which are larger than those of
+p67 c0 10.2pt | _O._ _brasiliensis_ (7–7.5 × 6–6.5 × 5–5.5 μm), and smaller than
+
+=== page 67, right column ===
+p67 c1 10.2pt | those of the ex-type of_ O. mollicella_ (8–9.5 × 7–8 × 6–7 μm; von
+p67 c1 10.2pt | Arx _et_ _al._ 1986).
+p67 c1 10.2pt | The previous study (Carter 1982) indicated that the species of
+p67 c1 10.2pt | this genus, together with the members of_ Arcopilus_ and_ Farrowa_
+p67 c1 10.2pt | (Hawksworth 1975), had long stipitate ascogonial coils, while
+
+=== page 68, left column ===
+p68 c0 10.2pt | most of the other species in the _Chaetomiaceae_ had irregular
+p68 c0 10.2pt | ascogonial coils. This might be worth noticing when observing
+p68 c0 10.2pt | the formation of young ascomata.
+p68 c0 10.2pt | **Subramaniula** Arx, Proc. Indian Acad. Sci., Plant Sci. 94: 344.
+p68 c0 10.2pt | 1985.
+p68 c0 10.2pt | _Type_ _species_: _Subramaniula_ _thielavioides_ (Arx, Mukerji & N.
+p68 c0 10.2pt | Singh) Arx
+p68 c0 10.2pt | _Synonym:_ _Achaetomium_ _thielavioides_ Arx, Mukerji & N. Singh_,_
+p68 c0 10.2pt | Persoonia 10: 144. 1978.
+p68 c0 10.2pt | _Notes_: The genus _Subramaniula_ was originally proposed to
+p68 c0 10.2pt | accommodate species with urniform and nearly glabrous asco-
+p68 c0 10.2pt | mata with a translucent wall and a wide ostiole surrounded by a
+p68 c0 10.2pt | hyaline collar (von Arx 1985b). A recent study (Ahmed _et_ _al._
+p68 c0 10.2pt | 2016) indicated the close relationships between _S. thielavioides_
+p68 c0 10.2pt | and several chaetomium-like species. The phylogenetic analyses
+p68 c0 10.2pt | in this study confirmed their results. These data greatly expanded
+p68 c0 10.2pt | the number of species in this genus._ Subramaniula_ remains to be
+
+=== page 68, right column ===
+p68 c1 10.2pt | redescribed, and the description of one species from the indoor
+p68 c1 10.2pt | environment is given below.
+p68 c1 10.2pt | **Subramaniula cristata** (Ames) X. Wei Wang & Samson,** comb.**
+p68 c1 10.2pt | **nov.** MycoBank MB818853. Fig. 47.
+p68 c1 10.2pt | _Basionym_: _Chaetomium_ _cristatum_ Ames, Mycologia 41: 639.
+p68 c1 10.2pt | 1949.
+p68 c1 10.2pt | _Ascomata_ superficial, ostiolate, pale olivaceous grey or pale
+p68 c1 10.2pt | mouse grey to mouse grey in reflected light owing to ascomatal
+p68 c1 10.2pt | hairs, subglobose or ovate, 240–390 μm high, 200–300 μm diam.
+p68 c1 10.2pt | _Ascomatal wall_ brown,_ textura angularis_ in surface view._ Terminal_
+p68 c1 10.2pt | _hairs_ erect, finely warty, dark brown, 4.5–5.5 μm diam near the
+p68 c1 10.2pt | base, apically irregularly-curved and branched repeatedly, form-
+p68 c1 10.2pt | ing a network consisting of thinner (1.5–2.3 μm diam), olivaceous
+p68 c1 10.2pt | or fawn, flexuous or undulate branches._ Lateral hairs_ brown, seta-
+p68 c1 10.2pt | like, fading and tapering towards the tips. _Asci_ fasciculate, fusi-
+p68 c1 10.2pt | form or clavate, spore-bearing part 23–40 × 9–12 μm, stalks
+p68 c1 10.2pt | 12–30 μm long, with 8 irregularly-arranged ascospores,
+p68 c1 10.2pt | evanescent. _Ascospores_ olivaceous brown when mature,
+
+=== page 71, left column ===
+p71 c0 10.2pt | ellipsoidal-fusiform, (9–)9.5–10.5(–11) × (5–)5.5–6.5(–7) μm,
+p71 c0 10.2pt | with a subapical germ pore._ Asexual morph_ absent.
+p71 c0 10.2pt | _Culture_ _characteristics_: Colonies on OA with an entire edge,
+p71 c0 10.2pt | about 34–40 mm diam in 7 d at 25 °C, without aerial hyphae,
+
+=== page 71, right column ===
+p71 c1 10.2pt | with smoke grey to olivaceous grey exudates diffusing into the
+p71 c1 10.2pt | medium, reverse pale olivaceous grey to olivaceous. Colonies
+p71 c1 10.2pt | on PCA translucent, with numerous vinaceous buff ascomata in
+p71 c1 10.2pt | the central area and a slightly lobate edge, about 33–39 mm
+p71 c1 10.2pt | diam in 7 d at 25 °C, without aerial hyphae, without coloured
+
+=== page 73, left column ===
+p73 c0 10.2pt | exudates; reverse uncoloured. Colonies on MEA pale vina-
+p73 c0 10.2pt | ceous with brick perisphere, about 18–24 mm diam in 7 d at
+p73 c0 10.2pt | 25 °C, non-sporulating, reverse vinaceous with salmon edge.
+p73 c0 10.2pt | Colonies on DG18 with an entire or slightly undulate edge,
+p73 c0 10.2pt | about 3–9 mm diam in 7 d at 25 °C, buff and slightly floccose,
+p73 c0 10.2pt | non-sporulating, without coloured exudates; reverse
+p73 c0 10.2pt | uncoloured.
+p73 c0  8.1pt | _Specimens_ _examined_: **China**, Beijing, isolated from air by A.J. Chen, cultures
+p73 c0  8.1pt | DTO 324-H7 and DTO 324-H8.
+p73 c0 10.2pt | _Notes_: _Subramaniula_ _cristata_ morphologically fits with
+p73 c0 10.2pt | _S._ _cuniculorum_ (_Ch._ _cuniculorum_). Ames (1963) synonymised
+p73 c0 10.2pt | this species to _Ch._ _cuniculorum_. This decision was followed by
+p73 c0 10.2pt | von Arx _et_ _al._ (1986). The phylogenetic analysis indicated that
+p73 c0 10.2pt | our indoor isolates clustered with the ex-type of_ S. cristata_. They
+p73 c0 10.2pt | were close to but separated from the reference isolate of
+p73 c0 10.2pt | _S._ _cuniculorum_. _Subramaniula_ _cuniculorum_ was originally
+p73 c0 10.2pt | collected from Germany in 1869. No ex-type culture of
+p73 c0 10.2pt | _S._ _cuniculorum_ is available now. The reference isolate CBS
+p73 c0 10.2pt | 800.83 was from Spain. Typification of _S._ _cuniculorum_ and dis-
+p73 c0 10.2pt | tinguishing this species from _S._ _cristata_ await comparison with
+p73 c0 10.2pt | the holotype of _S._ _cuniculorum_.
+p73 c0 10.2pt | Additional new combinations from non-indoor environments:
+p73 c0 10.2pt | **Amesia gelasinospora** (Aue & Müller) X. Wei Wang & Samson,
+p73 c0 10.2pt | **comb.** **nov.** MycoBank MB818854.
+p73 c0 10.2pt | _Basionym_: _Chaetomium_ _gelasinosporum_ Aue & Müller, Ber
+p73 c0 10.2pt | Schweiz. Bot. Ges. 77:193. 1967.
+p73 c0 10.2pt | **Arcopilus** **aureus** (Chivers) X. Wei Wang & Samson, **comb.**
+p73 c0 10.2pt | **nov.** MycoBank MB818855.
+p73 c0 10.2pt | _Basionym_: _Chaetomium_ _aureum_ Chivers, Proc. Am. Acad. Arts
+p73 c0 10.2pt | Sci. 48: 87. 1912
+p73 c0 10.2pt | **Arcopilus** **cupreus** (Ames) X. Wei Wang & Samson, **comb.**
+p73 c0 10.2pt | **nov.** MycoBank MB818856.
+p73 c0 10.2pt | _Basionym_:_ Chaetomium cupreum_ Ames, Mycologia 41: 642. 1949.
+p73 c0 10.2pt | **Arcopilus fusiformis** (Chivers) X. Wei Wang & Samson,** comb.**
+p73 c0 10.2pt | **nov.** MycoBank MB818857.
+p73 c0 10.2pt | _Basionym_:_ Chaetomium fusiforme_ Chivers, Proc. Am. Acad. Arts
+p73 c0 10.2pt | Sci. 48: 87. 1912.
+p73 c0 10.2pt | **Arcopilus**** fl****avigenus** (van Warmelo) X. Wei Wang & Samson,
+p73 c0 10.2pt | **comb.** **nov.** MycoBank MB818858.
+p73 c0 10.2pt | _Basionym_:_ Chaetomium__ fl__avigenum_ van Warmelo, Mycologia 58:
+p73 c0 10.2pt | 847. 1966.
+p73 c0 10.2pt | **Botryotrichum** **spirotrichum** (R.K. Benjamin) X. Wei Wang &
+p73 c0 10.2pt | Samson, **comb.** **nov.** MycoBank MB818860.
+p73 c0 10.2pt | _Basionym_:_ Magnusia spirotricha_ R.K. Benjamin, Aliso 3: 199. 1955.
+p73 c0 10.2pt | _Synonyms_:_ Kernia spirotricha_ (R.K. Benjamin) Aliso 3: 344. 1956
+p73 c0 10.2pt | _Chaetomidium_ _spirotricha_ (R.K. Benjamin) Malloch & Cain,
+p73 c0 10.2pt | Canad. J. Bot. 49: 867. 1971.
+p73 c0 10.2pt | _Thielavia spirotricha_ (R.K. Benjamin) Malloch & Cain, Mycologia
+p73 c0 10.2pt | 65: 1069. 1973.
+p73 c0 10.2pt | _Emilmuelleria spirotricha_ (R.K. Benjamin) Arx, Sydowia 38: 6. 1985.
+
+=== page 73, right column ===
+p73 c1 10.2pt | **Collariella** **quadrangulata** (Chivers) X. Wei Wang & Samson,
+p73 c1 10.2pt | **comb.** **nov.** MycoBank MB818861.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _quadrangulatum_ Chivers, Proc. Am.
+p73 c1 10.2pt | Acad. Arts Sci. 48: 85. 1912.
+p73 c1 10.2pt | **Collariella** **robusta** (Ames) X. Wei Wang & Samson, **comb.**
+p73 c1 10.2pt | **nov.** MycoBank MB818872.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _robustum_ Ames, Monograph of the
+p73 c1 10.2pt | Chaetomiaceae: 35. 1963.
+p73 c1 10.2pt | **Collariella** **virescens** (Arx) X. Wei Wang & Samson, **comb.**
+p73 c1 10.2pt | **nov.** MycoBank MB819488.
+p73 c1 10.2pt | _Basionym_: _Achaetomiella_ _virescens_ Arx, Genera of Fungi: 247.
+p73 c1 10.2pt | 1970.
+p73 c1 10.2pt | _Synonym_:_ Chaetomium virescens_ (Arx) Udagawa, Trans. Mycol.
+p73 c1 10.2pt | Soc. Japan 21: 34. 1980.
+p73 c1 10.2pt | **Dichotomopilus** **dolichotrichus** (Ames) X. Wei Wang &
+p73 c1 10.2pt | Samson, **comb.** **nov.** MycoBank MB818866.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _dolichotrichum_ Ames, Mycologia 37:
+p73 c1 10.2pt | 145. 1945.
+p73 c1 10.2pt | **Dichotomopilus erectus** (Skolko & J.W. Groves) X. Wei Wang
+p73 c1 10.2pt | & Samson, **comb.** **nov.** MycoBank MB818867.
+p73 c1 10.2pt | _Basionym_:_ Chaetomium erectum_ Skolko & J.W. Groves, Canad.
+p73 c1 10.2pt | J. Res., Section C 26: 277. 1948.
+p73 c1 10.2pt | **Dichotomopilus fusus** (Ames) X. Wei Wang & Samson,** comb.**
+p73 c1 10.2pt | **nov.** MycoBank MB818868.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _fusum_ Ames, Monograph of the Chae-
+p73 c1 10.2pt | tomiaceae: 25. 1963.
+p73 c1 10.2pt | **Dichotomopilus** **ramosissimus** (X.W. Wang & L. Cai) X. Wei
+p73 c1 10.2pt | Wang & Samson, comb. nov. MycoBank MB818869.
+p73 c1 10.2pt | _Basionym:_ _Chaetomium_ _ramosissimum_ X.W. Wang & L. Cai,
+p73 c1 10.2pt | Mycol. Prog. 13: 725. 2014.
+p73 c1 10.2pt | **Dichotomopilus re****fl****exus** (Skolko & J.W. Groves) X. Wei Wang
+p73 c1 10.2pt | & Samson, **comb.** **nov.** MycoBank MB818870.
+p73 c1 10.2pt | _Basionym_:_ Chaetomium re__fl__exum_ Skolko & J.W. Groves, Canad.
+p73 c1 10.2pt | J. Res., Section C 26: 279. 1948.
+p73 c1 10.2pt | **Ovatospora** **medusarum** (Meyer & Lanneau) X. Wei Wang &
+p73 c1 10.2pt | Samson, **comb.** **nov.** MycoBank MB818871.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _medusarum_ Meyer & Lanneau, Bull.
+p73 c1 10.2pt | Soc. Mycol. Fr. 83: 318. 1967.
+p73 c1 10.2pt | **Ovatospora mollicella** (Ames) X. Wei Wang & Samson,** comb.**
+p73 c1 10.2pt | **nov.** MycoBank MB818873.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _mollicellum_ Ames, Monograph of the
+p73 c1 10.2pt | Chaetomiaceae: 30. 1963.
+p73 c1 10.2pt | **Ovatospora** **senegalensis** (Ames) X. Wei Wang & Samson,
+p73 c1 10.2pt | **comb.** **nov.** MycoBank MB818874.
+p73 c1 10.2pt | _Basionym_: _Chaetomium_ _senegalense_ Ames, Monograph of the
+p73 c1 10.2pt | Chaetomiaceae: 36. 1963.
+p73 c1 10.2pt | **Ovatospora** **unipora** (Aue & Müller) X. Wei Wang & Samson,
+p73 c1 10.2pt | **comb.** **nov.** MycoBank MB818875.
+
+=== page 76, left column ===
+p76 c0 10.2pt | _Basionym_: _Chaetomium_ _uniporum_ Aue & Müller, Ber Schweiz.
+p76 c0 10.2pt | Bot. Ges. 77: 187. 1967.
+p76 c0 10.2pt | **Subramaniula anamorphosa** (S.A. Ahmed,_ et al._) X. Wei Wang
+p76 c0 10.2pt | & Samson, **comb.** **nov.** MycoBank MB818876.
+p76 c0 10.2pt | _Basionym_: _Chaetomium_ _anamorphosum_ S.A. Ahmed, _et_ _al._,
+p76 c0 10.2pt | Fungal Diversity 76: 18. 2016.
+p76 c0 10.2pt | **Subramaniula cuniculorum** (Fuckel) X. Wei Wang & Samson,
+p76 c0 10.2pt | **comb.** **nov.** MycoBank MB818877.
+p76 c0 10.2pt | _Basionym_: _Chaetomium_ _cuniculorum_ Fuckel, _Symb._ _Mycol_.: 89.
+p76 c0 10.2pt | 1869.
+p76 c0 10.2pt | **Subramaniula** **fl****avipila** X. Wei Wang & Samson, **nom.** **nov.**
+p76 c0 10.2pt | MycoBank MB818878.
+p76 c0 10.2pt | _Basionym_: _Chaetomium_ _irregulare_ Sörgel, Nova Hedwigia 12:
+p76 c0 10.2pt | 386. 1966.
+p76 c0 10.2pt | _Etymology_: Name refers to the yellow to luteous ascomatal hairs
+p76 c0 10.2pt | of this fungus.
+p76 c0 10.2pt | _Notes_: Non _Subramaniula_ _irregularis_ P. Cannon & D. Hawks-
+p76 c0 10.2pt | worth, Trans. Br. Mycol. Soc. 87: 56. 1986. The name
+p76 c0 10.2pt | _S. irregularis_ already exists, therefore the new name is proposed.
+p76 c0 10.2pt | **Subramaniula** **fusispora** (G. Smith) X. Wei Wang & Samson,
+p76 c0 10.2pt | **comb.** **nov.** MycoBank MB818879.
+p76 c0 10.2pt | _Basionym_:_ Chaetomium_ _fusisporum_ G. Smith, Trans. Br. Mycol.
+p76 c0 10.2pt | Soc. 44: 46. 1961.
+p76 c0 12.2pt | **KEY** **TO** **THE** **MOST** **COMMON** **CHAETOMIACEAE** **SPECIES** **(OR** **SPECIES** **COMPLEX)** **FROM** **THE**
+p76 c0 12.2pt | **INDOOR** **ENVIRONMENTS**
+p76 c0 10.2pt | 1. Asexual morph present ....................................................................................................................................................................... 2
+p76 c0 10.2pt | 1. Asexual morph absent .................. ...................................................................................................................................................... 3
+p76 c0 10.2pt | 2. Ascomata absent or rare;_ conidiophores_ usually produced together with brown serile setae;_ conidia_ subglobose, usually hyaline,
+p76 c0 10.2pt | smooth to slightly roughened, 11–17.5 μm diam ................ ................................................................. **Botryotrichum** **piluliferum**
+p76 c0 10.2pt | 2. Ascomata numerous, terminal ascomatal hairs repeatedly dichotomously branched, usually less than 5 μm diam near the
+p76 c0 10.2pt | base; _Ascospores_ limoniform, bilaterally flattened, 11.5–14 × 8.5–10 × 7–8 μm, with an apical germ pore asexual morphs
+p76 c0 10.2pt | acremonium-like ..................... ........................................................................................................................... **Chaetomium** **elatum**
+p76 c0 10.2pt | 3. Terminal ascomatal hairs repeatedly dichotomously branched or seta-like, often composed of two types of hairs different in length;
+p76 c0 10.2pt | ascospores ovate to elongate ovate, bilaterally flattened, usually less than 7.5 μm long (**Dichotomopilus indicus** or** D. funicola**
+p76 c0 10.2pt | **species** **complex** (including _D._ _funicola_, _D._ _pseudofunicola_, _D._ _subfunicola_ and _D._ _variostiolatus_) ............................................. 4
+p76 c0 10.2pt | Terminal ascomatal hairs not repeatedly dichotomously branched, ascospores limoniform, bilaterally flattened, with an apical germ
+p76 c0 10.2pt | 3.
+p76 c0 10.2pt | pore .......................... ............................................................................................................................................................................ 5
+p76 c0 10.2pt | 4. Shorter terminal hairs, if present, usually forming a net structure to enfold ascospres ................ **D.** **funicola** **species** **complex**
+p76 c0 10.2pt | 4. Shorter terminal hairs, if present, inconspicuous due to the masses of ascospores, not easy to observe ............. .......................
+p76 c0 10.2pt | ...................................................................................................................................................................... **Dichotomopilus** **indicus**
+p76 c0 10.2pt | 5. Ascomata subglobose to obovate with a dark collar-like apex around the ostiolar pore; terminal hairs spirally coiled,_ ascospores_
+p76 c0 10.2pt | limoniform, bilaterally flattened, 6–7 × 5.5–6.5 × 4.5–5.5 μm, with an apical germ pore .................. **Collariella** **bostrychodes**
+p76 c0 10.2pt | 5. Ascomata without a dark collar-like apex around the ostiolar pore; ascospores 8.5–11 × 7–9 × 5.5–7 μm ............................. 5
+p76 c0 10.2pt | 6. Terminal hairs flexuous, undulate to slightly coiled ................................................................................. **Chaetomium** **cochliodes**
+p76 c0 10.2pt | 6. Terminal hairs spirally coiled, usually with coils regularly tapering in diameter ...................................... **Chaetomium** **globosum**
+p76 c0 12.2pt | **DISCUSSION**
+p76 c0 10.2pt | _Chaetomium_ spp., together with several other genera such as
+p76 c0 10.2pt | _Stachybotrys_,_ Aspergillus_ and_ Penicillium_, are of concern because
+p76 c0 10.2pt | of their ability to grow in the indoor environment and their asso-
+p76 c0 10.2pt | ciation with production of bioactive metabolites (Brasel_ et al._ 2005,
+
+=== page 76, right column ===
+p76 c1 10.2pt | Samson_ et al._ 2010, Andersen_ et al._ in press, Do�sen_ et al._ in press).
+p76 c1 10.2pt | Depending on the type of water damaged building material,
+p76 c1 10.2pt | _Chaetomium sensu lato_ are found in 16–66 % of environmental
+p76 c1 10.2pt | samples (Flannigan & Miller 2011, Andersen_ et al._ in press). Our
+p76 c1 10.2pt | survey shows a high species diversity of _Chaetomiaceae_ in the
+p76 c1 10.2pt | indoor environments worldwide and based on phylogenetic anal-
+p76 c1 10.2pt | ysis and morphological examination 30 indoor species lineages
+p76 c1 10.2pt | were recognised. These species were scattered throughout the
+p76 c1 10.2pt | _Chaetomiaceae_ and this finding prompted us to re-evaluate the
+p76 c1 10.2pt | phylogeny of_ Chaetomium_ and related genera.
+p76 c1 10.2pt | Traditionally,_ Chaetomium_ was defined to possess superficial
+p76 c1 10.2pt | and typically ostiolate ascomata covered by more or less
+p76 c1 10.2pt | developed hairs or setae and connected to the substrate by
+p76 c1 10.2pt | rhizoidal hyphae. The asci develop in basal fascicles, are stalked
+p76 c1 10.2pt | and have a thin and evanescent wall devoid of apical structures.
+p76 c1 10.2pt | The majority of species produce asci containing eight asco-
+p76 c1 10.2pt | spores, which are single-celled, smooth and pigmented with
+p76 c1 10.2pt | germ pores and without sheaths (von Arx _et_ _al._ 1986). This
+p76 c1 10.2pt | generic concept covers quite a high diversity of morphology. For
+p76 c1 10.2pt | example, ascomatal hairs can be straight (seta-like), flexuous,
+p76 c1 10.2pt | arcuate, undulate, circinate, spirally coiled or variously branched,
+p76 c1 10.2pt | the asci obovate, clavate, fusiform to cylindrical, and the asco-
+p76 c1 10.2pt | spores oblate, ovate, limoniform, fusiform, lunate, triangular to
+p76 c1 10.2pt | irregular, laterally flattened or not, with one, two or more germ
+p76 c1 10.2pt | pores which can be apically, sub-apically or even laterally formed
+p76 c1 10.2pt | on ascospores. Most species do not produce an asexual morph,
+p76 c1 10.2pt | while some species have a humicola-like, botryotrichum-like, or
+p76 c1 10.2pt | acremonium-like asexual state. Contrary to the genus _Chaeto-_
+p76 c1 10.2pt | _mium_, the concepts of some other genera were quite narrow. For
+p76 c1 10.2pt | example, _Emilmuelleria_ was characterised by its distinct tufts of
+p76 c1 10.2pt | spirally-coiled ascomatal appendages arranged usually at the
+p76 c1 10.2pt | opposite sides of non-ostiolate ascomata (von Arx 1985a);
+p76 c1 10.2pt | _Subramaniula_ was distinguished from _Chaetomium_ by its urni-
+p76 c1 10.2pt | form and nearly glabrous ascomata with a translucent wall and a
+
+=== page 77, left column ===
+p77 c0 10.2pt | wide ostiole surrounded by a hyaline collar (von Arx 1985b, von
+p77 c0 10.2pt | Arx _et_ _al._ 1988). The ascospores of _Myceliophthora_ (= _Cor-_
+p77 c0 10.2pt | _ynascus_, with asexual morph) and_ Corynascella_ (asexual morph
+p77 c0 10.2pt | unknown) have more than one germ pore per ascospore, and
+p77 c0 10.2pt | other non-ostiolate genera usually produce ascospores with only
+p77 c0 10.2pt | one germ pore.
+p77 c0 10.2pt | The concept of _Chaetomium_ has been challenged in the
+p77 c0 10.2pt | study of the non-ostiolate genus_ Chaetomidium_ (Greif_ et al._ 2009,
+p77 c0 10.2pt | Wang_ et al._ 2016). Based on a six-locus analysis, three species
+p77 c0 10.2pt | of_ Chaetomidium_, including its type_ C.__ fi__meti_, are closely related
+p77 c0 10.2pt | to the type species of_ Chaetomium_,_ C. globosum_. As these three
+p77 c0 10.2pt | _Chaetomidium_ species are all within the _C._ _globosum_ species
+p77 c0 10.2pt | complex, the genus _Chaetomidium_ was rejected and the three
+p77 c0 10.2pt | non-ostiolate species were transferred into the genus _Chaeto-_
+p77 c0 10.2pt | _mium_ (Wang _et_ _al._ 2016).
+p77 c0 10.2pt | The phylogenetic inference in this study clearly demonstrated
+p77 c0 10.2pt | that the traditionally defined _Chaetomium_ as noted above was
+p77 c0 10.2pt | polyphyletic. The indoor members of _Chaetomium_ were segre-
+p77 c0 10.2pt | gated into 10 monophyletic lineages by several other genera in
+p77 c0 10.2pt | the family (Fig. 1). Six indoor species fell into the _C._ _globosum_
+p77 c0 10.2pt | complex which was designated here as _Chaetomium_ _sensu_
+p77 c0 10.2pt | _stricto_, including 36 species with limoniform to globose or
+p77 c0 10.2pt | irregular and bilaterally flattened ascospores as delimited in our
+p77 c0 10.2pt | previous study (Wang _et_ _al._ 2016). _Chaetomium_ _murorum_ clus-
+p77 c0 10.2pt | tered with three asexual species of _Botryotrichum_ and non-
+p77 c0 10.2pt | ostiolate _Emilmuelleria_ in a strongly-supported monophyletic
+p77 c0 10.2pt | clade, which was designated here as the expanded genus
+p77 c0 10.2pt | _Botryotrichum_. This result also refuted the presence or absence
+p77 c0 10.2pt | of ascomatal ostioles to be a criterion for distinguishing genera in
+p77 c0 10.2pt | the _Chaetomiaceae_. Species of the traditional genus _Sub-_
+p77 c0 10.2pt | _ramaniula_ grouped with several species previously classified in
+p77 c0 10.2pt | _Chaetomium_, for example _S._ _cristata_ (= _C._ _cristatum_),
+p77 c0 10.2pt | _S. cuniculorum_ (=_ C. cuniculorum_),_ S. fusispora_ (_C. fusisporum_)
+p77 c0 10.2pt | and_ S.__ fl__avipila_ (=_ C. irregular_). Based on these data, the genus
+p77 c0 10.2pt | _Subramaniula_ was expanded to include species with typical
+p77 c0 10.2pt | chaetomium-like ascomata and ascomatal hairs. More data are
+p77 c0 10.2pt | needed to determine the morphological delimitation of the genera
+p77 c0 10.2pt | _Botryotrichum_ and _Subramaniula_ supported by the molecular
+p77 c0 10.2pt | data in this study.
+p77 c0 10.2pt | Two taxa obtained from the indoor environment produced
+p77 c0 10.2pt | humicola-like conidia. Based on a preliminary analysis of ITS
+p77 c0 10.2pt | sequences of asexual _Humicola_ species, only a few species
+p77 c0 10.2pt | clustered together with _H._ _fuscoatra_, the type species of this
+p77 c0 10.2pt | genus. The other _Humicola_ species available were placed in
+p77 c0 10.2pt | several different clades, indicating that the asexual genus
+p77 c0 10.2pt | _Humicola_ is polyphyletic. More research is needed to clarify
+p77 c0 10.2pt | the relationship of _Humicola_ _sensu_ _stricto_ to the other
+p77 c0 10.2pt | humicola-like species as well as those chaetomium-like spe-
+p77 c0 10.2pt | cies with humicola-like asexual morph. The indoor species
+p77 c0 10.2pt | _Me._ _tardus_ was on a long branch within the highly supported
+p77 c0 10.2pt | _Melanocarpus_ clade. Further research is required to determine
+p77 c0 10.2pt | the phylogenetic relationships of the species with in this
+p77 c0 10.2pt | genus.
+p77 c0 10.2pt | Representatives of the genera _Achaetomium_, _Mycelioph-_
+p77 c0 10.2pt | _thora_, _Thielavia_, and _Corynascella_ were included in our phylo-
+p77 c0 10.2pt | genetic study. These data contributed to the delimitation of
+p77 c0 10.2pt | genera in _Chaetomiaceae_ and the introduction of five new
+p77 c0 10.2pt | genera. The genera _Achaetomium_ and _Myceliophthora_ were
+p77 c0 10.2pt | strongly supported as monophyletic lineages in this study.
+p77 c0 10.2pt | _Thielavia_ was known as the second largest genus in the family
+
+=== page 77, right column ===
+p77 c1 10.2pt | (von Arx_ et al._ 1988, Kirk_ et al._ 2008). Five species of_ Thielavia_
+p77 c1 10.2pt | were included here in our analysis to represent this genus. The
+p77 c1 10.2pt | phylogeny confirmed the monophyly of this _Thielavia_ clade.
+p77 c1 10.2pt | Further research with a larger sampling is required to re-evaluate
+p77 c1 10.2pt | this genus in more detail._ Corynascella_ was represented only by
+p77 c1 10.2pt | its type species. Further data are required to determine the
+p77 c1 10.2pt | phylogenetic relationships between the type species and the
+p77 c1 10.2pt | other species of _Corynascella_.
+p77 c1 10.2pt | Our results provided an insight in the phylogeny of the family,
+p77 c1 10.2pt | and in the diversity of indoor _Chaetomiaceae_ (Table 2). Of the
+p77 c1 10.2pt | 145 isolates obtained in this survey, 30 species were recognised
+p77 c1 10.2pt | in 10 different genera, presenting a much higher species diversity
+p77 c1 10.2pt | of indoor _Chaetomiaceae_ than previous studies. _Chaetomium_
+p77 c1 10.2pt | _globosum_ was the predominant species in the indoor environ-
+p77 c1 10.2pt | ments as also noted in the previous studies (Vesper_ et al._ 2007,
+p77 c1 10.2pt | Ayanbimpe_ et al._ 2010, Straus 2011, McMullin_ et al._ 2013, Miller
+p77 c1 10.2pt | & McMullin 2014). This species accounted for 51 % of the total
+p77 c1 10.2pt | obtained isolates (74/145). _Chaetomium_ _cochliodes_ is the sec-
+p77 c1 10.2pt | ond predominant species (17/145), mainly because of its
+p77 c1 10.2pt | abundance in the indoor environments in the USA. In addition,
+p77 c1 10.2pt | _Ch._ _elatum_ (6/145) and _B._ _piluliferum_ (5/145) were also
+p77 c1 10.2pt | frequently encountered in samples obtained from indoor envi-
+p77 c1 10.2pt | ronments. At the genus level, members of _Chaetomium_ _sensu_
+p77 c1 10.2pt | _stricto_ accounted for 69 % of the total isolates obtained (100
+p77 c1 10.2pt | isolates in six species). _Dichotomopilus_ was found to be the
+p77 c1 10.2pt | second most common genus (15 isolates, seven species), fol-
+p77 c1 10.2pt | lowed by_ Collariella_ (seven isolates, four species),_ Botryotrichum_
+p77 c1 10.2pt | (eight isolates, three species), _Amesia_ (five isolates, three spe-
+p77 c1 10.2pt | cies) and_ Humicola_ (four isolates, two species). Members of the
+p77 c1 10.2pt | four other genera were found to be rare in the indoor
+p77 c1 10.2pt | environments.
+p77 c1 10.2pt | Secondary metabolites have been used as valuable addi-
+p77 c1 10.2pt | tional taxonomic features in several fungal genera such as
+p77 c1 10.2pt | _Penicillium_, _Aspergillus_, _Alternaria_, _Fusarium_ (Frisvad _et_ _al._
+p77 c1 10.2pt | 2008). It has been known that, in order to adapt to diverse en-
+p77 c1 10.2pt | vironments, the species of _Chaetomium_ _sensu_ _lato_ are capable
+p77 c1 10.2pt | of producing various secondary metabolites, which display a
+p77 c1 10.2pt | wide range of biological activities (Udagawa _et_ _al._ 1979, Sekita
+p77 c1 10.2pt | _et_ _al._ 1981, Ding _et_ _al._ 2006, Ge _et_ _al._ 2008, Momesso _et_ _al._
+p77 c1 10.2pt | 2008, Phonkerd _et_ _al._ 2008, Kharwar _et_ _al._ 2011, Yamada
+p77 c1 10.2pt | _et_ _al._ 2012, Zhang _et_ _al._ 2012, Lu _et_ _al._ 2013, Awad _et_ _al._
+p77 c1 10.2pt | 2014, Yan _et_ _al._ 2014). Some of them are mycotoxins and can
+p77 c1 10.2pt | cause health hazards (Polizzi _et_ _al._ 2009, Mason _et_ _al._ 2010,
+p77 c1 10.2pt | Andersen _et_ _al._ 2011, Miller & McMullin 2014, Wang _et_ _al._
+p77 c1 10.2pt | 2015). In this study profiles of metabolites were analysed in
+p77 c1 10.2pt | the majority of indoor chaetomium-like species using advanced
+p77 c1 10.2pt | analytical chemical methods to ensure correct identity of the
+p77 c1 10.2pt | secondary metabolites. The resulting metabolite profiling shows
+p77 c1 10.2pt | that it is possible to distinguish _Chaetomium_ _sensu_ _stricto_ and
+p77 c1 10.2pt | _Dichotomopilus_ from each other and from other genera based on
+p77 c1 10.2pt | secondary metabolites. It is even possible to discriminate be-
+p77 c1 10.2pt | tween _C._ _globosum_ and other species based on the pattern of
+p77 c1 10.2pt | metabolites. _Chaetomium_ _globosum_ seems to be the only spe-
+p77 c1 10.2pt | cies that produces the combination of chaetoviridin A, chaeto-
+p77 c1 10.2pt | globosin A, rotiorinol and cochliodones, however, chemical
+p77 c1 10.2pt | analyses of more isolates from the other closely related _Chae-_
+p77 c1 10.2pt | _tomium_ species are necessary to verify the result. Furthermore,
+p77 c1 10.2pt | chaetoviridin A, chaetoglobosin A and cochliodones are the
+p77 c1 10.2pt | major metabolites produced on building materials with _Chaeto-_
+p77 c1 10.2pt | _mium_ growth (Do�sen_ et al._ in press). Likewise, analyses of more
+
+=== page 78, left column ===
+p78 c0 10.2pt | isolates of _C._ _cochloides_ are needed to determine which
+p78 c0 10.2pt | metabolite pattern that is species specific in order to distinguish it
+p78 c0 10.2pt | from _C._ _pseudo__fi__meti_. Production of sterigmatocystin, the pre-
+p78 c0 10.2pt | cursor to aflatoxin, was only found in _H._ _olivacea_ in this study.
+p78 c0 10.2pt | Another study by Rank_ et al._ (2011) did detect sterigmatocystin in
+p78 c0 10.2pt | _B._ _piluliferum_ (NRRL 38180), but it was not detected in the
+p78 c0 10.2pt | _B. piluliferum_ isolate (DTO 254-B8) used in this study. Also in this
+p78 c0 10.2pt | case an extended analysis of isolates is needed. As only a
+p78 c0 10.2pt | limited number of isolates and species in the _Chaetomiaceae_
+p78 c0 10.2pt | were analysed for their metabolite profile in general, more
+p78 c0 10.2pt | research is encouraged in order to understand the correlation
+p78 c0 10.2pt | between the studied taxa, their metabolite profiles and the effects
+p78 c0 10.2pt | of these products on human health.
+p78 c0 10.2pt | In this study we also showed the morphological diversity that
+p78 c0 10.2pt | exists in some species. Taken together with the morphological
+p78 c0 10.2pt | data from our earlier studies (Wang_ et al._ 2014, 2016), we show
+p78 c0 10.2pt | that _Ch._ _globosum_, _Ch._ _elatum_, _B._ _murorum_, the _D._ _funicola_
+p78 c0 10.2pt | species complex (including _D._ _funicola_, _D._ _pseudofunicola_,
+p78 c0 10.2pt | _D. subfunicola_ and_ D. variostiolatus_) and_ D. indicus_ all exhibited
+p78 c0 10.2pt | intra-species morphological variation. For the_ D. funicola_ species
+p78 c0 10.2pt | complex, almost each of the examined isolates presented
+p78 c0 10.2pt | different morphology in the terminal ascomatal hairs. A similar
+p78 c0 10.2pt | problem in morphological identification also occurs in_ D. indicus_.
+p78 c0 10.2pt | The examined isolates of this species showed morphological
+p78 c0 10.2pt | differences not only in the terminal ascomatal hairs, but some-
+p78 c0 10.2pt | times even in the shape and size of ascospores. These results
+p78 c0 10.2pt | implied an active differentiation of morphology within these
+p78 c0 10.2pt | species lineages. This makes it very complicated to identify
+p78 c0 10.2pt | these species only based on morphology. A molecular based
+p78 c0 10.2pt | identification will help to solve this problem. Several _Chaeot-_
+p78 c0 10.2pt | _miaceae_ species share ITS sequences, and for routine identifi-
+p78 c0 10.2pt | cation, β-tubulin (_tub2_) is recommended. On the other hand, it
+p78 c0 10.2pt | needs to be noted that not all species are represented with_ tub2_
+p78 c0 10.2pt | sequences in the public databases and future studies should aim
+p78 c0 10.2pt | to complete this omission.
+p78 c0 10.2pt | It has been demonstrated that the presence of_ C. globosum_ in
+p78 c0 10.2pt | the indoor environment is one of the important contributors to the
+p78 c0 10.2pt | development of symptoms of rhinitis, asthma and other health
+p78 c0 10.2pt | problems (Vesper _et_ _al._ 2007, Apetrei _et_ _al._ 2009, Polizzi _et_ _al._
+p78 c0 10.2pt | 2009, Mason _et_ _al._ 2010, Miller & McMullin 2014). This spe-
+p78 c0 10.2pt | cies is also the most common human pathogen mainly associ-
+p78 c0 10.2pt | ated with onychomycosis (Naidu _et_ _al._ 1991, Stiller _et_ _al._ 1992,
+p78 c0 10.2pt | Aspiroz _et_ _al._ 2007, Latha _et_ _al._ 2010, Tullio _et_ _al._ 2010,
+p78 c0 10.2pt | Hwang _et_ _al._ 2012, Lagac�e & Cellier 2012, Kim _et_ _al._ 2013). In
+p78 c0 10.2pt | addition, some other indoor chaetomium-like species were also
+p78 c0 10.2pt | reported in clinical cases, such as _D._ _funicola_ (= _C._ _funicola_,
+p78 c0 10.2pt | Koch & Haneke 1965), _O._ _brasiliensis_ (= C. _brasiliense_, Hubka
+p78 c0 10.2pt | _et_ _al._ 2011) and _Am._ _atrobrunnea_ (= C. _atrobrunneum_, Guppy
+p78 c0 10.2pt | _et_ _al._ 1998, de Hoog _et_ _al._ 2013). These species, which grow
+p78 c0 10.2pt | in our living and working environment, deserve more attention in
+p78 c0 10.2pt | future.
+p78 c0 12.2pt | **ACKNOWLEDGEMENTS**
+
+=== page 78, right column ===
+p78 c1 12.2pt | **REFERENCES**
+p78 c1  8.1pt | _tomidium_, and _Thielavia_. _Canadian_ _Journal_ _of_ _Botany_ **39**: 1231–1239.
+p78 c1  8.1pt | Carter A (1982). _A_ _taxonomyic_ _study_ _of_ _the_ _ascomycete_ _genus_ _Chaetomium_
+p78 c1  8.1pt | _Journal_ _of_ _Botany_ **61**: 2603–2607.
+p78 c1  8.1pt | Chivers AH (1915). A monograph of the genera _Chaetomium_ and _Ascotricha_.
+p78 c1  8.1pt | _Memoirs_ _of_ _the_ _Torrey_ _Botanical_ _Club_ **14**: 155–240.
+p78 c1  8.1pt | Corda ACJ (1840). _Icones_ _fungorum_ _hucusque_ _cognitorum_. Vol. 4. Praha.
+p78 c1  8.1pt | Cunningham CW (1997). Can three incongruency tests predict when data
+p78 c1  8.1pt | _Chaetomium_. _Sydowia_ **28**: 50–133.
+p78 c1  8.1pt | Flannigan B, Miller JD (2011). Microbial growth in indoor environments. In:
+
+=== page 79, left column ===
+p79 c0  8.1pt | _Cercospora_: spotting the weeds among the roses. _Studies_ _in_ _Mycology_ **75**:
+p79 c0  8.1pt | 115–170.
+p79 c0  8.1pt | Gueidan C, Roux C, Lutzoni F (2007). Using multigene phylogeny anal-
+p79 c0  8.1pt | _soonia_ **8**: 167–185.
+p79 c0  8.1pt | Hubka V, Mencl K, Skorepova M, _et_ _al_. (2011). Phaeohyphomycosis and ony-
+p79 c0  8.1pt | _mium_ _globosum_. _Annals_ _of_ _Dermatology_ **25**: 232–236.
+p79 c0  8.1pt | Kirk PM, Cannon PF, Minter DW,_ et al_. (2008)._ Ainsworth & Bisby__’__s Dictionary of_
+p79 c0  8.1pt | _the_ _Indian_ _Botanical_ _Society_ **43**: 121–140.
+p79 c0  8.1pt | Lombard L, Crous PW, Wingfield BD, _et_ _al_. (2010). Phylogeny and systematics
+
+=== page 79, right column ===
+p79 c1  8.1pt | _globosum_ Kunze. _Mycopathologia_ **113**: 31–34.
+p79 c1  8.1pt | Nylander JAA (2004). _MrModeltest_ _v._ _2_. Programme distributed by the author.
+p79 c1  8.1pt | _Hedwigia_ **37**: 1–133.
+p79 c1  8.1pt | Skolko AJ, Groves JW (1948). Notes on seed-borne fungi V._ Chaetomium_ species
+p79 c1  8.1pt | _Canadian_ _Journal_ _of_ _Botany_ **31**: 779–809.
+p79 c1  8.1pt | Sörgel G (1960). Zum problem der trennung von arten bei pilzen, dargestellt am
+
+=== page 80, left column ===
+p80 c0  8.1pt | _ceedings_ _of_ _the_ _Indian_ _Academy_ _of_ _Science_ _(Plant_ _Science)_ **94**: 341–345.
+p80 c0  8.1pt | von Arx JA, Dreyfuss M, Müller E (1984). A reevaluation of _Chaetomium_ and
+p80 c0  8.1pt | _Chaetomiaceae_. _Persoonia_ **12**: 169–179.
+p80 c0  8.1pt | von Arx JA, Figueras MJ, Guarro J (1988). Sordariaceous ascomycetes without
+p80 c0  8.1pt | _mium_. _Beihefte_ _zur_ _Nova_ _Hedwigia_ **84**: 1–162.
+p80 c0  8.1pt | Wang MH, Li L, Jiang T, _et_ _al_. (2015). Stereochemical determination of

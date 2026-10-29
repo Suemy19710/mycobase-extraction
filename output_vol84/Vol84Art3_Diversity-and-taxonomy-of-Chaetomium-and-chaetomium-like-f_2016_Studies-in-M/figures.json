@@ -1,0 +1,1419 @@
+[
+ {
+  "figure": 1,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 9",
+  "page": 8,
+  "file": "figures/uncaptioned_p8.jpg",
+  "bbox": [
+   60.0,
+   51.0,
+   531.5,
+   784.0
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 1. Consensus phylogram (50 % majority rule) resulting from a Bayesian analysis of the concatenated rpb2, tub2, ITS and LSU gene region alignment, with the confidence values of bootstrap proportions from the MP analysis (before the backslash), the ML analysis (after the backslash) above branches, and the posterior probabilities from the Bayesian analysis below branches. The “−” means lacking statistical support (<50 % for bootstrap proportions from ML or MP analyses; <0.95 for posterior probabilities from Bayesian analyses). The branches with full statistical support (MP-BS = 100 %; ML-BS = 100 %; PP = 1.0) are highlighted by thickened branches. Generic novelties are indicated with “gen. nov.” after the genus name and the genus names of the species are abbreviated to facilitate layout of the tree. Genus and species clades are discriminated with boxes of different colours. The 45 isolates from the indoor environment are indicated with a red star on the right side of the culture number; these isolates are representative of all the indoor species recognised in this study. The scale bar shows the expected number of changes per site. The tree is rooted with Microascus trigonosporus strain CBS 218.31 (see Table 1 for GenBank accession numbers).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Microascus trigonosporus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 1,
+  "part": "",
+  "continued": true,
+  "uncaptioned": false,
+  "note": "continued from page 8",
+  "page": 10,
+  "file": "figures/fig01_p10.png",
+  "bbox": [
+   60.3,
+   51.0,
+   531.4,
+   749.5
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 1. (Continued).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Microascus trigonosporus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 2,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 17",
+  "page": 16,
+  "file": "figures/uncaptioned_p16.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 2. Morphology of the genus Amesia. Ascoma: A. Am. atrobrunnea (CBS 379.66T). B. Am. gelasinospora (CBS 643.83). C. Am. cymbiformis (CBS 176.84). D. Am. nigricolor (CBS 291.83). Ascospores: E. Am. atrobrunnea (CBS 379.66T). F. Am. gelasinospora (CBS 643.83). G. Am. cymbiformis (CBS 176.84). H. Am. nigricolor (CBS 291.83). Scale bars: A–D = 100 μm; E–H = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 3,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 17,
+  "file": "figures/fig03_p17.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   711.5
+  ],
+  "kind": "plate",
+  "caption": "Fig. 3. Amesia atrobrunnea (CBS 379.66). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": "Amesia atrobrunnea",
+  "species_in_caption": [
+   {
+    "name": "Amesia atrobrunnea",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 5,
+  "part": "",
+  "continued": false,
+  "uncaptioned": true,
+  "note": "no caption on this page; probably part of Fig. 5",
+  "page": 18,
+  "file": "figures/uncaptioned_p18.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "uncaptioned",
+  "caption": "",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 5,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 19,
+  "file": "figures/fig05_p19.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   683.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 5. Amesia nigricolor (CBS 291.83). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": "Amesia nigricolor",
+  "species_in_caption": [
+   {
+    "name": "Amesia nigricolor",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 4,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 19,
+  "file": null,
+  "bbox": null,
+  "kind": "drawing",
+  "caption": "Fig. 4. Amesia cymbiformis (CBS 176.84). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Amesia cymbiformis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 6,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 21,
+  "file": "figures/fig06_p21.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   757.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 6. Morphological diversity in the genus Arcopilus. Ascoma: A. Ar. cupreus (CBS 560.80). B. Ar. aureus (CBS 153.52). C. Ar. flavigenus (CBS 337.67T). D. Ar. turgidopilosus (CBS 169.52T). Ascospores: E. Ar. cupreus (CBS 560.80). F. Ar. aureus (CBS 153.52). G. Ar. fusiformis (CBS 484.85). H. Ar. flavigenus (CBS 337.67T). I. Ar. turgidopilosus (CBS 169.52T). Scale bars: A–D = 100 μm; E–I = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 7,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 22,
+  "file": "figures/fig07_p22.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   710.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 7. Arcopilus turgidopilosus (CBS 169.52T). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. An terminal ascomatal hair fading and tapering towards the tips. I. An terminal ascomatal hair with the widest lower middle portion. J. Asci. K. Ascospores. Scale bars: D = 100 μm; E–F = 20 μm; G–K = 10 μm.",
+  "main_species": "Arcopilus turgidopilosus",
+  "species_in_caption": [
+   {
+    "name": "Arcopilus turgidopilosus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 8,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 24,
+  "file": "figures/fig08_p24.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   727.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 8. Botryotrichum murorum (DTO 324-G9). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Structure of ascomatal wall in surface view. G. Upper part of a terminal ascomatal hair. H. Asci. I. Ascospores. Scale bars: D–E = 100 μm; F–I = 10 μm.",
+  "main_species": "Botryotrichum murorum",
+  "species_in_caption": [
+   {
+    "name": "Botryotrichum murorum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 9,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 25,
+  "file": "figures/fig09_p25.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   733.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 9. Botryotrichum murorum (DTO 333-E6). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Upper part of terminal ascomatal hairs. G. Structure of ascomatal wall in surface view. H. Asci. I. Ascospores. Scale bars: D–E = 100 μm; F–I = 10 μm.",
+  "main_species": "Botryotrichum murorum",
+  "species_in_caption": [
+   {
+    "name": "Botryotrichum murorum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 10,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 26,
+  "file": "figures/fig10_p26.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   755.2
+  ],
+  "kind": "plate",
+  "caption": "Fig. 10. Botryotrichum peruvianum (CBS 421.93). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Conidia on conidiophores together with setae on SNA, top view. C–D. Conidia on conidiophores together with setae mounted in lactic acid. E–G. Conidiophores with conidia. Scale bars: C–D = 20 μm; E–G = 10 μm.",
+  "main_species": "Botryotrichum peruvianum",
+  "species_in_caption": [
+   {
+    "name": "Botryotrichum peruvianum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 11,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 27,
+  "file": "figures/fig11_p27.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   702.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 11. Botryotrichum piluliferum (DTO 254-B8). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Conidia on conidiophores together with setae on SNA, top view; C. Conidia on conidiophores together with setae on SNA, side view. D–E. Conidia on conidiophores together with setae mounted in lactic acid. F–G. Conidiophores with conidia. H. Conidia. Scale bars: D–E = 20 μm; F–H = 10 μm.",
+  "main_species": "Botryotrichum piluliferum",
+  "species_in_caption": [
+   {
+    "name": "Botryotrichum piluliferum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 12,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 29,
+  "file": "figures/fig12_p29.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   696.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 12. Chaetomium coactatum (DTO 324-H2). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Basal parts of terminal ascomatal hairs. J. Upper parts of terminal ascomatal hairs. K. Asci. L. Ascospores. Scale bars: E–G = 100 μm; H–L = 10 μm.",
+  "main_species": "Chaetomium coactatum",
+  "species_in_caption": [
+   {
+    "name": "Chaetomium coactatum",
+    "status": "unknown",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 13,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 31",
+  "page": 30,
+  "file": "figures/uncaptioned_p30.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 13. Chaetomium cochliodes (DTO 318-I1). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Structure of ascomatal wall in surface view. G. Terminal ascomatal hairs. H. Asci. I. Ascospores. Scale bars: D–E = 100 μm; F–I = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Chaetomium cochliodes",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 14,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 33",
+  "page": 32,
+  "file": "figures/uncaptioned_p32.jpg",
+  "bbox": [
+   44.8,
+   51.0,
+   546.9,
+   776.1
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 14. Chaetomium elatum (DTO 319-B3). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Asexual morph (Conidiophores and conidia). H. Structure of ascomatal wall in surface view. I–J. Upper part of terminal ascomatal hairs. K–L. Asci. M. Ascospores. Scale bars: E–F = 100 μm; G–M = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Chaetomium elatum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 15,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 35",
+  "page": 34,
+  "file": "figures/uncaptioned_p34.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 15. Chaetomium elatum (DTO 318-H9). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Asexual morph (Conidiophores and conidia). G. Structure of ascomatal wall in surface view. H. Upper part of terminal ascomatal hairs. I–J. Asci. K. Ascospores. Scale bars: D–E = 100 μm; F–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Chaetomium elatum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 16,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 36,
+  "file": "figures/fig16_p36.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   741.8
+  ],
+  "kind": "plate",
+  "caption": "Fig. 16. Chaetomium globosum (DTO 319-B2). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": "Chaetomium globosum",
+  "species_in_caption": [
+   {
+    "name": "Chaetomium globosum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 17,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 37,
+  "file": "figures/fig17_p37.jpg",
+  "bbox": [
+   54.0,
+   51.3,
+   544.5,
+   755.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 17. Chaetomium globosum (DTO 333-E3). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Basal parts of terminal ascomatal hairs. I. Upper parts of terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–F = 100 μm; G–K = 10 μm.",
+  "main_species": "Chaetomium globosum",
+  "species_in_caption": [
+   {
+    "name": "Chaetomium globosum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 18,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 38,
+  "file": "figures/fig18_p38.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   754.5
+  ],
+  "kind": "plate",
+  "caption": "Fig. 18. Chaetomium globosum (CBS 666.82). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": "Chaetomium globosum",
+  "species_in_caption": [
+   {
+    "name": "Chaetomium globosum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 19,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 39,
+  "file": "figures/fig19_p39.jpg",
+  "bbox": [
+   54.0,
+   53.9,
+   544.5,
+   754.2
+  ],
+  "kind": "plate",
+  "caption": "Fig. 19. Chaetomium tectifimeti (CBS 142032 = DTO 318-G8, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Inner and external layers of ascomatal wall in surface view. G. Structure of external layer of ascomatalwall insurface view. H. Part ofa terminalascomatalhair, longertype. I.Terminalascomatalhairs, shortertypeJ. Asci. K.Ascospores. Scale bars: D–E= 100 μm;F–K = 10μm.",
+  "main_species": "Chaetomium tectifimeti",
+  "species_in_caption": [
+   {
+    "name": "Chaetomium tectifimeti",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 20,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 40,
+  "file": "figures/fig20_p40.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 20. Morphological diversity of ascomata in the genus Collariella. A. Col. bostrychodes (DTO 326-H6). B. Col. robusta (CBS 551.83T). C. Col. quandrangulata (CBS 152.59). D. Col. causiiformis (CBS 792.83T). E. Col. intricata (CBS 128.85T). F. Col. virescens (CBS 148.68T). G. Col. gracilis (CBS 249.75). Scale bars: A–G = 100 μm.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 21,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 43",
+  "page": 42,
+  "file": "figures/uncaptioned_p42.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 21. Morphological diversity of ascospores and asci in genus Collariella. Ascospores: Col. bostrychodes (DTO 326-H6). B. Col. robusta (CBS 551.83T). C. Col. quandrangulata (CBS 152.59). D. Col. causiiformis (CBS 792.83T). E. Col. intricata (CBS 128.85T). F. Col. virescens (CBS 148.68T). G. Col. gracilis (CBS 249.75). Asci: H. Col. bostrychodes (DTO 326-H6). I. Col. quandrangulata (CBS 152.59). J. Col. causiiformis (CBS 792.83T). K. Col. gracilis (CBS 249.75). Scale bars: A–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 22,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 43,
+  "file": "figures/fig22_p43.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   690.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 22. Collariella bostrychodes (DTO 324-H6). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of upper part of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 100 μm; H–K = 10 μm.",
+  "main_species": "Collariella bostrychodes",
+  "species_in_caption": [
+   {
+    "name": "Collariella bostrychodes",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 23,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 44,
+  "file": "figures/fig23_p44.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   756.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 23. Collariella carteri (CBS 128.85, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H–I. Structure of ascomatal wall in surface view. J. Terminal ascomatal hairs. K. Asci. L. Ascospores. Scale bars: E–G = 20 μm; H–L = 10 μm.",
+  "main_species": "Collariella carteri",
+  "species_in_caption": [
+   {
+    "name": "Collariella carteri",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 24,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 47",
+  "page": 46,
+  "file": "figures/uncaptioned_p46.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 24. Collariella causiiformis (CBS 792.82). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Basal parts of terminal ascomatal hairs. I. Upper parts of terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–F = 100 μm; G–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Collariella causiiformis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 25,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 48,
+  "file": "figures/fig25_p48.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   749.7
+  ],
+  "kind": "plate",
+  "caption": "Fig. 25. Collariella gracilis (CBS 249.75). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–G. Ascomata mounted in lactic acid. H. Structure of ascomatal wall in surface view. I. Terminal ascomatal hairs. J. Asci. K. Ascospores. Scale bars: E–G = 20 μm; H–K = 10 μm.",
+  "main_species": "Collariella gracilis",
+  "species_in_caption": [
+   {
+    "name": "Collariella gracilis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 26,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 49,
+  "file": "figures/fig26_p49.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   758.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 26. Morphological diversity of ascomata in the genus Dichotomopilus. A. D. variostiolatus (CBS 179.84T). B. D. variostiolatus (DTO 319-A2). C. D. subfunicola (CBS 812.73). D. D. pseudofunicola (DTO 318-I7). E. D. funicola (CBS 136.38 = C. cancroideum). F. D. indicus (DTO 319-B8). G. D. pratensis (CBS 860.68). H. D. erectus (CGMCC 3.12900). I. D. ramosissimus (CGMCC 3.14183T). J. D. dolichotrichus (CBS 162.48T). K. D. reflexus (CBS 157.49T). L. D. fusus (CBS 114.83). Scale bars: A–L = 100 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus variostiolatus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus subfunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus pseudofunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus funicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus indicus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus pratensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus erectus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus ramosissimus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus dolichotrichus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus reflexus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus fusus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 27,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 51",
+  "page": 50,
+  "file": "figures/uncaptioned_p50.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 27. Morphological diversity of ascospores in the genus Dichotomopilus. A. D. variostiolatus (CBS 179.84T). B. D. variostiolatus (DTO 319-A2). C. D. subfunicola (CBS 812.73). D. D. funicola (DTO 333-F1). E. D. indicus (DTO 319-B8). F. D. indicus (DTO 333-F3). G. D. pratensis (CBS 860.68). H. D. erectus (CGMCC 3.12900). I. D. ramosissimus (CGMCC 3.14183T). J. D. dolichotrichus (CBS 162.48T). K. D. reflexus (CBS 157.49T). L. D. fusus (CBS 114.83). Scale bars: A–L = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus variostiolatus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus subfunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus funicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus indicus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus pratensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus erectus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus ramosissimus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus dolichotrichus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus reflexus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Dichotomopilus fusus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 28,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 53",
+  "page": 52,
+  "file": "figures/uncaptioned_p52.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 28. Dichotomopilus funicola (DTO 333-F1). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper part of a terminal ascomatal hair. I–J. Asci. K. Ascospores. Scale bars: D–F = 100 μm; G–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus funicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 29,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 53,
+  "file": "figures/fig29_p53.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   709.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 29. Dichotomopilus indicus (DTO 319-B8). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper part of a terminal ascomatal hair. I–J. Asci. K. Ascospores. Scale bars: D–F = 100 μm; G–K = 10 μm.",
+  "main_species": "Dichotomopilus indicus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus indicus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 30,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 54,
+  "file": "figures/fig30_p54.jpg",
+  "bbox": [
+   45.5,
+   45.4,
+   546.1,
+   765.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 30. Dichotomopilus indicus (DTO 333-E2). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper part of a terminal ascomatal hair. I–J. Asci. K. Ascospores. Scale bars: E–F = 100 μm; G–K = 10 μm.",
+  "main_species": "Dichotomopilus indicus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus indicus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 31,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 55,
+  "file": "figures/fig31_p55.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   762.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 31. Dichotomopilus indicus (DTO 333-F3). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper parts of terminal ascomatal hairs. I. Basal parts of terminal ascomatal hairs. J–K. Asci. L. Ascospores. Scale bars: D–F = 100 μm; G–L = 10 μm.",
+  "main_species": "Dichotomopilus indicus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus indicus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 32,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 56,
+  "file": "figures/fig32_p56.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   722.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 32. Dichotomopilus pratensis (CBS 860.68). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper parts of terminal ascomatal hairs. I–J. Asci. K. Ascospores. Scale bars: D–F = 100 μm; G–K = 10 μm.",
+  "main_species": "Dichotomopilus pratensis",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus pratensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 33,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 57,
+  "file": "figures/fig33_p57.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   760.0
+  ],
+  "kind": "plate",
+  "caption": "Fig. 33. Dichotomopilus pseudoerectus (CBS 252.75, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Textura angularis structure of ascomatal wall in surface view. G. Textura intricata structure of ascomatal wall in surface view. H. Terminal ascomatal hairs. I–J. Asci. K. Ascospores. Scale bars: D–E = 100 μm; F–K = 10 μm.",
+  "main_species": "Dichotomopilus pseudoerectus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus pseudoerectus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 34,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 58,
+  "file": "figures/fig34_p58.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   745.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 34. Dichotomopilus pseudofunicola (CBS 142033 = DTO 318-I7, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Terminal ascomatal hairs. I. Asci. J. Ascospores. Scale bars: D–F = 100 μm; G–J = 10 μm.",
+  "main_species": "Dichotomopilus pseudofunicola",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus pseudofunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 35,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 61",
+  "page": 60,
+  "file": "figures/uncaptioned_p60.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 35. Dichotomopilus subfunicola (CBS 812.73). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper parts of terminal ascomatal hairs. I–J. Asci. K. Ascospores. Scale bars: E–F = 100 μm; G–K = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus subfunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 36,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 63",
+  "page": 62,
+  "file": "figures/uncaptioned_p62.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 36. Dichotomopilus subfunicola (CBS 794.83). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper parts of terminal ascomatal hairs. I. Asci. J. Ascospores. Scale bars: D–F = 100 μm; G–J = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus subfunicola",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 37,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 64,
+  "file": "figures/fig37_p64.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   705.5
+  ],
+  "kind": "plate",
+  "caption": "Fig. 37. Dichotomopilus variostiolatus (CBS 179.84T). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Structure of ascomatal wall in surface view. G–J. Terminal ascomatal hairs from basal to upper parts. K. Asci. L. Ascospores. Scale bars: D–E = 100 μm; F–L = 10 μm.",
+  "main_species": "Dichotomopilus variostiolatus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus variostiolatus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 38,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 65,
+  "file": "figures/fig38_p65.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   745.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 38. Dichotomopilus variostiolatus (DTO 319-A2). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Structure of ascomatal wall in surface view. G. Upper part of a terminal ascomatal hair. H. Net structure formed by terminal ascomatal hairs. I. Asci. J. Ascospores. Scale bars: D–E = 100 μm; H= 20 μm; F–G, I–J = 10 μm.",
+  "main_species": "Dichotomopilus variostiolatus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus variostiolatus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 39,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 66,
+  "file": "figures/fig39_p66.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   747.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 39. Dichotomopilus variostilatus (DTO 319-B9). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Terminal ascomatal hair. I. Upper part of a branched terminal ascomatal hair. J–K. Asci. L. Ascospores. Scale bars: E–F = 100 μm; G–L = 10 μm.",
+  "main_species": "Dichotomopilus variostilatus",
+  "species_in_caption": [
+   {
+    "name": "Dichotomopilus variostilatus",
+    "status": "unknown",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 40,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 67,
+  "file": "figures/fig40_p67.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   681.7
+  ],
+  "kind": "plate",
+  "caption": "Fig. 40. Humicola olivacea (CBS 142031 = DTO 319-C7, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Colonies on SNA. C. Conidia on the surface of medium SNA, top view; D–E. Conidia and conidiophores mounted in lactic acid. Scale bars: D–E = 10 μm.",
+  "main_species": "Humicola olivacea",
+  "species_in_caption": [
+   {
+    "name": "Humicola olivacea",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 41,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 68,
+  "file": "figures/fig41_p68.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   510.1
+  ],
+  "kind": "plate",
+  "caption": "Fig. 41. Humicola sp. 2 (DTO 319-B7). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Colonies on SNA. C. Conidia on the surface of medium SNA, top view; D–E. Conidia and conidiophores mounted in lactic acid. Scale bars: D–E = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 42,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 69,
+  "file": "figures/fig42_p69.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   759.7
+  ],
+  "kind": "plate",
+  "caption": "Fig. 42. Melanocarpus tardus (CBS 541.76, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B–C. Mature ascomata on OA, top view; D–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Asci. I. Ascospores. Scale bars: D–F = 20 μm; G–I = 10 μm.",
+  "main_species": "Melanocarpus tardus",
+  "species_in_caption": [
+   {
+    "name": "Melanocarpus tardus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 43,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 70,
+  "file": "figures/fig43_p70.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 43. Morphological diversity of Ascomata in the genus Ovatospora. A. O. brasiliensis (CBS 140.50). B. O. pseudomollicella (CBS 251.75T). C. O. medusarum (CBS 148.67T, young ascoma). D. O. medusarum (CBS 148.67T, mature ascoma). E. O. senegalensis (CBS 728.84T). F. O. unipora (CBS 109.83T). Scale bars: A–F = 100 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Ovatospora brasiliensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora pseudomollicella",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora medusarum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora senegalensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora unipora",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 44,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 71,
+  "file": "figures/fig44_p71.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   676.7
+  ],
+  "kind": "plate",
+  "caption": "Fig. 44. Morphological diversity of ascospores and asci in the genus Ovatospora. Ascospores: A. O. brasiliensis (CBS 140.50). B. O. pseudomollicella (CBS 251.75T). C. O. senegalensis (CBS 728.84T). D. O. medusarum (CBS 148.67T). E. O. unipora (CBS 109.83T). Asci: F. O. pseudomollicella (CBS 251.75T). G. O. medusarum (CBS 148.67T). H. O. senegalensis (CBS 728.84T). I. O. unipora (CBS 109.83T). Scale bars: A–I = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Ovatospora brasiliensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora pseudomollicella",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora senegalensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora medusarum",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Ovatospora unipora",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 45,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 73",
+  "page": 72,
+  "file": "figures/uncaptioned_p72.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   773.9
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 45. Ovatospora brasiliensis (CBS 140.50). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C. Mature ascomata on OA, side view. D–E. Ascomata mounted in lactic acid. F. Structure of ascomatal wall in surface view. G. Upper part of a terminal ascomatal hair. H. Basal part of terminal ascomatal hairs. I. Asci. J. Ascospores. Scale bars: D–E = 100 μm; F–J = 10 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Ovatospora brasiliensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 46,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 74,
+  "file": "figures/fig46_p74.jpg",
+  "bbox": [
+   45.5,
+   51.0,
+   546.1,
+   756.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 46. Ovatospora pseudomollicella (CBS 251.75, ex-type culture). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B–C. Mature ascomata on OA, top view; D. Mature ascomata on OA, side view. E–F. Ascomata mounted in lactic acid. G. Structure of ascomatal wall in surface view. H. Upper parts of terminal ascomatal hairs. I. Asci. J. Ascospores. Scale bars: E–F = 100 μm; G–J = 10 μm.",
+  "main_species": "Ovatospora pseudomollicella",
+  "species_in_caption": [
+   {
+    "name": "Ovatospora pseudomollicella",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ },
+ {
+  "figure": 47,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 75,
+  "file": "figures/fig47_p75.jpg",
+  "bbox": [
+   48.9,
+   51.0,
+   549.5,
+   748.0
+  ],
+  "kind": "plate",
+  "caption": "Fig. 47. Subramaniula cristata (DTO 324-H8). A. Colonies from left to right on OA, PCA, MEA and DG18 after 7 d incubation. B. Mature ascomata on OA, top view; C–E. Mature ascomata on OA, side view. F–H. Ascomata mounted in lactic acid. I. Structure of ascomatal wall in surface view. J. Upper part of a terminal ascomatal hair. K. Asci. L. Ascospores. Scale bars: F–H = 100 μm; I–L = 10 μm.",
+  "main_species": "Subramaniula cristata",
+  "species_in_caption": [
+   {
+    "name": "Subramaniula cristata",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
+ }
+]

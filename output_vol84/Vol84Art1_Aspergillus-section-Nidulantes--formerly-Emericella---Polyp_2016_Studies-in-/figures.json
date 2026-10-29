@@ -1,0 +1,1965 @@
+[
+ {
+  "figure": 1,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 13,
+  "file": "figures/fig01_p13.jpg",
+  "bbox": [
+   63.5,
+   46.8,
+   535.3,
+   778.3
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 1. Phylogenetic tree of subgenus Nidulantes inferred from concatenated 4 loci: ITS, BenA, CaM and RPB2. Branches with values more than 1 pp and 95% bs are thickened. The phylogram is rooted with Aspergillus flavipes (NRRL 302T).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus flavipes",
+    "status": "accepted",
+    "accepted_name": "Aspergillus flavipes"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 1,
+  "part": "",
+  "continued": true,
+  "uncaptioned": false,
+  "note": "continued from page 13",
+  "page": 14,
+  "file": "figures/fig01_p14.jpg",
+  "bbox": [
+   60.1,
+   64.0,
+   518.7,
+   462.5
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 1. (Continued).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus flavipes",
+    "status": "accepted",
+    "accepted_name": "Aspergillus flavipes"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 2,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 15,
+  "file": "figures/fig02_p15.jpg",
+  "bbox": [
+   49.1,
+   54.0,
+   549.7,
+   731.1
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 2. Phylogenetic tree of section Nidulantes inferred from concatenated 4 loci: ITS, BenA, CaM and RPB2. Branches with values more than 1 pp and 95% bs are thickened. The phylogram is rooted with Aspergillus ustus (CBS 261.67T).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus ustus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus ustus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 2,
+  "part": "",
+  "continued": true,
+  "uncaptioned": false,
+  "note": "continued from page 15",
+  "page": 16,
+  "file": "figures/fig02_p16.jpg",
+  "bbox": [
+   45.0,
+   53.0,
+   546.3,
+   748.1
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 2. (Continued).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus ustus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus ustus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 2,
+  "part": "",
+  "continued": true,
+  "uncaptioned": false,
+  "note": "continued from page 15",
+  "page": 17,
+  "file": "figures/fig02_p17.jpg",
+  "bbox": [
+   49.0,
+   53.8,
+   549.9,
+   434.2
+  ],
+  "kind": "phylogeny",
+  "caption": "Fig. 2. (Continued).",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus ustus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus ustus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 3,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 22,
+  "file": "figures/fig03_p22.jpg",
+  "bbox": [
+   45.7,
+   79.4,
+   546.0,
+   704.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 3. Range of ascospore phenotypes. A,B. Aspergillus nidulans CBS 589.65T. C,D. A. nidulans CBS 114.63 (ex-type of A. dentatus). E,F. A. quadrilineatus CBS 591.65T. G,H. A. quadrilineatus CBS 853.96. I,J. A. foveolatus CBS 279.81T. K,L. A. navahoensis CBS 351.81T. M,N. A. corrugatus CBS 191.77T. O,P. A. pachycristatus NRRL 11440. Q,R. A. sulphureoviridis CBS 140626T. S,T. A. savannensis CBS 140607T. Scale bars: S = 10 μm, applies to A,C,E,G,I,K,M,O,Q; T = 5 μm, applies to B,D,F,H,J,L,N,P,R. Pictures were arranged according to ascospore colour, shape and ornamentation.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus nidulans",
+    "status": "accepted",
+    "accepted_name": "Aspergillus nidulans"
+   },
+   {
+    "name": "Aspergillus quadrilineatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus quadrilineatus"
+   },
+   {
+    "name": "Aspergillus foveolatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus foveolatus"
+   },
+   {
+    "name": "Aspergillus navahoensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus navahoensis"
+   },
+   {
+    "name": "Aspergillus corrugatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus corrugatus"
+   },
+   {
+    "name": "Aspergillus pachycristatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus pachycristatus"
+   },
+   {
+    "name": "Aspergillus sulphureoviridis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus sulphureoviridis"
+   },
+   {
+    "name": "Aspergillus savannensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus savannensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 4,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 23,
+  "file": "figures/fig04_p23.jpg",
+  "bbox": [
+   49.1,
+   51.0,
+   549.4,
+   676.2
+  ],
+  "kind": "plate",
+  "caption": "Fig. 4. Range of ascospore phenotypes. A,B. Aspergillus aurantiobrunneus CBS 465.65T. C,D. A. falconensis CBS 271.91T. E,F. A. fruticulosus CBS 486.65T. G,H . A. latus CBS 492.65T. I,J. A. latus CBS 140630 (ex-type of A. sublatus). K,L. A. aurantiopurpureus CBS 140608T. M,N. A. astellatus CBS 261.93T. O,P. A. jaipurensis CBS 952.97T. Q,R. A. desertorum CBS 653.73T. S,T. A. purpureus CBS 754.74T. Scale bars: S = 10 μm, applies to A,C,E,G,I,K,M,O,Q; T = 5 μm, applies to B,D,F,H,J,L,N,P,R. Pictures were arranged according to ascospore colour, shape and ornamentation.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus aurantiobrunneus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiobrunneus"
+   },
+   {
+    "name": "Aspergillus falconensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus falconensis"
+   },
+   {
+    "name": "Aspergillus fruticulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus fruticulosus"
+   },
+   {
+    "name": "Aspergillus latus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Aspergillus sublatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus sublatus"
+   },
+   {
+    "name": "Aspergillus aurantiopurpureus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiopurpureus"
+   },
+   {
+    "name": "Aspergillus astellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus astellatus"
+   },
+   {
+    "name": "Aspergillus jaipurensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus jaipurensis"
+   },
+   {
+    "name": "Aspergillus desertorum",
+    "status": "accepted",
+    "accepted_name": "Aspergillus desertorum"
+   },
+   {
+    "name": "Aspergillus purpureus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus purpureus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 5,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 24,
+  "file": "figures/fig05_p24.jpg",
+  "bbox": [
+   45.7,
+   51.0,
+   546.0,
+   676.2
+  ],
+  "kind": "plate",
+  "caption": "Fig. 5. Range of ascospore phenotypes. A,B. Aspergillus spinulosporus CBS 120.55T. C,D. A. striatus CBS 592.65T. E,F. A. rugulosus CBS 133.60T. G,H . A. rugulosus CBS 200.75 (ex-type of A. cleistominutus). I,J. A. botswanensis CBS 314.89T. K,L. A. undulatus CBS 261.88T. M,N. A. latilabiatus CBS 426.93T. O,P. A. stercorarius CBS 428.93T. Q,R. A. violaceus CBS 138.55T. S,T. A. violaceus CBS 293.93 (ex-type of A. similis). Scale bars: S = 10 μm, applies to A,C,E,G,I,K,M,O,Q; T = 5 μm, applies to B,D,F,H,J,L,N,P,R. Pictures were arranged according to ascospore colour, shape and ornamentation.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus spinulosporus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus spinulosporus"
+   },
+   {
+    "name": "Aspergillus striatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus striatus"
+   },
+   {
+    "name": "Aspergillus rugulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus rugulosus"
+   },
+   {
+    "name": "Aspergillus cleistominutus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Aspergillus botswanensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus botswanensis"
+   },
+   {
+    "name": "Aspergillus undulatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus undulatus"
+   },
+   {
+    "name": "Aspergillus latilabiatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus latilabiatus"
+   },
+   {
+    "name": "Aspergillus stercorarius",
+    "status": "accepted",
+    "accepted_name": "Aspergillus stercorarius"
+   },
+   {
+    "name": "Aspergillus violaceus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus violaceus"
+   },
+   {
+    "name": "Aspergillus similis",
+    "status": "synonym",
+    "accepted_name": "Aspergillus violaceus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 6,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 25,
+  "file": "figures/fig06_p25.jpg",
+  "bbox": [
+   49.1,
+   51.0,
+   549.4,
+   676.2
+  ],
+  "kind": "plate",
+  "caption": "Fig. 6. Range of ascospore phenotypes. A,B. Aspergillus miraensis CBS 140625T. C,D. A. olivicola CBS 119.37T. E,F. A. stella–maris CBS 113638T. G,H. A. dromiae CBS 140633T. I,J. A. angustatus CBS 273.65T. K,L. A. venezuelensis CBS 868.97T. M,N. A. stellatus CBS 598.65T. O,P. A. qinqixianii CBS 128788T. Q,R. A. filifer CBS 113636T. S,T. A. filifer CBS 128791 (ex-type of A. chinensis). Scale bars: S = 10 μm, applies to A,C,E,G,I,K,M,O,Q; T = 5 μm, applies to B,D,F,H,J,L,N,P,R. Pictures were arranged according to ascospore colour, shape and ornamentation.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus miraensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus miraensis"
+   },
+   {
+    "name": "Aspergillus olivicola",
+    "status": "accepted",
+    "accepted_name": "Aspergillus olivicola"
+   },
+   {
+    "name": "Aspergillus dromiae",
+    "status": "accepted",
+    "accepted_name": "Aspergillus dromiae"
+   },
+   {
+    "name": "Aspergillus angustatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus angustatus"
+   },
+   {
+    "name": "Aspergillus venezuelensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus venezuelensis"
+   },
+   {
+    "name": "Aspergillus stellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus stellatus"
+   },
+   {
+    "name": "Aspergillus qinqixianii",
+    "status": "accepted",
+    "accepted_name": "Aspergillus qinqixianii"
+   },
+   {
+    "name": "Aspergillus filifer",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Aspergillus chinensis",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 7,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 27",
+  "page": 26,
+  "file": "figures/uncaptioned_p26.jpg",
+  "bbox": [
+   45.7,
+   50.7,
+   546.0,
+   778.8
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 7. Range of conidiophore and conidia phenotypes. A. A. angustatus CBS 273.65T. B. A. asperescens CBS 110.51T. C. A. astellatus CBS 261.93T. D. A. aurantiobrunneus CBS 465.65T. E. A. aurantiopurpureus CBS 140608T. F. A. aureolatus CBS 190.65T. G. A. caespitosus CBS 103.45T. H. A. corrugatus CBS 191.77T. I. A. dromiae CBS 140633T. J. A. falconensis CBS 271.91T. K. A. foveolatus CBS 279.81T. L. A. fruticulosus CBS 486.65T. M. A. israelensis CBS 140627T. N. A. jaipurensis CBS 952.97T. O. A. latus CBS 492.65T. P. A. latus CBS 140630 (extype of A. sublatus). Q. A. miraensis CBS 140625T. R. A. navahoensis CBS 351.81T. S. A. nidulans CBS 589.65T T. A. nidulans CBS 114.63 (ex-type of A. dentatus). U. A. olivicola CBS 119.37T. V. A. pachycristatus NRRL 11440. W. A. qinqixianii CBS 128788T. X. A. filifer CBS 113636T. Scale bar: X = 10 μm, applies to A–W.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus angustatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus angustatus"
+   },
+   {
+    "name": "Aspergillus asperescens",
+    "status": "accepted",
+    "accepted_name": "Aspergillus asperescens"
+   },
+   {
+    "name": "Aspergillus astellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus astellatus"
+   },
+   {
+    "name": "Aspergillus aurantiobrunneus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiobrunneus"
+   },
+   {
+    "name": "Aspergillus aurantiopurpureus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiopurpureus"
+   },
+   {
+    "name": "Aspergillus aureolatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aureolatus"
+   },
+   {
+    "name": "Aspergillus caespitosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus caespitosus"
+   },
+   {
+    "name": "Aspergillus corrugatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus corrugatus"
+   },
+   {
+    "name": "Aspergillus dromiae",
+    "status": "accepted",
+    "accepted_name": "Aspergillus dromiae"
+   },
+   {
+    "name": "Aspergillus falconensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus falconensis"
+   },
+   {
+    "name": "Aspergillus foveolatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus foveolatus"
+   },
+   {
+    "name": "Aspergillus fruticulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus fruticulosus"
+   },
+   {
+    "name": "Aspergillus israelensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus israelensis"
+   },
+   {
+    "name": "Aspergillus jaipurensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus jaipurensis"
+   },
+   {
+    "name": "Aspergillus latus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   },
+   {
+    "name": "Aspergillus miraensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus miraensis"
+   },
+   {
+    "name": "Aspergillus navahoensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus navahoensis"
+   },
+   {
+    "name": "Aspergillus nidulans",
+    "status": "accepted",
+    "accepted_name": "Aspergillus nidulans"
+   },
+   {
+    "name": "Aspergillus olivicola",
+    "status": "accepted",
+    "accepted_name": "Aspergillus olivicola"
+   },
+   {
+    "name": "Aspergillus pachycristatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus pachycristatus"
+   },
+   {
+    "name": "Aspergillus qinqixianii",
+    "status": "accepted",
+    "accepted_name": "Aspergillus qinqixianii"
+   },
+   {
+    "name": "Aspergillus filifer",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 8,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 28,
+  "file": "figures/fig08_p28.jpg",
+  "bbox": [
+   45.6,
+   200.9,
+   546.0,
+   742.8
+  ],
+  "kind": "plate",
+  "caption": "Fig. 8. Range of conidiophore and conidia phenotypes. A. A. quadrilineatus CBS 591.65T. B. A. quadrilineatus CBS 853.96. C. A. recurvatus CBS 496.65T. D. A. rugulosus CBS 133.60T. E. A. savannensis CBS 140607T. F. A. spelunceus CBS 497.65T. G. A. spinulosporus CBS 120.55T. H. A. stellatus CBS 598.65T. I. A. sulphureoviridis CBS 140626T. J. A. stella–maris CBS 113638T. K. A. undulatus CBS 261.88T. L. A. unguis CBS 132.55T. M. A. venezuelensis CBS 868.97T. N. A. viridicatenatus CBS 140629T. O. A. mulundensis CBS 140610T. P. A. multicolor CBS 133.54T. Q. A. varians CBS 505.65T. Scale bar: Q = 10 μm, applies to A–P.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus quadrilineatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus quadrilineatus"
+   },
+   {
+    "name": "Aspergillus recurvatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus recurvatus"
+   },
+   {
+    "name": "Aspergillus rugulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus rugulosus"
+   },
+   {
+    "name": "Aspergillus savannensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus savannensis"
+   },
+   {
+    "name": "Aspergillus spelunceus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus spelunceus"
+   },
+   {
+    "name": "Aspergillus spinulosporus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus spinulosporus"
+   },
+   {
+    "name": "Aspergillus stellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus stellatus"
+   },
+   {
+    "name": "Aspergillus sulphureoviridis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus sulphureoviridis"
+   },
+   {
+    "name": "Aspergillus undulatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus undulatus"
+   },
+   {
+    "name": "Aspergillus unguis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus unguis"
+   },
+   {
+    "name": "Aspergillus venezuelensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus venezuelensis"
+   },
+   {
+    "name": "Aspergillus viridicatenatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus viridicatenatus"
+   },
+   {
+    "name": "Aspergillus mulundensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus mulundensis"
+   },
+   {
+    "name": "Aspergillus multicolor",
+    "status": "accepted",
+    "accepted_name": "Aspergillus multicolor"
+   },
+   {
+    "name": "Aspergillus varians",
+    "status": "accepted",
+    "accepted_name": "Aspergillus varians"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 9,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 30,
+  "file": "figures/fig09_p30.jpg",
+  "bbox": [
+   66.8,
+   51.0,
+   525.0,
+   721.6
+  ],
+  "kind": "plate",
+  "caption": "Fig. 9. Temperature growth profile of Aspergillus sect. Nidulantes species on CYA, from left to right 30, 33, 37, 40, 45, 50 °C.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 10,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 31,
+  "file": "figures/fig10_p31.jpg",
+  "bbox": [
+   72.7,
+   45.4,
+   526.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 10. Temperature growth profile of Aspergillus sect. Nidulantes species on CYA, from left to right 30, 33, 37, 40, 45, 50 °C.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 11,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 39,
+  "file": "figures/fig11_p39.jpg",
+  "bbox": [
+   61.3,
+   54.0,
+   537.2,
+   774.0
+  ],
+  "kind": "plate",
+  "caption": "Fig. 11. Temperature growth profile of Aspergillus sect. Nidulantes species on CYA, from left to right 18, 21, 24, 27, 30, 33 °C.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 12,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 40,
+  "file": "figures/fig12_p40.jpg",
+  "bbox": [
+   66.4,
+   51.0,
+   525.3,
+   760.0
+  ],
+  "kind": "plate",
+  "caption": "Fig. 12. Temperature growth profile of Aspergillus sect. Nidulantes species on CYA, from left to right 21, 24, 27, 30, 33, 37 °C.",
+  "main_species": null,
+  "species_in_caption": [],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 13,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 42,
+  "file": "figures/fig13_p42.jpg",
+  "bbox": [
+   45.4,
+   51.5,
+   546.3,
+   779.5
+  ],
+  "kind": "plate",
+  "caption": "Fig. 13. Aspergillus angustatus CBS 273.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–D. Conidiophores and conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus angustatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus angustatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus angustatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 14,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 44,
+  "file": "figures/fig14_p44.jpg",
+  "bbox": [
+   45.4,
+   46.1,
+   546.4,
+   774.1
+  ],
+  "kind": "plate",
+  "caption": "Fig. 14. Aspergillus asperescens CBS 110.51T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–E,G = 10 μm; F = 8 μm.",
+  "main_species": "Aspergillus asperescens",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus asperescens",
+    "status": "accepted",
+    "accepted_name": "Aspergillus asperescens"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 15,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 45,
+  "file": "figures/fig15_p45.jpg",
+  "bbox": [
+   48.8,
+   45.4,
+   549.7,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 15. Aspergillus astellatus CBS 261.93T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus astellatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus astellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus astellatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 16,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 47,
+  "file": "figures/fig16_p47.jpg",
+  "bbox": [
+   48.7,
+   47.9,
+   549.8,
+   776.0
+  ],
+  "kind": "plate",
+  "caption": "Fig. 16. Aspergillus aurantiobrunneus CBS 465.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–D. Conidiophores and conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus aurantiobrunneus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus aurantiobrunneus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiobrunneus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 17,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 48,
+  "file": "figures/fig17_p48.jpg",
+  "bbox": [
+   45.7,
+   45.2,
+   546.0,
+   773.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 17. Aspergillus aurantiopurpureus CBS 140608T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus aurantiopurpureus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus aurantiopurpureus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aurantiopurpureus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 18,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 50,
+  "file": "figures/fig18_p50.jpg",
+  "bbox": [
+   45.1,
+   47.3,
+   546.7,
+   775.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 18. Aspergillus aureolatus CBS 190.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–G. Conidiophores. H. Conidia. Scale bars: B–C = 30 μm; D–H = 10 μm.",
+  "main_species": "Aspergillus aureolatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus aureolatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus aureolatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 19,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 51,
+  "file": "figures/fig19_p51.jpg",
+  "bbox": [
+   49.1,
+   47.3,
+   549.4,
+   775.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 19. Aspergillus botswanensis CBS 314.89T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Ascomata. C. Asci. D,F–H. Ascospores. E. Hülle cells. Scale bars: B = 1000 μm; C–E = 10 μm; F–H = 2 μm.",
+  "main_species": "Aspergillus botswanensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus botswanensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus botswanensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 20,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 53,
+  "file": "figures/fig20_p53.jpg",
+  "bbox": [
+   49.0,
+   43.8,
+   549.6,
+   771.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 20. Aspergillus caespitosus CBS 103.45T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C,F. Conidophores. D,E. Terminal or intercalary cells resembling Hülle cells. G. Conidia. Scale bars: B–C,E,G = 10 μm; F = 8 μm; D = 1000 μm.",
+  "main_species": "Aspergillus caespitosus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus caespitosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus caespitosus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 21,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 54,
+  "file": "figures/fig21_p54.jpg",
+  "bbox": [
+   45.2,
+   47.1,
+   546.6,
+   775.1
+  ],
+  "kind": "plate",
+  "caption": "Fig. 21. Aspergillus corrugatus CBS 191.77T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus corrugatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus corrugatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus corrugatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 22,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 56,
+  "file": "figures/fig22_p56.jpg",
+  "bbox": [
+   45.2,
+   45.4,
+   546.6,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 22. Aspergillus desertorum CBS 653.73T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Ascomata. C, E–G. Ascospores. D. Hülle cells. Scale bars: B = 30 μm; C–D = 10 μm; E–G = 2 μm.",
+  "main_species": "Aspergillus desertorum",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus desertorum",
+    "status": "accepted",
+    "accepted_name": "Aspergillus desertorum"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 23,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 58,
+  "file": "figures/fig23_p58.jpg",
+  "bbox": [
+   45.1,
+   43.8,
+   546.6,
+   771.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 23. Aspergillus dromiae CBS 140633T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus dromiae",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus dromiae",
+    "status": "accepted",
+    "accepted_name": "Aspergillus dromiae"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 24,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 59,
+  "file": "figures/fig24_p59.jpg",
+  "bbox": [
+   49.1,
+   46.2,
+   549.4,
+   774.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 24. Aspergillus falconensis CBS 271.91T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus falconensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus falconensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus falconensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 25,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 61,
+  "file": "figures/fig25_p61.jpg",
+  "bbox": [
+   49.1,
+   46.4,
+   549.4,
+   774.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 25. Aspergillus filifer CBS 113636T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus filifer",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus filifer",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 26,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 62,
+  "file": "figures/fig26_p62.jpg",
+  "bbox": [
+   45.0,
+   46.8,
+   546.8,
+   774.8
+  ],
+  "kind": "plate",
+  "caption": "Fig. 26. Aspergillus foveolatus CBS 279.81T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus foveolatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus foveolatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus foveolatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 27,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 64,
+  "file": "figures/fig27_p64.jpg",
+  "bbox": [
+   45.7,
+   46.2,
+   546.0,
+   774.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 27. Aspergillus fruticulosus CBS 486.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus fruticulosus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus fruticulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus fruticulosus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 28,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 65,
+  "file": "figures/fig28_p65.jpg",
+  "bbox": [
+   48.2,
+   46.2,
+   551.0,
+   774.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 28. Aspergillus israelensis CBS 140627T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–E,G = 10 μm; F = 8 μm.",
+  "main_species": "Aspergillus israelensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus israelensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus israelensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 29,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 67,
+  "file": "figures/fig29_p67.jpg",
+  "bbox": [
+   48.2,
+   46.4,
+   550.3,
+   774.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 29. Aspergillus jaipurensis CBS 952.97T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus jaipurensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus jaipurensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus jaipurensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 30,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 68,
+  "file": "figures/fig30_p68.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 30. Aspergillus latilabiatus CBS 426.93T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Ascomata. D,F–H. Ascospores. E. Hülle cells. Scale bars: B = 30 μm; C–E = 10 μm; F–H = 2 μm.",
+  "main_species": "Aspergillus latilabiatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus latilabiatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus latilabiatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 31,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 70,
+  "file": "figures/fig31_p70.jpg",
+  "bbox": [
+   45.6,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 31. Aspergillus latus CBS 492.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus latus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus latus",
+    "status": "not_accepted",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 32,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 71,
+  "file": "figures/fig32_p71.jpg",
+  "bbox": [
+   48.2,
+   45.4,
+   551.2,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 32. Aspergillus miraensis CBS 140625T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus miraensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus miraensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus miraensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 33,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 73,
+  "file": "figures/fig33_p73.jpg",
+  "bbox": [
+   49.1,
+   45.6,
+   549.4,
+   773.7
+  ],
+  "kind": "plate",
+  "caption": "Fig. 33. Aspergillus multicolor CBS 133.54T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–E. Conidiophores and Conidia. F,G. Hülle cells. Scale bars: B = 30 μm; C–F = 10 μm; G = 1000 μm.",
+  "main_species": "Aspergillus multicolor",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus multicolor",
+    "status": "accepted",
+    "accepted_name": "Aspergillus multicolor"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 34,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 74,
+  "file": "figures/fig34_p74.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 34. Aspergillus mulundensis CBS 140610T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–E,G = 10 μm; F = 8 μm.",
+  "main_species": "Aspergillus mulundensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus mulundensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus mulundensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 35,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 76,
+  "file": "figures/fig35_p76.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 35. Aspergillus navahoensis CBS 351.81T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus navahoensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus navahoensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus navahoensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 36,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 77,
+  "file": "figures/fig36_p77.jpg",
+  "bbox": [
+   49.1,
+   45.4,
+   549.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 36. Aspergillus nidulans CBS 589.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus nidulans",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus nidulans",
+    "status": "accepted",
+    "accepted_name": "Aspergillus nidulans"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 37,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 78,
+  "file": "figures/fig37_p78.jpg",
+  "bbox": [
+   45.7,
+   46.2,
+   546.0,
+   774.3
+  ],
+  "kind": "plate",
+  "caption": "Fig. 37. Aspergillus nidulans CBS 114.63 (ex-type of A. dentatus). A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus nidulans",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus nidulans",
+    "status": "accepted",
+    "accepted_name": "Aspergillus nidulans"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 38,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 80,
+  "file": "figures/fig38_p80.jpg",
+  "bbox": [
+   45.6,
+   45.4,
+   546.2,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 38. Aspergillus olivicola CBS 119.37T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus olivicola",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus olivicola",
+    "status": "accepted",
+    "accepted_name": "Aspergillus olivicola"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 39,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 82,
+  "file": "figures/fig39_p82.jpg",
+  "bbox": [
+   45.7,
+   43.8,
+   546.0,
+   771.9
+  ],
+  "kind": "plate",
+  "caption": "Fig. 39. Aspergillus pachycristatus NRRL 11440. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus pachycristatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus pachycristatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus pachycristatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 40,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 84,
+  "file": "figures/fig40_p84.jpg",
+  "bbox": [
+   45.6,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 40. Aspergillus purpureus CBS 754.74T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Ascomata. C. Asci. D,F–H. Ascospores. E. Hülle cells. Scale bars: B = 1000 μm; C–E = 10 μm; F–H = 2 μm.",
+  "main_species": "Aspergillus purpureus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus purpureus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus purpureus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 41,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 85,
+  "file": "figures/fig41_p85.jpg",
+  "bbox": [
+   48.2,
+   45.4,
+   550.7,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 41. Aspergillus qinqixianii CBS 128788T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus qinqixianii",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus qinqixianii",
+    "status": "accepted",
+    "accepted_name": "Aspergillus qinqixianii"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 42,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "caption on page 89",
+  "page": 88,
+  "file": "figures/uncaptioned_p88.jpg",
+  "bbox": [
+   45.7,
+   51.0,
+   546.0,
+   779.1
+  ],
+  "kind": "drawing",
+  "caption": "Fig. 42. Aspergillus quadrilineatus CBS 591.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. I. Ascospores of CBS 119.55, ex-type of A. acristatus. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H,I = 2 μm.",
+  "main_species": null,
+  "species_in_caption": [
+   {
+    "name": "Aspergillus quadrilineatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus quadrilineatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 43,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 90,
+  "file": "figures/fig43_p90.jpg",
+  "bbox": [
+   45.6,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 43. Aspergillus recurvatus CBS 496.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–E. Conidiophores and Conidia. F,G. Hülle cells. Scale bars: B = 30 μm; C–F = 10 μm; G = 1000 μm.",
+  "main_species": "Aspergillus recurvatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus recurvatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus recurvatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 44,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 91,
+  "file": "figures/fig44_p91.jpg",
+  "bbox": [
+   49.1,
+   45.4,
+   549.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 44. Aspergillus rugulosus CBS 133.60T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus rugulosus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus rugulosus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus rugulosus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 45,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 92,
+  "file": "figures/fig45_p92.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 45. Aspergillus savannensis CBS 140607T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus savannensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus savannensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus savannensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 46,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 93,
+  "file": "figures/fig46_p93.jpg",
+  "bbox": [
+   48.6,
+   45.4,
+   550.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 46. Aspergillus spelunceus CBS 497.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–G = 10 μm.",
+  "main_species": "Aspergillus spelunceus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus spelunceus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus spelunceus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 47,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 95,
+  "file": "figures/fig47_p95.jpg",
+  "bbox": [
+   49.1,
+   45.4,
+   549.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 47. Aspergillus spinulosporus CBS 120.55T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus spinulosporus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus spinulosporus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus spinulosporus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 48,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 96,
+  "file": "figures/fig48_p96.jpg",
+  "bbox": [
+   45.3,
+   45.4,
+   546.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 48. Aspergillus stella–maris CBS 113638T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 200 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus stella",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus stella",
+    "status": "unknown",
+    "accepted_name": ""
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 49,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 98,
+  "file": "figures/fig49_p98.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 49. Aspergillus stellatus CBS 598.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus stellatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus stellatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus stellatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 50,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 99,
+  "file": "figures/fig50_p99.jpg",
+  "bbox": [
+   48.8,
+   45.4,
+   549.7,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 50. Aspergillus stercorarius CBS 428.93T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Ascomata. C. Asci. D,F–H. Ascospores. E. Hülle cells. Scale bars: B = 1000 μm; C–E = 10 μm; F–H = 2 μm.",
+  "main_species": "Aspergillus stercorarius",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus stercorarius",
+    "status": "accepted",
+    "accepted_name": "Aspergillus stercorarius"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 51,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 101,
+  "file": "figures/fig51_p101.jpg",
+  "bbox": [
+   48.8,
+   45.4,
+   549.8,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 51. Aspergillus striatus CBS 592.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Ascomata. C,E–G. Ascospores. D. Hülle cells. Scale bars: B = 1000 μm; C–D = 10 μm; E–G = 2 μm.",
+  "main_species": "Aspergillus striatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus striatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus striatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 52,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 102,
+  "file": "figures/fig52_p102.jpg",
+  "bbox": [
+   45.7,
+   45.4,
+   546.0,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 52. Aspergillus sulphureoviridis CBS 140626T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus sulphureoviridis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus sulphureoviridis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus sulphureoviridis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 53,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 104,
+  "file": "figures/fig53_p104.jpg",
+  "bbox": [
+   45.3,
+   45.4,
+   546.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 53. Aspergillus undulatus CBS 261.88T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus undulatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus undulatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus undulatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 54,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 105,
+  "file": "figures/fig54_p105.jpg",
+  "bbox": [
+   48.2,
+   45.4,
+   551.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 54. Aspergillus unguis CBS 132.55T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–E,G = 10 μm; F = 8 μm.",
+  "main_species": "Aspergillus unguis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus unguis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus unguis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 55,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 107,
+  "file": "figures/fig55_p107.jpg",
+  "bbox": [
+   49.1,
+   45.4,
+   549.4,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 55. Aspergillus varians CBS 505.65T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–G = 10 μm.",
+  "main_species": "Aspergillus varians",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus varians",
+    "status": "accepted",
+    "accepted_name": "Aspergillus varians"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 56,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 108,
+  "file": "figures/fig56_p108.jpg",
+  "bbox": [
+   45.6,
+   45.4,
+   546.2,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 56. Aspergillus venezuelensis CBS 868.97T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B,C. Conidiophores. D. Conidia. E. Ascomata. F. Hülle cells. G,H. Ascospores. Scale bars: B = 30 μm; C,D,F,G = 10 μm; E = 1000 μm; H = 2 μm.",
+  "main_species": "Aspergillus venezuelensis",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus venezuelensis",
+    "status": "accepted",
+    "accepted_name": "Aspergillus venezuelensis"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 57,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 110,
+  "file": "figures/fig57_p110.jpg",
+  "bbox": [
+   45.1,
+   45.4,
+   546.6,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 57. Aspergillus violaceus CBS 138.55T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B. Conidiophores. C. Conidia. D. Hülle cells. E. Ascomata. F–H. Ascospores. Scale bars: B–D,F = 10 μm; E = 1000 μm; G–H = 2 μm.",
+  "main_species": "Aspergillus violaceus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus violaceus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus violaceus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ },
+ {
+  "figure": 58,
+  "part": "",
+  "continued": false,
+  "uncaptioned": false,
+  "note": "",
+  "page": 111,
+  "file": "figures/fig58_p111.jpg",
+  "bbox": [
+   48.5,
+   45.4,
+   550.1,
+   773.4
+  ],
+  "kind": "plate",
+  "caption": "Fig. 58. Aspergillus viridicatenatus CBS 140629T. A. Colonies: top row left to right, obverse CYA, obverse MEA, YES and OA; bottom row left to right, reverse CYA, reverse MEA, DG18 and CREA. B–F. Conidiophores. G. Conidia. Scale bars: B = 30 μm; C–G = 10 μm.",
+  "main_species": "Aspergillus viridicatenatus",
+  "species_in_caption": [
+   {
+    "name": "Aspergillus viridicatenatus",
+    "status": "accepted",
+    "accepted_name": "Aspergillus viridicatenatus"
+   }
+  ],
+  "species_in_labels": [],
+  "source": "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+ }
+]

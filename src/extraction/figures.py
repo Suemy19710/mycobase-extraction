@@ -1,4 +1,4 @@
-+"""Figures: save every figure of a paper as an image and attach species names to it.
+"""Figures: save every figure of a paper as an image and attach species names to it.
 
 Step 1 removes figure captions and figure text (tree labels, table cells) from the clean text.
 This module keeps the figures themselves:
@@ -19,7 +19,9 @@ How a figure is found
 How species are attached
   caption   binomials in the caption ("Fig. 6. Morphological characters of Talaromyces aerius")
   heading   the species heading cites the figure ("... sp. nov. MycoBank MB817398. Fig. 6.")
-  label     tree labels inside the figure that name a species of this paper ("T. aerius CBS 140611T")
+  label     tree labels inside the figure that name a species of this paper ("T. aerius CBS 140611T");
+            only when the labels are text (a tree pasted in as a picture needs OCR)
+Tables are not saved here: pages with a "Table n" caption are left to step 3.
 Every name is resolved with names.NameIndex, like the species sections.
 """
 import collections
@@ -28,6 +30,7 @@ import re
 from .text import fix_chars, line_size, line_text, norm_ws
 
 CAPTION_RE = re.compile(r"^(?:Figs?\.|Figure|FIG\.|FIGURE)\s*(\d+)\s*([A-Z](?![a-z]))?")
+TABLE_RE = re.compile(r"^(?:Table|TABLE)\s*\d+")
 CONTINUED_RE = re.compile(r"\(\s*[Cc]ontinued\s*\)|\(\s*[Cc]ont\.?\s*\)")
 PHYLO_RE = re.compile(r"phylogen|tree|cladogram|maximum likelihood|bayesian|neighbou?r.joining|"
                       r"parsimony|concatenated", re.I)
@@ -135,6 +138,8 @@ def extract_figures(pdf_path, lines, clean, out_dir, names, paper_species=(), dp
             if m:
                 text = norm_ws(fix_chars(" ".join(line_text(r) for r in rs)))
                 text = re.sub(r"(\w)- (\w)", r"\1\2", text)
+                if len(text) < 25 and not CONTINUED_RE.search(text):
+                    continue                 # a title inside a tree ("Fig. 2. cmd"), not a caption
                 box = _union([(r["x0"], r["y0"], r["x1"], r["y1"]) for r in rs])
                 captions.append({"num": int(m.group(1)), "part": m.group(2) or "", "text": text, "box": box,
                                  "blk": blk, "continued": bool(CONTINUED_RE.search(text[:40]))})
@@ -189,12 +194,22 @@ def extract_figures(pdf_path, lines, clean, out_dir, names, paper_species=(), dp
                 if not any(g[1][0] >= t[0] - 2 and g[1][1] >= t[1] - 2 and g[1][2] <= t[2] + 2
                            and g[1][3] <= t[3] + 2 for t in taken)
                 and not any(g[1][1] >= b[1] - 1 and g[1][3] <= b[3] + 1 and g[1][0] >= b[0] - 1
-                            and g[1][2] <= b[2] + 1 for b in prose)]
+                            and g[1][2] <= b[2] + 1 for b in prose)
+                and not (g[0] == "drw" and max(g[1][2] - g[1][0], g[1][3] - g[1][1]) < 9)]   # glyphs
+        has_table = any(TABLE_RE.match(norm_ws(fix_chars(line_text(r)))) for r in rows)
+        if has_table:
+            rest = []                        # tables are not figures (step 3 reads tables)
         n_img = sum(1 for g in rest if g[0] == "img")
         n_vert = sum(1 for g in rest if g[0] == "drw" and g[1][3] - g[1][1] > 3 and g[1][2] - g[1][0] < 2)
         if rest and (n_img >= 1 and sum(_area(g[1]) for g in rest if g[0] == "img") > 0.05 * W * H
                      or n_vert >= 10):
             box = _union([g[1] for g in rest])
+            n_text = sum(1 for r in rows if (r["p"], r["x0"], r["y0"]) in clean_keys and r["y0"] >= box[1]
+                         and r["y1"] <= box[3] and r["x0"] >= box[0] - 2 and r["x1"] <= box[2] + 2)
+            n_wide = sum(1 for r in rows if r["y0"] >= box[1] and r["y1"] <= box[3]
+                         and r["x1"] - r["x0"] >= 0.4 * W)
+            if n_text > 3 or n_wide > 8:
+                continue                     # a text page with some rules or symbols, not a figure
             lab = [r for r in labels if r["y0"] >= box[1] - 2 and r["y1"] <= box[3] + 2]
             box = _union([box] + [(r["x0"], r["y0"], r["x1"], r["y1"]) for r in lab])
             nxt = _next_caption_number(doc, pno)
@@ -203,6 +218,32 @@ def extract_figures(pdf_path, lines, clean, out_dir, names, paper_species=(), dp
             fname = _save(page, box, c, pno, photo, out_dir, dpi, used_names)
             figures.append(_record(c, pno, box, fname, " ".join(line_text(r) for r in lab), names,
                                    paper_species, rest))
+    return _tidy(figures)
+
+
+def _tidy(figures):
+    """Join a caption without graphics to the uncaptioned figure next to it, and let
+    "(Continued)" parts inherit kind and species from the first part."""
+    for c in [f for f in figures if not f["file"] and not f["uncaptioned"]]:
+        near = [u for u in figures if u["uncaptioned"] and u["file"] and abs(u["page"] - c["page"]) <= 1
+                and u["figure"] in (c["figure"], None)]
+        if near:
+            u = near[0]
+            u.update({k: c[k] for k in ("figure", "part", "caption", "kind", "main_species",
+                                        "species_in_caption")})
+            u["uncaptioned"] = False
+            u["note"] = f"caption on page {c['page']}"
+            c["drop"] = True
+    figures = [f for f in figures if not f.get("drop")]
+    first = {}
+    for f in figures:
+        if f["continued"] and f["figure"] in first:
+            m = first[f["figure"]]
+            f["kind"], f["main_species"] = m["kind"], m["main_species"]
+            f["species_in_caption"] = m["species_in_caption"]
+            f["note"] = f"continued from page {m['page']}"
+        elif not f["uncaptioned"]:
+            first.setdefault(f["figure"], f)
     return figures
 
 
@@ -229,15 +270,23 @@ def _save(page, box, c, pno, photo, out_dir, dpi, used):
         base += f"_{used[base]}"
     ext = "jpg" if photo else "png"
     path = out_dir / f"{base}.{ext}"
-    if photo:
-        pix.save(str(path), jpg_quality=88)
-    else:
-        pix.save(str(path))
+    data = pix.tobytes("jpg", jpg_quality=88) if photo else pix.tobytes("png")
+    with open(path, "wb") as f:          # overwrite in place (some synced folders forbid deleting)
+        f.write(data)
     return path.name
+
+
+LEAD_NAME = re.compile(r"^(?:Figs?\.|Figure|FIG\.|FIGURE)\s*\d+\s*[A-Z]?\s*[.:]?\s*"
+                       r"(?:Morphological characters of\s+|Morphology of\s+)?([A-Z][a-z]+ [a-z][a-z\-]+)\b")
 
 
 def _record(c, pno, box, fname, label_text, names, paper_species, inside):
     cap_species = _species_in(c["text"], names, paper_species) if c["text"] else []
+    lead = LEAD_NAME.match(c["text"]) if c["text"] else None
+    lead = lead.group(1) if lead and names.is_genus(lead.group(1).split()[0]) \
+        and lead.group(1).split()[1] not in NOT_EPITHET else None
+    if lead and lead not in cap_species:
+        cap_species.insert(0, lead)
     lab_species = [s for s in _species_in(label_text, names, paper_species, require_known=True)
                    if s in paper_species] if label_text else []
     if c.get("uncaptioned"):
@@ -248,7 +297,8 @@ def _record(c, pno, box, fname, label_text, names, paper_species, inside):
         kind = "plate"
     else:
         kind = "drawing"
-    main = cap_species[0] if cap_species and kind == "plate" else None
+    # the plate is about one species when the caption starts with it or names only it
+    main = (lead or (cap_species[0] if len(cap_species) == 1 else None)) if kind == "plate" else None
     return {
         "figure": c["num"],
         "part": c["part"],

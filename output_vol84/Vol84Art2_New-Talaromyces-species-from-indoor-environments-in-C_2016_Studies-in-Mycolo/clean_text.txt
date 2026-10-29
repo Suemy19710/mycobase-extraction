@@ -1,0 +1,904 @@
+# body font size: 10.2 pt   lines: 855
+
+=== page 1, left column ===
+p1 c0 15.9pt | **New** **Talaromyces** **species** **from** **indoor** **environments** **in** **China**
+p1 c0 10.2pt | A.J. Chen1,2,6, B.D. Sun3,6, J. Houbraken2, J.C. Frisvad4, N. Yilmaz5, Y.G. Zhou3, and R.A. Samson2*
+p1 c0  9.1pt | 6These authors contributed equally to the work.
+p1 c0  8.1pt | **Abstract:**_ Talaromyces_ contains both asexual and sexually reproducing species. This genus is divided in seven sections and currently has 105 accepted species. In this
+p1 c0  8.1pt | study we investigated the_ Talaromyces_ isolates that were obtained during a study of indoor air collected in Beijing, China. These indoor_ Talaromyces_ strains are resolved
+p1 c0  8.1pt | in four sections, seven of them are identified as_ T. islandicus_,_ T. aurantiacus_,_ T. siamensis_ and_ T. albobiverticillius_ according to_ BenA_ sequences, while 14 isolates have
+p1 c0  8.1pt | divergent sequences and are described here as nine new species. The new species are placed in four sections, namely sections _Helici_, _Islandici_, _Talaromyces_ and
+p1 c0  8.1pt | _Trachyspermi_. They are described based on sequence data (ITS, _BenA_, _CaM_ and _RPB2_) in combination with phenotypic and extrolite characters. Morphological
+p1 c0  8.1pt | descriptions and notes for distinguishing similar species are provided for each new species. The recently described_ T. rubrifaciens_ is synonymised with_ T. albobiverticillius_
+p1 c0  8.1pt | based on presented phylogenetic results.
+p1 c0  8.1pt | **Key** **words:** _Eurotiales_, Indoor air, Polyphasic taxonomy, _Talaromyces_ _albobiverticillius_.
+p1 c0  8.1pt | **Taxonomic** **novelties:** _Talaromyces_ _aerius_ A.J. Chen, Frisvad & Samson, _T._ _adpressus_ A.J. Chen, Frisvad & Samson, _T._ _beijingensis_ A.J. Chen, Frisvad & Samson,
+p1 c0  8.1pt | _T._ _cerinus_ A.J. Chen, Frisvad & Samson, _T._ _chlamydosporus_ A.J. Chen, Frisvad & Samson, _T._ _diversiformis_ A.J. Chen, Frisvad & Samson, _T._ _fusiformis_ A.J. Chen,
+p1 c0  8.1pt | Frisvad & Samson, _T._ _neorugulosus_ A.J. Chen, Frisvad & Samson, _T._ _reverso-olivaceus_ A.J. Chen, Frisvad & Samson.
+p1 c0 10.0pt | Available online 22 November 2016; http://dx.doi.org/10.1016/j.simyco.2016.11.003.
+p1 c0 12.2pt | **INTRODUCTION**
+p1 c0 10.2pt | The genus _Talaromyces_ was introduced by Benjamin (1955) to
+p1 c0 10.2pt | accommodate teleomorphic _Penicillium_ species with soft asco-
+p1 c0 10.2pt | mata, which are usually white or yellowish and surrounded by
+p1 c0 10.2pt | multiple layers of interwoven hyphae. Phylogenetic studies
+p1 c0 10.2pt | revealed that _Penicillium_ was polyphyletic and _Talaromyces_
+p1 c0 10.2pt | species and members of _Penicillium_ subgenus _Biverticillium_
+p1 c0 10.2pt | belonged in a clade distinct from _Penicillium_ _sensu_ _stricto_
+p1 c0 10.2pt | (LoBuglio _et_ _al._ 1993, LoBuglio & Taylor 1993, Berbee _et_ _al._
+p1 c0 10.2pt | 1995, Ogawa _et_ _al._ 1997, Ogawa & Sugiyama 2000, Wang &
+p1 c0 10.2pt | Zhuang 2007, Houbraken & Samson 2011). Following the
+p1 c0 10.2pt | concept of nomenclatural priority and single name nomenclature,
+p1 c0 10.2pt | Samson _et_ _al._ (2011) subsequently transferred all accepted
+p1 c0 10.2pt | species of _Penicillium_ subgenus _Biverticillium_ to _Talaromyces_.
+p1 c0 10.2pt | Yilmaz_ et_ _al._ (2014) studied the taxonomy of_ Talaromyces_ in
+p1 c0 10.2pt | detail using a polyphasic approach. Based on multigene phy-
+p1 c0 10.2pt | logeny, morphology and extrolites, 88 species were accepted
+p1 c0 10.2pt | and divided into seven sections: _Bacillispori_, _Helici_, _Islandici_,
+p1 c0 10.2pt | _Purpurei_, _Subin__fl__ati_, _Talaromyces_ and _Trachyspermi_. Visagie
+p1 c0 10.2pt | _et_ _al._ (2015) added five new species with ampulliform-like
+p1 c0 10.2pt | phialides to section _Talaromyces_. Later, Yilmaz _et_ _al._ (2016b)
+p1 c0 10.2pt | resolved the taxonomy within section _Islandici_ using a poly-
+p1 c0 10.2pt | phasic approach and introduced four new species, _T._ _acaricola_,
+p1 c0 10.2pt | _T. crassus_,_ T. infraolivaceus_ and_ T. subaurantiacus_. In the same
+p1 c0 10.2pt | year, eight new species, _T._ _amazonensis_, _T._ _columbiensis_,
+p1 c0 10.2pt | _T._ _francoae_, _T._ _neofusisporus_, _T._ _purgamentorum_, _T._ _qii_,
+p1 c0 10.2pt | _T._ _rubrifaciens_ and _T._ _systylus_, were described from Argentina,
+
+=== page 1, right column ===
+p1 c1 10.2pt | China and Colombia (Luo_ et al._ 2016, Romero_ et al._ 2016, Wang
+p1 c1 10.2pt | _et_ _al._ 2016, Yilmaz _et_ _al._ 2016a).
+p1 c1 10.2pt | In the last decades the interest in indoor mycobiota has grown
+p1 c1 10.2pt | because of their adverse health effects in humans (Samson_ et al._
+p1 c1 10.2pt | 1994, Prezant_ et al._ 2008, Flannigan_ et al._ 2011, Adan & Samson
+p1 c1 10.2pt | 2011). Samson _et_ _al._ (2010) listed 100 common indoor fungal
+p1 c1 10.2pt | species which belong to 47 genera. _Talaromyces_ _funiculosus_,
+p1 c1 10.2pt | _T._ _rugulosus_ and _T._ _wortmanii_ are among the most frequently
+p1 c1 10.2pt | encountered species in indoor environments. Visagie _et_ _al._
+p1 c1 10.2pt | (2014) analysed _Talaromyces_ species from dust samples
+p1 c1 10.2pt | collected from nine countries, and based on ITS and _BenA_ se-
+p1 c1 10.2pt | quences, 18_ Talaromyces_ species were identified including three
+p1 c1 10.2pt | new species: _T._ _oumae-annae_, _T._ _sayulitensis_ and _T._ _yelensis_.
+p1 c1 10.2pt | Various studies investigated the mycobiota of indoor envi-
+p1 c1 10.2pt | ronments in China. However, most surveys focused on total
+p1 c1 10.2pt | fungal counts and identified fungi to genera or species level
+p1 c1 10.2pt | based on phenotypic characters (Wu_ et al._ 1982, Wu_ et al._ 2000,
+p1 c1 10.2pt | Fang _et_ _al._ 2005, Li _et_ _al._ 2006, Si _et_ _al._ 2007, Liu _et_ _al._ 2014).
+p1 c1 10.2pt | Molecular based identifications are occasionally being performed
+p1 c1 10.2pt | and Luo _et_ _al._ (2016) reported _T._ _rubrifaciens_ as a new taxon
+p1 c1 10.2pt | from heating, ventilation and air conditioning systems in China.
+p1 c1 10.2pt | During surveys of the mycobiota of indoor air in Beijing,
+p1 c1 10.2pt | China, numerous strains belonging to_ Aspergillus_,_ Cladosporium_,
+p1 c1 10.2pt | _Chaetomium_,_ Penicillium_ and other genera were isolated. Among
+p1 c1 10.2pt | them, 14 _Talaromyces_ isolates could not be assigned to any
+p1 c1 10.2pt | described species. These strains are described here as nine new
+p1 c1 10.2pt | species based on multi-gene phylogenies based partial ITS,
+p1 c1 10.2pt | β-tubulin (_BenA_), calmodulin (_CaM_) and RNA polymerase II
+
+=== page 2, left column ===
+p2 c0 10.2pt | second largest subunit (_RPB2_) gene sequences, phenotype and
+p2 c0 10.2pt | extrolite data.
+p2 c0 12.2pt | **MATERIAL** **AND** **METHODS**
+p2 c0 12.2pt | **Isolates**
+p2 c0 10.2pt | Isolates used in this study were collected by the sedimentation
+p2 c0 10.2pt | plate method on various media in the vicinity of air-conditioning
+p2 c0 10.2pt | exhausts. These strains were subsequently deposited in the
+p2 c0 10.2pt | China General Microbiological Culture Collection Centre
+p2 c0 10.2pt | (CGMCC), Beijing, China. In addition, isolates from the culture
+p2 c0 10.2pt | collection of CBS-KNAW Fungal Biodiversity Centre (CBS),
+p2 c0 10.2pt | Utrecht, the Netherlands, and working collection of the Applied and
+p2 c0 10.2pt | Industrial Mycology department (DTO) housed at CBS-KNAW
+p2 c0 10.2pt | were used. An overview of strains is given in Table 1. For other
+p2 c0 10.2pt | strains used in the phylogenetic analyses, readers are referred to
+p2 c0 10.2pt | Yilmaz_ et al._ (2014, 2016a, b), Visagie_ et al._ (2014, 2015), Luo_ et al._
+p2 c0 10.2pt | (2016), Romero_ et al._ (2016), and Wang_ et al._ (2016).
+p2 c0 12.2pt | **DNA** **extraction,** **PCR** **ampli****fi****cation** **and**
+p2 c0 12.2pt | **sequencing**
+p2 c0 10.2pt | Strains were grown for 1 wk on malt extract agar (MEA, Oxoid
+p2 c0 10.2pt | malt) prior to DNA extraction. DNA was extracted using the Ul-
+p2 c0 10.2pt | traclean™Microbial DNA isolation Kit (MoBio, Solana Beach,
+p2 c0 10.2pt | U.S.A.) and stored at −20 °C. The ITS,_ BenA_,_ CaM_, and _RPB2_
+p2 c0 10.2pt | genes were amplified and sequenced using methods and
+p2 c0 10.2pt | primers previously described (Houbraken & Samson 2011,
+p2 c0 10.2pt | Yilmaz _et_ _al._ 2014).
+
+=== page 2, right column ===
+p2 c1 12.2pt | **Phylogenetic** **analysis**
+p2 c1 10.2pt | A multi-gene phylogeny combining ITS, _BenA_, _CaM_ and _RPB2_
+p2 c1 10.2pt | sequences was used to accommodate the new species of
+p2 c1 10.2pt | _Talaromyces_ in the different sections. Prior combining the
+p2 c1 10.2pt | datasets, single gene alignments were generated with MAFFT v.
+p2 c1 10.2pt | 7 (Katoh & Standley 2013), and then trimmed at both ends.
+p2 c1 10.2pt | Aligned datasets were subsequently concatenated using
+p2 c1 10.2pt | Mesquite v 3.1 (Maddison & Maddison 2016). For each section,
+p2 c1 10.2pt | single gene phylogenies were generated to determine the
+p2 c1 10.2pt | phylogenetic relationship among species. The most suitable
+p2 c1 10.2pt | substitution model was determined using FindModel (Posada &
+p2 c1 10.2pt | Crandall 1998). Bayesian analyses were performed with
+p2 c1 10.2pt | MrBayes v. 3.1.2 (Ronquist & Huelsenbeck 2003). The sample
+p2 c1 10.2pt | frequency was set to 100 and the first 25 % of trees were
+p2 c1 10.2pt | removed as burn-in. Maximum likelihood analyses including 500
+p2 c1 10.2pt | bootstrap replicates were run using RAxML BlackBox web-
+p2 c1 10.2pt | server (Gamma model of rate heterogeneity) (Stamatakis _et_ _al._
+p2 c1 10.2pt | 2008). _Trichocoma_ _paradoxa_ (CBS 788.83T) was used as an
+p2 c1 10.2pt | outgroup in the _Talaromyces_ phylogeny. Sequences of
+p2 c1 10.2pt | _T._ _ucrainicus_ (CBS 162.67T), _T._ _subin__fl__atus_ (CBS 652.95T),
+p2 c1 10.2pt | _T._ _dendriticus_ (CBS 660.80T) and _T._ _purpurogenus_ (CBS
+p2 c1 10.2pt | 286.36T) were used as outgroups in the _Talaromyces_ sections
+p2 c1 10.2pt | _Helici_, _Islandici_, _Talaromyces_ and _Trachyspermi_ respectively.
+p2 c1 10.2pt | The resulting trees were visualised with FigTree v1.4.2 and
+p2 c1 10.2pt | edited in Adobe Illustrator CS5. Bayesian inference (BI) posterior
+p2 c1 10.2pt | probabilities (pp) values and bootstrap (bs) values are labelled
+p2 c1 10.2pt | on nodes. Values less than 0.95 pp and 70 % bs are not shown.
+p2 c1 10.2pt | Branches with posterior probability values of 1 and bootstrap
+p2 c1 10.2pt | values higher than 95 % are thickened. Newly obtained se-
+p2 c1 10.2pt | quences were deposited in GenBank.
+p2 c1 10.2pt | **ITS** **BenA** **CaM** **RPB2**
+
+=== page 3, left column ===
+p3 c0 12.2pt | **Morphological** **analysis**
+p3 c0 10.2pt | Macroscopic characters were studied on Czapek yeast autoly-
+p3 c0 10.2pt | sate agar (CYA), CYA supplemented with 5 % NaCl (CYAS),
+p3 c0 10.2pt | yeast extract sucrose agar (YES), creatine sucrose agar
+p3 c0 10.2pt | (CREA), dichloran 18 % glycerol agar (DG18), oatmeal agar
+p3 c0 10.2pt | (OA) and malt extract agar (MEA; Oxoid malt) (Samson _et_ _al._
+p3 c0 10.2pt | 2010). Isolates were inoculated at three points on 90 mm Petri
+p3 c0 10.2pt | dishes and incubated for 7 d at 25 °C in darkness. Additional
+p3 c0 10.2pt | CYA plates were incubated at 30 and 37 °C, while additional
+p3 c0 10.2pt | MEA plates were incubated at 30 °C. After 7 d of incubation,
+p3 c0 10.2pt | colony diameters were recorded. The colony texture, degree of
+p3 c0 10.2pt | sporulation, obverse and reverse colony colours, the production
+p3 c0 10.2pt | of soluble pigments and exudates were noted. Acid production
+p3 c0 10.2pt | on CREA is indicated by a change in the pH sensitive bro-
+p3 c0 10.2pt | mocresol purple dye, from a purple to yellow colour in media
+p3 c0 10.2pt | surrounding colonies. For ascoma production, OA, MEA and
+p3 c0 10.2pt | CYA plates were incubated for up to four weeks.
+p3 c0 10.2pt | Microscope preparations were made from 1 wk old colonies
+p3 c0 10.2pt | grown on MEA and ascomata, asci and ascospores were
+p3 c0 10.2pt | observed on OA. Lactic acid (60 %) was used as mounting fluid
+p3 c0 10.2pt | and 96 % ethanol was applied to remove the excess of conidia. A
+p3 c0 10.2pt | Zeiss Stereo Discovery V20 dissecting microscope and Zeiss
+p3 c0 10.2pt | AX10 Imager A2 light microscope equipped with Nikon DS-Ri2
+p3 c0 10.2pt | cameras and software NIS-Elements D v4.50 were used to
+p3 c0 10.2pt | capture digital images.
+p3 c0 12.2pt | **Extrolites** **analysis**
+p3 c0 10.2pt | For extrolite extractions, three agar plugs (6 mm diam) were
+p3 c0 10.2pt | taken from colonies grown on CYA and YES (incubated for 1 wk
+p3 c0 10.2pt | at 25 °C), and combined in one Eppendorf vial. In addition, three
+p3 c0 10.2pt | plugs were taken from colonies grown on OA and Blakeslee's
+p3 c0 10.2pt | MEA (Blakeslee 1915), and combined in another Eppendorf vial.
+p3 c0 10.2pt | The plugs were ultrasonicated in ethylacetate/isopropanol (3:1)
+p3 c0 10.2pt | with 1 % formic acid for 50 min. After extraction, the liquid was
+p3 c0 10.2pt | transferred to another Eppendorf vial and thereafter evaporated.
+p3 c0 10.2pt | The remaining dry fraction was redissolved in 300 μl methanol
+p3 c0 10.2pt | and ultrasonicated for 10 min. The extract was centrifuged at
+p3 c0 10.2pt | 13 400 rpm in an Eppendorf centrifuge (Minispin), transferred to a
+p3 c0 10.2pt | V-formed vial with a 300 μl capacity, and subsequently injected
+p3 c0 10.2pt | into an Ultra high performance liquid chromatograph (UHPLC) via
+p3 c0 10.2pt | an autosampler. The Liquid chromatograph was a Dionex Ulti-
+p3 c0 10.2pt | mate 3000 UHPLC connected to a Dionex 3000 RS Diode array
+p3 c0 10.2pt | detector and an Agilent 1321A fluorescence detector. The column
+p3 c0 10.2pt | used was a Poroshell Phenyl hexyl 120 (100 mm × 2.1 mm)
+p3 c0 10.2pt | column with 2.7 μm particles (Agilent). The UHPLC gradient,
+p3 c0 10.2pt | injection volume and other conditions are given in Klitgaard_ et al._
+p3 c0 10.2pt | **ITS** **(bp)** **Substitution** **BenA** **(bp)**
+p3 c0 10.2pt | **model**
+
+=== page 3, right column ===
+p3 c1 10.2pt | (2014). Standards of rugulosin, skyrin, rugulovasine, duclauxin
+p3 c1 10.2pt | and other_ Talaromyces_ derived extrolites were used as standards
+p3 c1 10.2pt | in the comparison of retention times and UV spectra.
+p3 c1 12.2pt | **RESULTS**
+p3 c1 12.2pt | **Phylogeny**
+p3 c1 10.2pt | The phylogenetic relationships among the species in_ Talaromyces_
+p3 c1 10.2pt | were studied using concatenated sequence data of four loci, ITS,
+p3 c1 10.2pt | _BenA_,_ CaM_ and_ RPB2_. The total length of the aligned dataset was
+p3 c1 10.2pt | 2420 characters, and the single gene datasets consisted of 500,
+p3 c1 10.2pt | 493, 624 and 803 characters for ITS, _BenA_, _CaM_ and _RPB2_
+p3 c1 10.2pt | respectively. The most optimal models for the concatenated and
+p3 c1 10.2pt | the single gene phylogenies are shown in Table 2. The multi-gene
+p3 c1 10.2pt | analysis reveals the presence of seven well-supported lineages in
+p3 c1 10.2pt | _Talaromyces_ (Fig. 1), and these lineages correspond with sections
+p3 c1 10.2pt | _Bacillispori_,_ Helici_,_ Islandici_,_ Purpurei_,_ Subin__fl__ati_,_ Talaromyces_, and
+p3 c1 10.2pt | _Trachyspermi_. Our indoor_ Talaromyces_ strains are resolved in four
+p3 c1 10.2pt | sections, seven of them are identified as _T._ _islandicus_,
+p3 c1 10.2pt | _T. aurantiacus_,_ T. siamensis_ and_ T. albobiverticillius_ based on_ BenA_
+p3 c1 10.2pt | sequences, while 14 of them are described as nine new species:
+p3 c1 10.2pt | _T._ _diversiformis_ and _T._ _reverso-olivaceus_ in section _Helici_,
+p3 c1 10.2pt | _T._ _chlamydosporus_, _T._ _cerinus_ and _T._ _neorugulosus_ in section
+p3 c1 10.2pt | _Islandici_,_ T. beijingensis_,_ T. fusiformis_ and_ T. adpressus_ in section
+p3 c1 10.2pt | _Talaromyces_, and_ T. aerius_ in section_ Trachyspermi_.
+p3 c1 10.2pt | _Talaromyces_ _diversiformis_ and _T._ _reverso-olivaceus_, both
+p3 c1 10.2pt | belonging to section _Helici_ are in the combined analysis related
+p3 c1 10.2pt | with _T._ _aerugineus_ and _T._ _boninensis_, respectively (Fig. 1).
+p3 c1 10.2pt | _Talaromyces_ _reverso-olivaceus_ is in the _BenA_, _CaM_ and _RPB2_
+p3 c1 10.2pt | analysis is a sister species of_ T. boninensis_ (>0.98 pp; >89 % bs).
+p3 c1 10.2pt | The phylogenetic relationship of_ T. diversiformis_ is more difficult
+p3 c1 10.2pt | to determine based on the single gene phylograms and this
+p3 c1 10.2pt | species appears to be related to_ T. aerugineus_ and_ T. bohemicus_
+p3 c1 10.2pt | in the_ BenA_,_ CaM_ and_ RPB2_ phylograms (>0.98 pp; >70 % bs).
+p3 c1 10.2pt | The ITS phylogram is poorly resolved. The_ T. reverso-olivaceus_
+p3 c1 10.2pt | isolates cluster together (1 pp; 98 % bs) and these isolates are
+p3 c1 10.2pt | on a well-supported branch together with _T._ _helicus_ and
+p3 c1 10.2pt | _T. boninensis_. The relationship of_ T. diversiformis_ is unresolved in
+p3 c1 10.2pt | the ITS phylogram (Fig. 2, Suppl. 1–3). _Talaromyces_ _chlamy-_
+p3 c1 10.2pt | _dosporus_ and _T._ _cerinus_ are both members of section _Islandici_
+p3 c1 10.2pt | and are, with exception in the _CaM_ analysis, related with high
+p3 c1 10.2pt | statistical support to _T._ _subaurantiacus_ (Figs 1, 3, Suppl. 4–6).
+p3 c1 10.2pt | The multi-gene phylogeny and the ITS and _RPB2_ phylograms
+p3 c1 10.2pt | show that_ T. neorugulosus_ is most closely related to_ T. rugulosus_.
+p3 c1 10.2pt | This species is unresolved in the _CaM_ analysis, and related to
+p3 c1 10.2pt | _T. rugulosus_,_ T. infraolivaceus_,_ T. atricola_ and_ T. acaricola_ in the
+p3 c1 10.2pt | **Substitution** **CaM** **(bp)** **Substitution** **RPB2** **(bp)** **Substitution**
+p3 c1 10.2pt | **model** **model** **model**
+
+=== page 4, left column ===
+p4 c0 10.2pt | _BenA_ phylogram (Fig. 3, Suppl. 4–6). Strains of _T._ _beijingensis_
+p4 c0 10.2pt | cluster together in a single clade, separate from other sect.
+p4 c0 10.2pt | _Talaromyces_ species. The relationship of this species with other
+p4 c0 10.2pt | species is in all analysis (including the combined analysis) un-
+p4 c0 10.2pt | resolved. Both strains of _T._ _fusiformis_ form a single, separate
+p4 c0 10.2pt | clade in the four gene phylogenies, and they are a sister clade of
+p4 c0 10.2pt | _T._ _aurantiacus_. _Talaromyces_ _adpressus_ is in _BenA_ phylogeny
+
+=== page 4, right column ===
+p4 c1 10.2pt | with statistical support related to _T._ _sayulitensis_ (0.99 pp;
+p4 c1 10.2pt | 98 % bs), while it clusters with_ T. pinophilus_ in the_ CaM_ (1.00 pp;
+p4 c1 10.2pt | 98 % bs). The _RPB2_ sequence of _T._ _sayulitensis_ is unavailable
+p4 c1 10.2pt | thus cannot be compared here (Fig. 4, Suppl. 7–9). In section
+p4 c1 10.2pt | _Trachyspermi_, _T._ _aerius_ clusters with statistical support with
+p4 c1 10.2pt | _T._ _solicola_ in the three (_CaM_, _ITS_ and _RPB2_) of the four single
+p4 c1 10.2pt | gene phylogenies (Fig. 5, Suppl. 10–12).
+
+=== page 5, left column ===
+p5 c0 12.2pt | **Identi****fi****cation**
+p5 c0 10.2pt | All nine new species described here can be identified via_ BenA_,
+p5 c0 10.2pt | _CaM_ and _RPB2_ sequences. Seven of them have unique ITS
+p5 c0 10.2pt | sequences. _Talaromyces_ _neorugulosus_ cannot be separated
+
+=== page 5, right column ===
+p5 c1 11.0pt | **Section **_**Helici**_
+p5 c1 11.0pt | **Section **_**Talaromyces**_
+p5 c1 10.2pt | from_ T. rugulosus_ (strain CBS 285.37 and CBS 378.48) by its ITS
+p5 c1 10.2pt | sequence. _Talaromyces_ _diversiformis_ is similar to _T._ _aerugineus_
+p5 c1 10.2pt | (99.8 % similarity, 447/448 bp) and _T._ _ryukyuensis_ (99.1 %
+p5 c1 10.2pt | similarity, 445/449 bp) by ITS sequences.
+
+=== page 6, left column ===
+p6 c0 12.2pt | **TAXONOMY**
+p6 c0 10.2pt | **Talaromyces** **aerius** A.J. Chen, Frisvad & Samson, **sp.** **nov.**
+p6 c0 10.2pt | MycoBank MB817398. Fig. 6.
+p6 c0 10.2pt | _Etymology_: Latin,_ aerius_ refers to its origin, isolated from indoor air.
+p6 c0 10.2pt | _Diagnosis_: This species produces smooth, ellipsoidal conidia;
+p6 c0 10.2pt | does not produce red pigments or red exudates on any of the
+p6 c0 10.2pt | used media.
+p6 c0 10.2pt | In: _Talaromyces_ section _Trachyspermi_
+p6 c0 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p6 c0 10.2pt | (holotype CBS H-22506, culture ex-type CBS 140611 = CGMCC3.
+p6 c0 10.2pt | 18197 = DTO 317-C7).
+p6 c0 10.2pt | _ITS barcode_: KU866647. (_Alternative markers_:_ BenA_ = KU866835;
+p6 c0 10.2pt | _CaM_ = KU866731;_ RPB2_ = KU866991).
+p6 c0 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 17–18; CYA 30 °C 20–22; CYA
+p6 c0 10.2pt | 37 °C No growth; MEA 32–33; MEA 30 °C 34–36; DG18
+p6 c0 10.2pt | 11–12; CYAS 2–3; OA 28–30; CREA 2–4; YES 21–22.
+p6 c0 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p6 c0 10.2pt | crateriform; margins entire; mycelium white; texture floccose;
+p6 c0 10.2pt | sporulation sparse, conidia _en_ _masse_ greyish green to olive
+p6 c0 10.2pt | green; soluble pigments absent; exudates absent; reverse
+p6 c0 10.2pt | saffron. MEA, 25 °C, 7 d: Colonies low, plane; margins entire;
+p6 c0 10.2pt | mycelium white; texture velvety; sporulation dense, conidia _en_
+p6 c0 10.2pt | _masse_ greyish green; soluble pigments absent; exudates ab-
+p6 c0 10.2pt | sent; reverse saffron. YES, 25 °C, 7 d: Colonies moderately
+
+=== page 6, right column ===
+p6 c1 10.2pt | deep, raise at centre, cricoid; margins entire; mycelium white;
+p6 c1 10.2pt | texture floccose; sporulation dense, conidia _en_ _masse_ olive
+p6 c1 10.2pt | green to greyish green; soluble pigments absent; exudates
+p6 c1 10.2pt | absent; reverse greyish olive. DG18, 25 °C, 7 d: Colonies
+p6 c1 10.2pt | moderately deep, raise at centre, slightly sulcate; margins
+p6 c1 10.2pt | entire; mycelium rosy buff; texture floccose; sporulation sparse,
+p6 c1 10.2pt | conidia _en_ _masse_ greyish green; soluble pigments absent; ex-
+p6 c1 10.2pt | udates absent; reverse brown at centre, cream white at edge.
+p6 c1 10.2pt | OA, 25 °C, 7 d: Colonies low, plane; margins entire; mycelium
+p6 c1 10.2pt | white and light yellow; texture velvety; sporulation dense, con-
+p6 c1 10.2pt | idia_ en_ _masse_ greyish green to yellow green; soluble pigments
+p6 c1 10.2pt | absent; exudates absent; reverse purplish red at centre,
+p6 c1 10.2pt | yellowish brown at edge. CREA, 25 °C, 7 d: Acid production
+p6 c1 10.2pt | absent.
+p6 c1 10.2pt | _Micromorphology_: Conidiophores biverticillate, sometimes with
+p6 c1 10.2pt | extra subterminal branches; stipes smooth, 70–130 × 3–4 μm,
+p6 c1 10.2pt | extra branches 22–34 μm; metulae 3–5, divergent,
+p6 c1 10.2pt | 8–14 × 3–4 μm; phialides 4–6, acerose, 9–12 × 2–4 μm;
+p6 c1 10.2pt | conidia smooth, ellipsoidal, 2–3.5(–4.5) × 2–3 μm. Ascomata
+p6 c1 10.2pt | not observed.
+p6 c1 10.2pt | _Extrolites_: Mitorubrinic acid.
+p6 c1 10.2pt | _Distinguishing characters_:_ Talaromyces aerius_ is phylogenetically
+p6 c1 10.2pt | related to _T._ _solicola_, _T._ _albobiverticillius_ and _T._ _erythromellis_.
+p6 c1 10.2pt | _Talaromyces solicola_ produces rough conidia,_ T. albobiverticillius_
+p6 c1 10.2pt | produces intense red soluble pigment on CYA and
+p6 c1 10.2pt | _T._ _erythromellis_ grows restrictedly on CYA, MEA, YES and OA,
+p6 c1 10.2pt | and produces red exudates on MEA.
+p6 c1 10.2pt | **Talaromyces** **adpressus** A.J. Chen, Frisvad & Samson, **sp.**
+p6 c1 10.2pt | **nov.** MycoBank MB817397. Fig. 7.
+
+=== page 7, left column ===
+p7 c0 10.2pt | _Etymology_: Latin, _adpressus_ refers to its appressed metulae.
+p7 c0 10.2pt | _Diagnosis_: This species produces white mycelium on MEA and
+p7 c0 10.2pt | OA; does not produce acid compounds on CREA and produces
+p7 c0 10.2pt | smooth, subglobose to ellipsoidal conidia measuring
+p7 c0 10.2pt | 2.5–4.5(–5) × 2–3.5 μm.
+p7 c0 10.2pt | In: _Talaromyces_ section _Talaromyces_
+p7 c0 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p7 c0 10.2pt | (holotype CBS H-22507, culture ex-type CBS 140620 = CGMCC3.
+p7 c0 10.2pt | 18211 = DTO 317-G4).
+p7 c0 10.2pt | _ITS barcode_: KU866657. (_Alternative markers_:_ BenA_ = KU866844;
+p7 c0 10.2pt | _CaM_ = KU866741;_ RPB2_ = KU867001).
+p7 c0 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 32–33; CYA 30 °C 45–46; CYA
+p7 c0 10.2pt | 37 °C 35–38; MEA 42–43; MEA 30 °C 57–58; DG18 11–12;
+p7 c0 10.2pt | CYAS 1–2; OA 41–42; CREA 21–22; YES 42–43.
+p7 c0 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p7 c0 10.2pt | slightly sulcate; margins entire; mycelium white to buff, orange
+p7 c0 10.2pt | hyphae present at centre; texture floccose; sporulation sparse,
+p7 c0 10.2pt | conidia _en_ _masse_ greyish green; soluble pigments absent; ex-
+p7 c0 10.2pt | udates light droplets; reverse yellowish brown. MEA, 25 °C, 7 d:
+p7 c0 10.2pt | Colonies moderately deep, plane; margins entire; mycelium
+p7 c0 10.2pt | white; texture loosely funiculose to floccose; sporulation dense,
+p7 c0 10.2pt | conidia _en_ _masse_ greyish green; soluble pigments absent; ex-
+p7 c0 10.2pt | udates clear droplets; reverse yellowish brown. YES, 25 °C, 7 d:
+p7 c0 10.2pt | Colonies moderately deep, slightly sulcate; margins entire; white
+p7 c0 10.2pt | hyphae predominant, light coral red hyphae present; texture
+p7 c0 10.2pt | floccose; sporulation moderately dense, conidia _en_ _masse_
+p7 c0 10.2pt | greyish green; soluble pigments absent; exudates absent;
+p7 c0 10.2pt | reverse brown at centre, pale brown at edge. DG18, 25 °C, 7 d:
+p7 c0 10.2pt | Colonies moderately deep, plane; margins entire; mycelium
+p7 c0 10.2pt | white; texture floccose; sporulation sparse, conidia _en_ _masse_
+p7 c0 10.2pt | pale green; soluble pigments absent; exudates absent; reverse
+p7 c0 10.2pt | light yellow at centre, cream white at edge. OA, 25 °C, 7 d:
+p7 c0 10.2pt | Colonies moderately deep, plane, margins entire; mycelium
+p7 c0 10.2pt | white; texture floccose; sporulation dense, conidia _en_ _masse_
+p7 c0 10.2pt | greyish green; soluble pigments absent; exudates clear droplets;
+p7 c0 10.2pt | reverse pale buff. CREA, 25 °C, 7 d: Acid production present.
+p7 c0 10.2pt | _Micromorphology_: Conidiophores biverticillate; stipes smooth,
+p7 c0 10.2pt | 100–200 × 3–4.5 μm; metulae 3–5, appressed,
+p7 c0 10.2pt | 10–15 × 3–4.5 μm; phialides 3–5, acerose, 9–14 × 2.5–3.5 μm;
+p7 c0 10.2pt | conidia smooth, subglobose toellipsoidal, 2.5–4.5(–5) × 2–3.5 μm.
+p7 c0 10.2pt | Ascomata not observed.
+p7 c0 10.2pt | _Extrolites_: Duclauxin, rugulovasine A.
+p7 c0 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _adpressus_ is closely
+p7 c0 10.2pt | related to _T._ _sayulitensis_ and _T._ _pinophilus_; however, the latter
+p7 c0 10.2pt | two species produce large amounts of acid compounds on
+p7 c0 10.2pt | CREA. The micromorphology of these three species is identical,
+p7 c0 10.2pt | but they can be phylogenetically distinguished.
+p7 c0 10.2pt | **Talaromyces** **beijingensis** A.J. Chen, Frisvad & Samson, **sp.**
+p7 c0 10.2pt | **nov.** MycoBank MB817395. Fig. 8.
+p7 c0 10.2pt | _Etymology_: Latin, _beijingensis_ refers to its origin, isolated from
+p7 c0 10.2pt | Beijing, China.
+
+=== page 7, right column ===
+p7 c1 10.2pt | _Diagnosis_: This species grows moderately on CYA and MEA, the
+p7 c1 10.2pt | colony reverse on CYA and MEA is peach coloured, and it
+p7 c1 10.2pt | produces smooth, subglobose to fusiform conidia.
+p7 c1 10.2pt | In: _Talaromyces_ section _Talaromyces_
+p7 c1 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun.
+p7 c1 10.2pt | (holotype CBS H-22508, culture ex-type CBS 140617 = CGMCC3.
+p7 c1 10.2pt | 18200 = DTO 317-D8).
+p7 c1 10.2pt | _ITS barcode_: KU866649. (_Alternative markers_:_ BenA_ = KU866837;
+p7 c1 10.2pt | _CaM_ = KU866733;_ RPB2_ = KU866993).
+p7 c1 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 27–28; CYA 30 °C 36–37; CYA
+p7 c1 10.2pt | 37 °C 26–28; MEA 35–39; MEA 30 °C 45–52; DG18
+p7 c1 10.2pt | 10–11; CYAS Weak growth; OA 34–37; CREA 19–20; YES
+p7 c1 10.2pt | 25–26.
+p7 c1 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p7 c1 10.2pt | plane; margins entire; mycelium white; texture velvety; sporu-
+p7 c1 10.2pt | lation dense, conidia_ en_ _masse_ yellow green to greyish green;
+p7 c1 10.2pt | soluble pigments absent; exudates clear droplets; reverse
+p7 c1 10.2pt | peach fading into rosy buff. MEA, 25 °C, 7 d: Colonies
+p7 c1 10.2pt | moderately deep, plane; margins entire; mycelium white;
+p7 c1 10.2pt | texture velvety; sporulation dense, conidia _en_ _masse_ dark
+p7 c1 10.2pt | green; soluble pigments absent; exudates clear droplets;
+p7 c1 10.2pt | reverse peach fading into yellowish brown. YES, 25 °C, 7 d:
+p7 c1 10.2pt | Colonies moderately deep, slightly sulcate; margins entire;
+p7 c1 10.2pt | mycelium white; texture velvety; sporulation dense, conidia _en_
+p7 c1 10.2pt | _masse_ greyish green to dark green; soluble pigments absent;
+p7 c1 10.2pt | exudates absent; reverse orange brown. DG18, 25 °C, 7 d:
+p7 c1 10.2pt | Colonies moderately deep, plane; margins entire; mycelium
+p7 c1 10.2pt | white; texture floccose; sporulation sparse, conidia _en_ _masse_
+p7 c1 10.2pt | greyish green; soluble pigments absent; exudates absent;
+p7 c1 10.2pt | reverse brown to light yellow at centre, cream white at edge.
+p7 c1 10.2pt | OA, 25 °C, 7 d: Colonies moderately deep, plane; margins
+p7 c1 10.2pt | entire; mycelium white; texture velvety to floccose; sporulation
+p7 c1 10.2pt | dense, conidia_ en masse_ dark green; soluble pigments absent;
+p7 c1 10.2pt | exudates clear droplets; reverse orange brown. CREA, 25 °C,
+p7 c1 10.2pt | 7 d: Acid production present.
+p7 c1 10.2pt | _Micromorphology_: Conidiophores biverticillate, with symmetrical
+p7 c1 10.2pt | subterminal branches; stipes smooth, 91–175 × 3–4 μm, extra
+p7 c1 10.2pt | branches 18–20 μm; metulae 3–4, appressed,
+p7 c1 10.2pt | 11–14 × 2–4 μm; phialides 2–4, acerose, 9–12 × 2–3 μm;
+p7 c1 10.2pt | conidia smooth, ellipsoidal to fusiform, 3–4 × 2–3 μm. Ascomata
+p7 c1 10.2pt | not observed.
+p7 c1 10.2pt | _Extrolites_: Duclauxin.
+p7 c1 10.2pt | _Distinguishing_ _characters_: Phylogenetically _T._ _beijingensis_
+p7 c1 10.2pt | belongs to section _Talaromyces_, but it cannot be assigned
+p7 c1 10.2pt | to any section members. Morphologically this species
+p7 c1 10.2pt | resembles _T._ _fl__avovirens_ in having moderately growing,
+p7 c1 10.2pt | velvety, yellow green to greyish green colonies on CYA and
+p7 c1 10.2pt | MEA, biverticillate conidiophores and ellipsoidal to fusiform
+p7 c1 10.2pt | conidia. _Talaromyces_ _fl__avovirens_ can be differentiated by the
+p7 c1 10.2pt | production of synnemata (up to 750 μm) and yellow
+p7 c1 10.2pt | mycelium.
+p7 c1 10.2pt | **Talaromyces** **cerinus** A.J. Chen, Frisvad & Samson, **sp.** **nov.**
+p7 c1 10.2pt | MycoBank MB817393. Fig. 9.
+
+=== page 18, left column ===
+p18 c0 10.2pt | _Etymology_. Latin,_ cerinus_ refers to its yellow mycelium on MEA.
+p18 c0 10.2pt | _Diagnosis_: This species produces yellow mycelium on MEA and
+p18 c0 10.2pt | orange centred reverse on CYA, does not grow on CYA at 37 °C.
+p18 c0 10.2pt | In: _Talaromyces_ section _Islandici_
+p18 c0 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p18 c0 10.2pt | (holotype CBS H-22513, culture ex-type CBS
+p18 c0 10.2pt | 140622 = CGMCC3.18212 = DTO 318-A2).
+p18 c0 10.2pt | _ITS barcode_: KU866658. (_Alternative markers_:_ BenA_ = KU866845;
+p18 c0 10.2pt | _CaM_ = KU866742;_ RPB2_ = KU867002).
+p18 c0 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 17–18; CYA 30 °C 20–21; CYA
+p18 c0 10.2pt | 37 °C No growth; MEA 19–20; MEA 30 °C 25–26; DG18
+p18 c0 10.2pt | 12–13; CYAS 10–11; OA 17–19; CREA 2–3; YES 19–21.
+p18 c0 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p18 c0 10.2pt | plane; margins entire; mycelium white to buff; texture floccose;
+p18 c0 10.2pt | sporulation dense, conidia_ en masse_ greyish green; soluble pig-
+p18 c0 10.2pt | ments absent; exudates absent; reverse orange at centre, saffron
+p18 c0 10.2pt | at edge. MEA, 25 °C, 7 d: Colonies moderately deep, slightly
+p18 c0 10.2pt | sulcate; margins entire; mycelium yellow at centre; texture floc-
+p18 c0 10.2pt | cose; sporulation moderately dense, conidia _en_ _masse_ yellow
+p18 c0 10.2pt | green; soluble pigments absent; exudates clear droplets; reverse
+p18 c0 10.2pt | saffron. YES, 25 °C, 7 d: Colonies moderately deep, plane;
+p18 c0 10.2pt | margins entire; mycelium white; texture velvety; sporulation
+p18 c0 10.2pt | dense, conidia_ en masse_ greyish green; soluble pigments absent;
+p18 c0 10.2pt | exudates absent; reverse orange at centre, cream white at edge.
+p18 c0 10.2pt | DG18, 25 °C, 7 d: Colonies moderately deep, plane; margins
+p18 c0 10.2pt | entire; mycelium white to buff; texture velvety; sporulation dense,
+p18 c0 10.2pt | conidia _en masse_ greyish green; soluble pigments absent; exu-
+p18 c0 10.2pt | dates absent; reverse cream white. OA, 25 °C, 7 d: Colonies
+p18 c0 10.2pt | moderately deep, plane; margins entire; mycelium white and light
+p18 c0 10.2pt | yellow; texture floccose; sporulation sparse, conidia _en_ _masse_
+p18 c0 10.2pt | yellow green; soluble pigments absent; exudates clear droplets;
+p18 c0 10.2pt | reverse cream white. CREA, 25 °C, 7 d: Acid production absent.
+p18 c0 10.2pt | _Micromorphology_: Conidiophores biverticillate, stipes smooth,
+p18 c0 10.2pt | 50–100 × 2.5–4 μm; metulae 3–5, 8–11 × 2.5–4 μm; phialides
+p18 c0 10.2pt | 3–7, acerose, 9–11(–14) × 2–3 μm; conidia smooth, ellipsoidal
+p18 c0 10.2pt | to fusiform, 2.5–4 × 2–3 μm. Ascomata not observed.
+p18 c0 10.2pt | _Extrolites_: Emodin, mitorubrin, mitorubrinol, rugulosin, rugulo-
+p18 c0 10.2pt | vasine A, skyrin.
+p18 c0 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _cerinus_ resembles
+p18 c0 10.2pt | _T. subaurantiacus_ and_ T. chlamydosporus_, but_ T. subaurantiacus_
+p18 c0 10.2pt | produces orange mycelium on CYA and MEA, and
+p18 c0 10.2pt | _T._ _chlamydosporus_ produces globose to subglobose swollen
+p18 c0 10.2pt | cells resembling chlamydospores. In addition,_ T. cerinus_ does not
+p18 c0 10.2pt | grow on CYA at 37 °C.
+p18 c0 10.2pt | **Talaromyces** **chlamydosporus** A.J. Chen, Frisvad & Samson,
+p18 c0 10.2pt | **sp.** **nov.** MycoBank MB817392. Fig. 10.
+p18 c0 10.2pt | _Etymology_: Latin, _chlamydosporus_ refers to the globose to
+p18 c0 10.2pt | subglobose swollen cells resembling chlamydospores.
+p18 c0 10.2pt | _Diagnosis_: This species grows restrictedly on CYA and MEA,
+p18 c0 10.2pt | reaches 3–4 mm on CYA at 37 °C after 7 days, and produces
+
+=== page 18, right column ===
+p18 c1 10.2pt | globose to subglobose swollen cells resembling
+p18 c1 10.2pt | chlamydospores.
+p18 c1 10.2pt | In: _Talaromyces_ section _Islandici_
+p18 c1 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p18 c1 10.2pt | (holotype CBS H-22509, culture ex-type CBS 140635 = CGMCC
+p18 c1 10.2pt | 3.18199 = DTO 317-D5).
+p18 c1 10.2pt | _ITS barcode_: KU866648. (_Alternative markers_:_ BenA_ = KU866836;
+p18 c1 10.2pt | _CaM_ = KU866732;_ RPB2_ = KU866992).
+p18 c1 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 12–13; CYA 30 °C 12–13; CYA
+p18 c1 10.2pt | 37 °C 3–4; MEA 18–19; MEA 30 °C 17–18; DG18 9–11; CYAS
+p18 c1 10.2pt | 9–10; OA 15–16; CREA 3–4; YES 16–17.
+p18 c1 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p18 c1 10.2pt | raised at centre, plane; margins entire; mycelium buff; texture
+p18 c1 10.2pt | velvety; sporulation moderately dense, conidia _en_ _masse_ olive
+p18 c1 10.2pt | green to greyish green; soluble pigments absent; exudates absent;
+p18 c1 10.2pt | reverse orange at centre, yellowish brown at edge. MEA, 25 °C,
+p18 c1 10.2pt | 7 d: Colonies moderately deep, slightly sulcate; margins slightly
+p18 c1 10.2pt | irregular; mycelium white; texture floccose; sporulation moderately
+p18 c1 10.2pt | dense, conidia _en_ _masse_ blue green; soluble pigments absent;
+p18 c1 10.2pt | exudates clear droplets; reverse yellowish brown. YES, 25 °C, 7 d:
+p18 c1 10.2pt | Colonies moderately deep, slightly sulcate; margins entire;
+p18 c1 10.2pt | mycelium white; texture velvety; sporulation moderately dense,
+p18 c1 10.2pt | conidia _en_ _masse_ greyish green; soluble pigments absent; exu-
+p18 c1 10.2pt | dates absent; reverse yellowish brown. DG18, 25 °C, 7 d: Colonies
+p18 c1 10.2pt | moderately deep, plane; margins entire; mycelium light yellow;
+p18 c1 10.2pt | texture velvety; sporulation moderately dense, conidia_ en masse_
+p18 c1 10.2pt | greyish green; soluble pigments absent; exudates absent; reverse
+p18 c1 10.2pt | yellowish brown. OA, 25 °C, 7 d: Colonies moderately deep, plane;
+p18 c1 10.2pt | margins entire; mycelium white; texture velvety; sporulation
+p18 c1 10.2pt | moderately dense, conidia _en_ _masse_ yellow green; soluble pig-
+p18 c1 10.2pt | ments absent; exudates absent; reverse yellowish brown. CREA,
+p18 c1 10.2pt | 25 °C, 7 d: Acid production absent.
+p18 c1 10.2pt | _Micromorphology_: Conidiophores biverticillate; stipes smooth,
+p18 c1 10.2pt | 50–250 × 2.5–4 μm; metulae 3–5, appressed, sometimes
+p18 c1 10.2pt | irregularly swollen, 9–14 × 2–4(–6) μm; phialides 3–5, acerose,
+p18 c1 10.2pt | 9–14 × 2–3 μm; conidia smooth, ellipsoidal to fusiform,
+p18 c1 10.2pt | 2.5–4 × 1.5–3 μm. Swollen cells resembling chlamydospores
+p18 c1 10.2pt | globose to subglobose, 5–7 μm; Ascomata not observed.
+p18 c1 10.2pt | _Extrolites_: Mitorubrin, mitorubrinol, mitorubrinol acetate, rugulo-
+p18 c1 10.2pt | sin, rugulovasin A & B, skyrin.
+p18 c1 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _chlamydosporus_ grows
+p18 c1 10.2pt | restrictedly and produce compact colonies on CYA and MEA,
+p18 c1 10.2pt | and can produce globose to subglobose swollen cells. These
+p18 c1 10.2pt | characters distinguish it from the closely related
+p18 c1 10.2pt | _T._ _subaurantiacus_ and _T._ _cerinus_.
+p18 c1 10.2pt | **Talaromyces** **diversiformis** A.J. Chen, Frisvad & Samson, **sp.**
+p18 c1 10.2pt | **nov.** MycoBank MB818696. Fig. 11.
+p18 c1 10.2pt | _Etymology_: Latin,_ diversiformis_ refers to its diverse conidiophore
+p18 c1 10.2pt | branches.
+p18 c1 10.2pt | _Diagnosis_: This species produces solitary phialides, biverticillate
+p18 c1 10.2pt | conidiophores, which have in some cases extra subterminal
+
+=== page 21, left column ===
+p21 c0 10.2pt | branches. This species furthermore produces large, ellipsoidal to
+p21 c0 10.2pt | fusiform conidia measuring 4–6(–8) × 2–4 μm.
+p21 c0 10.2pt | In: _Talaromyces_ section _Helici_
+p21 c0 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p21 c0 10.2pt | (holotype CBS H-22841, culture ex-type CBS 141931 = CGMCC
+p21 c0 10.2pt | 3.18204 = DTO 317-E3).
+p21 c0 10.2pt | _ITS barcode_: KX961215. (_Alternative markers_:_ BenA_ = KX961216;
+p21 c0 10.2pt | _CaM_ = KX961259;_ RPB2_ = KX961274).
+p21 c0 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 13–14; CYA 30 °C 14–16; CYA
+p21 c0 10.2pt | 37 °C 17–19; MEA 45–48; MEA 30 °C 56–57; DG18 5–6;
+p21 c0 10.2pt | CYAS No growth; OA 52–53; CREA No growth; YES 22–24.
+p21 c0 10.2pt | _Colony_ _characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p21 c0 10.2pt | plane; margins entire; mycelium white; texture floccose; sporula-
+p21 c0 10.2pt | tion moderately dense, conidia _en_ _masse_ blue green; soluble
+p21 c0 10.2pt | pigments absent; exudates absent; reverse yellowish brown fading
+p21 c0 10.2pt | into greyish green. MEA, 25 °C, 7 d: Colonies moderately deep,
+p21 c0 10.2pt | plane; margins entire; mycelium white; texture velvety; sporulation
+p21 c0 10.2pt | dense, conidia_ en masse_ greyish green; soluble pigments absent;
+p21 c0 10.2pt | exudates absent; reverse dark olive green fading into yellowish
+p21 c0 10.2pt | brown. YES, 25 °C, 7 d: Colonies moderately deep, plane; margins
+p21 c0 10.2pt | entire; mycelium white; texture funiculose; moderately dense,
+p21 c0 10.2pt | conidia_ en masse_ blue green, soluble pigments absent; exudates
+p21 c0 10.2pt | absent; reverse yellowish green at centre, cream white at edge.
+p21 c0 10.2pt | DG18, 25 °C, 7 d: Colonies moderately deep, plane; margins
+p21 c0 10.2pt | entire; mycelium white; texture floccose; sporulation absent; sol-
+p21 c0 10.2pt | uble pigments absent; exudates absent; reverse cream white. OA,
+p21 c0 10.2pt | 25 °C, 7 d: Colonies moderately deep, plane; margins entire;
+p21 c0 10.2pt | mycelium white; texture velvety; sporulation dense, conidia _en_
+p21 c0 10.2pt | _masse_ dark green; soluble pigments absent; exudates absent;
+p21 c0 10.2pt | reverse dark greenish glaucous. CREA, 25 °C, 7 d: No growth.
+p21 c0 10.2pt | _Micromorphology_: Conidiophores with solitary phialides, or
+p21 c0 10.2pt | biverticillate, or with extra subterminal branches; stipes smooth,
+p21 c0 10.2pt | 13–70 × 2.5–4 μm; metulae 2–3, 16–18 × 3–4 μm; phialides
+p21 c0 10.2pt | 1–3, flask shaped to acerose, (8–)16–18(–23) × 3–4.5 μm;
+p21 c0 10.2pt | conidia ellipsoidal to fusiform, smooth, 4–6(–8) × 2–4 μm.
+p21 c0 10.2pt | Ascomata not observed.
+p21 c0 10.2pt | _Extrolites_: no extrolites detected.
+p21 c0 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _diversiformis_ is phylo-
+p21 c0 10.2pt | genetically closely related to _T._ _aerugineus_ and _T._ _bohemicus_.
+p21 c0 10.2pt | This species has, compared with _T._ _aerugineus_, more complex
+p21 c0 10.2pt | branched conidiophores. _T._ _bohemicus_ produces light brown
+p21 c0 10.2pt | mycelium which turns to cinnamon brown (Fassatiov�a & P^e�ckov�a
+p21 c0 10.2pt | 1990).
+p21 c0 10.2pt | **Talaromyces** **fusiformis** A.J. Chen, Frisvad & Samson, **sp.**
+p21 c0 10.2pt | **nov.** MycoBank MB817396. Fig. 12.
+p21 c0 10.2pt | _Etymology_: Latin, _fusiformis_ refers to its fusiform conidia.
+p21 c0 10.2pt | _Diagnosis_: This species produces funiculose colonies on OA,
+p21 c0 10.2pt | does not grow on CREA, produces smooth, ellipsoidal to fusiform
+p21 c0 10.2pt | conidia measuring 3–4(–6) × 2–3 μm.
+
+=== page 21, right column ===
+p21 c1 10.2pt | In: _Talaromyces_ section _Talaromyces_
+p21 c1 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p21 c1 10.2pt | (holotype CBS H-22510, culture ex-type CBS 140637 = CGMCC3.
+p21 c1 10.2pt | 18210 = DTO 317-F4).
+p21 c1 10.2pt | _ITS barcode_: KU866656. (_Alternative markers_:_ BenA_ = KU866843;
+p21 c1 10.2pt | _CaM_ = KU866740;_ RPB2_ = KU867000).
+p21 c1 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 28–29; CYA 30 °C 26–28; CYA
+p21 c1 10.2pt | 37 °C 24–25; MEA 37–38; MEA 30 °C 49–51; DG18 8–9;
+p21 c1 10.2pt | CYAS No growth; OA 39–40; CREA No growth; YES 30–31.
+p21 c1 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p21 c1 10.2pt | plane; margins entire; mycelium light yellow at centre; texture
+p21 c1 10.2pt | floccose; sporulation sparse, conidia _en_ _masse_ yellow green;
+p21 c1 10.2pt | soluble pigments absent; exudates light yellow droplets; reverse
+p21 c1 10.2pt | orange at centre, yellowish brown at edge. MEA, 25 °C, 7 d:
+p21 c1 10.2pt | Colonies moderately deep, plane; margins entire; mycelium
+p21 c1 10.2pt | white; texture loosely funiculose; sporulation dense, conidia _en_
+p21 c1 10.2pt | _masse_ greyish green; soluble pigments absent; exudates clear
+p21 c1 10.2pt | droplets; reverse orange at centre, yellowish brown at edge.
+p21 c1 10.2pt | YES, 25 °C, 7 d: Colonies moderately deep, slightly sulcate;
+p21 c1 10.2pt | margins entire; mycelium light yellow at centre, white at edge;
+p21 c1 10.2pt | texture floccose; sporulation absent to sparse, conidia_ en masse_
+p21 c1 10.2pt | pale green; soluble pigments absent; exudates light yellow
+p21 c1 10.2pt | droplets; reverse yellowish brown. DG18, 25 °C, 7 d: Colonies
+p21 c1 10.2pt | moderately deep, plane; margins entire; mycelium white; texture
+p21 c1 10.2pt | floccose; sporulation sparse, conidia _en_ _masse_ greyish green;
+p21 c1 10.2pt | soluble pigments absent; exudates absent; reverse white. OA,
+p21 c1 10.2pt | 25 °C, 7 d: Colonies deep, plane; margins entire; mycelium
+p21 c1 10.2pt | white, texture funiculose, sporulation dense, conidia _en_ _masse_
+p21 c1 10.2pt | greyish green; soluble pigments absent; exudates clear droplets;
+p21 c1 10.2pt | reverse yellowish green. CREA, 25 °C, 7 d: No growth.
+p21 c1 10.2pt | _Micromorphology_: Conidiophores biverticillate, with symmetrical
+p21 c1 10.2pt | subterminal branches; stipes smooth, 42–70 × 2.5–4 μm, extra
+p21 c1 10.2pt | branches 28–37 μm; metulae 3–4, appressed,
+p21 c1 10.2pt | 12–15 × 2.5–4 μm; phialides 3–4, acerose, 11–15 × 2–3 μm;
+p21 c1 10.2pt | conidia smooth, ellipsoidal to fusiform, 3–4(–6) × 2–3 μm.
+p21 c1 10.2pt | Ascomata not observed.
+p21 c1 10.2pt | _Extrolites_: A purpactin, secalonic acid D, a chrodrimanin
+p21 c1 10.2pt | = thailandolide.
+p21 c1 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _fusiformis_ is close to
+p21 c1 10.2pt | _T._ _aurantiacus_ and _T._ _funiculosus_, but _T._ _aurantiacus_ does not
+p21 c1 10.2pt | sporulate on CYA, MEA and YES and produces cylindrical to
+p21 c1 10.2pt | ellipsoidal conidia._ T. funiculosus_ produces strong acid on CREA.
+p21 c1 10.2pt | **Talaromyces neorugulosus** A.J. Chen, Frisvad & Samson,** sp.**
+p21 c1 10.2pt | **nov.** MycoBank MB817394. Fig. 13.
+p21 c1 10.2pt | _Etymology_: Latin, _neorugulosus_ refers to its resemblance with
+p21 c1 10.2pt | _T._ _rugulosus_.
+p21 c1 10.2pt | _Diagnosis_: This species produces compact, velvety, olive green
+p21 c1 10.2pt | to dark green colony, produces globose, subglobose to ellip-
+p21 c1 10.2pt | soidal conidia measuring 3–4(–5) × 2–3(–4) μm, phylogeneti-
+p21 c1 10.2pt | cally distinct from _T._ _rugulosus_.
+
+=== page 23, left column ===
+p23 c0 10.2pt | In: _Talaromyces_ section _Islandici_
+p23 c0 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p23 c0 10.2pt | (holotype CBS H-22511, culture ex-type CBS 140623 = CGMCC3.
+p23 c0 10.2pt | 18215 = DTO 318-A8).
+p23 c0 10.2pt | _ITS barcode_: KU866659. (_Alternative markers_:_ BenA_ = KU866846;
+p23 c0 10.2pt | _CaM_ = KU866743;_ RPB2_ = KU867003).
+p23 c0 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 17–18; CYA 30 °C 20–21; CYA
+p23 c0 10.2pt | 37 °C No growth; MEA 19–20; MEA 30 °C 25–26; DG18
+p23 c0 10.2pt | 12–13; CYAS 10–11; OA 17–19; CREA 2–3; YES 19–21.
+p23 c0 10.2pt | _Colony_ _characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p23 c0 10.2pt | slightly sulcate; margins entire; mycelium light yellow; texture
+p23 c0 10.2pt | velvety; sporulation moderately dense, conidia _en_ _masse_ olive
+p23 c0 10.2pt | green; soluble pigments absent; exudates absent; reverse buff.
+p23 c0 10.2pt | MEA, 25 °C, 7 d: Colonies moderately deep, sulcate, crateriform,
+p23 c0 10.2pt | sunken at centre; margins entire; mycelium white; texture velvety;
+p23 c0 10.2pt | sporulation dense, conidia_ en masse_ dark green; soluble pigments
+p23 c0 10.2pt | absent; exudates clear droplets; reverse cinnamon. YES, 25 °C,
+p23 c0 10.2pt | 7 d: Colonies moderately deep, sulcate; margins entire; mycelium
+p23 c0 10.2pt | white; texture velvety; sporulation dense, conidia_ en masse_ greyish
+p23 c0 10.2pt | green to olive green; soluble pigments absent; exudates absent;
+p23 c0 10.2pt | reverse olive green to olive buff. DG18, 25 °C, 7 d: Colonies
+p23 c0 10.2pt | moderately deep, sunken at centre and crateriform; margins entire;
+p23 c0 10.2pt | mycelium light yellow; texture velvety; sporulation dense, conidia
+p23 c0 10.2pt | _en masse_ greyish green to olive green; soluble pigments absent;
+p23 c0 10.2pt | exudates absent; reverse olive buff. OA, 25 °C, 7 d: Colonies
+p23 c0 10.2pt | moderately deep, plane; margins entire; mycelium white; texture
+p23 c0 10.2pt | floccose; sporulation dense, conidia_ en masse_ dark green; soluble
+p23 c0 10.2pt | pigments absent; exudates clear droplets; reverse cream white.
+p23 c0 10.2pt | CREA, 25 °C, 7 d: Acid production present.
+p23 c0 10.2pt | _Micromorphology_: Conidiophores biverticillate, sometimes with
+p23 c0 10.2pt | additional branches; stipes smooth, 15–100 × 2–4 μm, extra
+p23 c0 10.2pt | branches 14–30 μm; metulae 3–5, divergent, 8–14 × 3–4 μm;
+p23 c0 10.2pt | phialides 2–5, flask shaped, 7–12 × 2–4 μm; conidia smooth,
+p23 c0 10.2pt | globose, subglobose to ellipsoidal, 3–4(–5) × 2–3(–4) μm.
+p23 c0 10.2pt | Ascomata not observed.
+p23 c0 10.2pt | _Extrolites_: Ukulactones = pruginosins.
+p23 c0 10.2pt | _Distinguishing_ _characters_: _Talaromyces_ _neorugulosus_ is close to
+p23 c0 10.2pt | _T. rugulosus_,_ T. atricola_ and_ T. scorteus_. However,_ T. scorteus_ grows
+p23 c0 10.2pt | more restrictedly on CYA, MEA, YES and OA,_ T. atricola_ is char-
+p23 c0 10.2pt | acterised by floccose colonies and poor sporulation. Morphologi-
+p23 c0 10.2pt | cally, _T._ _neorugulosus_ resembles _T._ _rugulosus_ and only small
+p23 c0 10.2pt | differences were found of the colony colour:_ T. rugulosus_ produces
+p23 c0 10.2pt | dull to dark green colonies on CYA, YES and DG18 and
+p23 c0 10.2pt | _T.neorugulosus_inshadesofolivegreen.Phylogenetically,thesetwo
+p23 c0 10.2pt | species can be distinguished by_ BenA_,_ CaM_ and_ RPB2_ sequences.
+p23 c0 10.2pt | **Talaromyces reverso-olivaceus** A.J. Chen, Frisvad & Samson,
+p23 c0 10.2pt | **sp.** **nov.** MycoBank MB817391. Fig. 14.
+p23 c0 10.2pt | _Etymology_: Latin, _reverso-olivaceus_ refers to the olive centred
+p23 c0 10.2pt | reverse.
+p23 c0 10.2pt | _Diagnosis_: This species produces olive green centred reverse on
+p23 c0 10.2pt | CYA and saffron reverse on MEA, produces ellipsoidal to fusi-
+p23 c0 10.2pt | form, finely roughed conidia measuring 2.5–4.5 × 2.5–3 μm.
+
+=== page 23, right column ===
+p23 c1 10.2pt | In: _Talaromyces_ section _Helici_
+p23 c1 10.2pt | _Typus_:** China**, Beijing, indoor air, May 2014, isolated by B.D. Sun
+p23 c1 10.2pt | (holotype CBS H-22512, culture ex-type CBS 140672 = CGMCC
+p23 c1 10.2pt | 3.18195 = DTO 317-C3).
+p23 c1 10.2pt | _ITS barcode_: KU866646. (_Alternative markers_:_ BenA_ = KU866834;
+p23 c1 10.2pt | _CaM_ = KU866730;_ RPB2_ = KU866990).
+p23 c1 10.2pt | _Colony_ _diam,_ _7_ _d_ _(mm)_: CYA 19–23; CYA 30 °C 23–27; CYA
+p23 c1 10.2pt | 37 °C 18–20; MEA 34–37; MEA 30 °C 46–49; DG18 9–12;
+p23 c1 10.2pt | CYAS 4–6; OA 33–36; CREA No growth; YES 25–26.
+p23 c1 10.2pt | _Colony characters_: CYA, 25 °C, 7 d: Colonies moderately deep,
+p23 c1 10.2pt | sulcate, raised at centre; margins entire; mycelium white; texture
+p23 c1 10.2pt | floccose; sporulation moderately dense, conidia_ en masse_ grey-
+p23 c1 10.2pt | ish green; soluble pigments absent; exudates absent; reverse
+p23 c1 10.2pt | olive green at centre fading into white. MEA, 25 °C, 7 d: Colonies
+p23 c1 10.2pt | moderately deep, plane to light sulcate; margins entire; mycelium
+p23 c1 10.2pt | white; texture velvety to floccose; sporulation dense, conidia _en_
+p23 c1 10.2pt | _masse_ blue green; soluble pigments absent; exudates absent;
+p23 c1 10.2pt | reverse saffron. YES, 25 °C, 7 d: Colonies moderately deep,
+p23 c1 10.2pt | sulcate; margins entire; mycelium white; texture floccose; spor-
+p23 c1 10.2pt | ulation sparse to moderately dense, conidia_ en masse_ blue green
+p23 c1 10.2pt | to greyish green; soluble pigments absent; exudates absent;
+p23 c1 10.2pt | reverse saffron. DG18, 25 °C, 7 d: Colonies moderately deep,
+p23 c1 10.2pt | plane; margins entire; mycelium white; texture floccose; sporu-
+p23 c1 10.2pt | lation absent to sparse, conidia_ en masse_ greyish green; soluble
+p23 c1 10.2pt | pigments absent; exudates absent; reverse dark green at centre
+p23 c1 10.2pt | fading into white. OA, 25 °C, 7 d: Colonies low, plane; margins
+p23 c1 10.2pt | entire; mycelium white; texture velvety; sporulation dense, conidia
+p23 c1 10.2pt | _en masse_ dark green; soluble pigments absent; exudates absent;
+p23 c1 10.2pt | reverse light buff. CREA, 25 °C, 7 d: No growth.
+p23 c1 10.2pt | _Micromorphology_: Conidiophores biverticillate, sometimes with
+p23 c1 10.2pt | extra subterminal branches; stipes smooth, 50–100 × 2.5–4 μm;
+p23 c1 10.2pt | branches 12–15 × 2–3 μm; metulae 3–5, 10–13 × 3–4 μm;
+p23 c1 10.2pt | phialides 3–5, acerose, 10–12(–14) × 2.5–3 μm; conidia
+p23 c1 10.2pt | ellipsoidal to fusiform, finely roughed, 2.5–4.5 × 2.5–3 μm.
+p23 c1 10.2pt | Ascomata not observed.
+p23 c1 10.2pt | _Extrolites_: rugulovasine A.
+p23 c1 10.2pt | _Distinguishing_ _characters_: Phylogenetically, _Talaromyces_
+p23 c1 10.2pt | _reverso-olivaceus_ clusters in section _Helici_, related to
+p23 c1 10.2pt | _T. boninensis_ and_ T. helicus_._ Talaromyces boninensis_ sporulates
+p23 c1 10.2pt | poorly on CYA and MEA, has a light orange reverse on CYA and
+p23 c1 10.2pt | white to orange reverse on MEA, and produces globose to
+p23 c1 10.2pt | subglobose ascospores. _Talaromyces_ _helicus_ produces greyish
+p23 c1 10.2pt | red to yellowish brown reverse on CYA, brownish orange reverse
+p23 c1 10.2pt | on MEA, and produces ellipsoidal ascospores. In addition,
+p23 c1 10.2pt | _T._ _reverso-olivaceus_ produces finely roughed conidia, while
+p23 c1 10.2pt | _T._ _boninensis_ and _T._ _helicus_ produce smooth-walled conidia.
+p23 c1 12.2pt | **DISCUSSION**
+p23 c1 10.2pt | The genus _Talaromyces_ was recently monographed (Yilmaz
+p23 c1 10.2pt | _et_ _al._ 2014), accepting seven sections and 88 species. This
+p23 c1 10.2pt | study promoted the taxonomy of this genus, and since more than
+p23 c1 10.2pt | 17 new species were described (Visagie_ et al._ 2015, Yilmaz_ et al._
+
+=== page 24, left column ===
+p24 c0 10.2pt | 2016a, b, Luo_ et al._ 2016, Romero_ et al._ 2016, Wang_ et al._ 2016).
+p24 c0 10.2pt | In this study, _Talaromyces_ isolates obtained from indoor air in
+p24 c0 10.2pt | China were studied. These isolates can be classified in four
+p24 c0 10.2pt | sections, and nine species are described here as new based on
+p24 c0 10.2pt | a polyphasic approach.
+p24 c0 10.2pt | _Talaromyces_ section_ Helici_ includes two clades (Yilmaz_ et al._
+p24 c0 10.2pt | 2014), and two of our new species fall into these two distinct
+p24 c0 10.2pt | clades._ Talaromyces reverso-olivaceus_ clusters in the main clade
+p24 c0 10.2pt | containing _T._ _helicus_, _T._ _boninensis_ and _T._ _varians_, and these
+p24 c0 10.2pt | species share the production of pigmented conidiophores. The
+p24 c0 10.2pt | other new species, _T._ _diversiformis_, clusters with the mono-
+p24 c0 10.2pt | verticillate species _T._ _aerugineus_ and _T._ _bohemicus_. This
+p24 c0 10.2pt | branching complexity of _T._ _diversiformis_ is variable and both
+p24 c0 10.2pt | monoverticillate and biverticillate (occasionally with subterminal
+p24 c0 10.2pt | branches) conidiophores are observed.
+p24 c0 10.2pt | The majority of species belonging to _Talaromyces_ section
+p24 c0 10.2pt | _Islandici_ grow restrictedly on most media, produce yellow
+p24 c0 10.2pt | mycelium and characteristic mycotoxins (Yilmaz _et_ _al._ 2014,
+p24 c0 10.2pt | 2016b). The three new _Islandici_ species grow restrictedly and
+p24 c0 10.2pt | produce yellow mycelium on DG18, confirming their relationship
+p24 c0 10.2pt | with other member of this section. Furthermore,_ T. neorugulosus_
+p24 c0 10.2pt | produces pruginosins, and _T._ _chlamydosporus_ and _T._ _cerinus_
+p24 c0 10.2pt | produce emodin, mitorubrin, mitorubrinol, rugulosin, skyrin and
+p24 c0 10.2pt | rugulovasine A. These extrolites are commonly shared by
+p24 c0 10.2pt | members of section _Islandici_. Besides shared characteristics,
+p24 c0 10.2pt | these species can also be distinguished based on morphological
+p24 c0 10.2pt | and physiological characters. _Talaromyces_ _chlamydosporus_
+p24 c0 10.2pt | produces globose to subglobose swollen cells resembling chla-
+p24 c0 10.2pt | mydospores and_ T. cerinus_ does not grow on CYA incubated at
+p24 c0 10.2pt | 37 °C, in contrast to the closely related species
+p24 c0 10.2pt | _T._ _chlamydosporus_ and _T._ _subaurantiacus_. _Talaromyces_ _neo-_
+p24 c0 10.2pt | _rugulosus_ is morphologically similar to _T._ _rugulosus_. These
+p24 c0 10.2pt | species can be distinguished on their conidial colour on CYA and
+p24 c0 10.2pt | DG18; however, _BenA_, _CaM_ or _RPB2_ sequencing is recom-
+p24 c0 10.2pt | mended for accurate identification.
+p24 c0 10.2pt | _Talaromyces_ section _Talaromyces_ was initially introduced for
+p24 c0 10.2pt | species producing yellow, white, creamish, pinkish or reddish
+p24 c0 10.2pt | ascomata and yellow ascospores (Stolk & Samson 1972), and
+p24 c0 10.2pt | this section currently contains both asexual and sexual species
+p24 c0 10.2pt | (Samson _et_ _al._ 2011, Yilmaz _et_ _al._ 2012, Manoch _et_ _al._ 2013,
+p24 c0 10.2pt | Sang _et_ _al._ 2013, Yilmaz _et_ _al._ 2014, Visagie _et_ _al._ 2014,
+p24 c0 10.2pt | Wang _et_ _al._ 2016). Morphologically, the two new _Talaromyces_
+p24 c0 10.2pt | (_T._ _beijingensis_
+p24 c0 10.2pt | species proposed in this section and
+p24 c0 10.2pt | _T._ _fusiformis_) can be distinguished from related species by
+p24 c0 10.2pt | mycelial colour, conidial shape and ornamentation (see notes in
+p24 c0 10.2pt | Taxonomy section).
+p24 c0 10.2pt | _Talaromyces_ _aerius_ resembles other species of section _Tra-_
+p24 c0 10.2pt | _chyspermi_ by restricted growth on CYA, YES and DG18, a
+p24 c0 10.2pt | slightly faster growth rate on MEA, and poor growth on CREA.
+p24 c0 10.2pt | _Talaromyces_ _aerius_ differs from the phylogenetically related
+p24 c0 10.2pt | species _T. solicola_ by its conidial ornamentation (smooth-walled
+p24 c0 10.2pt | in _T._ _aerius_ _vs_. rough-walled in _T._ _solicola_). The two recently
+p24 c0 10.2pt | described _Trachyspermi_ members, _T._ _systylus_ and
+p24 c0 10.2pt | _T._ _rubrifaciens_, were included in the phylogenetic analyses.
+p24 c0 10.2pt | _Talaromyces_ _systylus_ is well-separated from its sister species
+p24 c0 10.2pt | _T._ _trachyspermus_ and _T._ _assiutensis_, while all of _T._ _rubrifaciens_
+p24 c0 10.2pt | strains cluster together with_ T. albobiverticillius_. The_ BenA_ gene,
+p24 c0 10.2pt | which is recommended as the identification marker in _Talar-_
+p24 c0 10.2pt | _omyces_ (Yilmaz _et_ _al._ 2014), is identical for these two species.
+p24 c0 10.2pt | _Talaromyces albobiverticillius_ has a large intraspecies sequence
+p24 c0 10.2pt | variation (Frisvad _et_ _al._ 2013). For the description of
+p24 c0 10.2pt | _T._ _rubrifaciens_, Luo _et_ _al._ (2016) included a limited number of
+
+=== page 24, right column ===
+p24 c1 10.2pt | _T._ _albobiverticillius_ sequences in their phylogenetic analyses.
+p24 c1 10.2pt | This selection did not fully represent the sequence diversity
+p24 c1 10.2pt | within this species. The noticeable features like the formation of
+p24 c1 10.2pt | restricted colonies on MEA and CYA, soluble red pigment pro-
+p24 c1 10.2pt | duction on YES and MEA and green coloured conidia are
+p24 c1 10.2pt | common in_ T. albobiverticillius_ (Frisvad_ et al._ 2013, Yilmaz_ et al._
+p24 c1 10.2pt | 2014). Other reported characters to distinguish _T._ _rubrifaciens_
+p24 c1 10.2pt | from _T._ _albobiverticillius_ are the number of metulae (9–15) and
+p24 c1 10.2pt | phialides (6–10). These characters were, however, not depicted
+p24 c1 10.2pt | in the original figures (Luo_ et al._ 2016). Based on molecular and
+p24 c1 10.2pt | morphological characters, we consider_ T. rubrifaciens_ a synonym
+p24 c1 10.2pt | of _T._ _albobiverticillius_. Interestingly, four of our indoor isolates
+p24 c1 10.2pt | were also identified as _T._ _albobiverticillius_. Visagie _et_ _al._ (2014)
+p24 c1 10.2pt | reported this species in house dust from Thailand and South
+p24 c1 10.2pt | Africa, and all of these results indicate a widespread occurrence
+p24 c1 10.2pt | of this species in indoor environments.
+p24 c1 10.2pt | The research on airborne fungi started in China in 1957,
+p24 c1 10.2pt | when Wu _et_ _al._ (1982) compared the outdoor fungal concen-
+p24 c1 10.2pt | tration from 1957 to 1982 in Beijing, China. The predominant
+p24 c1 10.2pt | genera found were _Cladosporium_, _Aspergillus_, _Alternaria_ and
+p24 c1 10.2pt | _Penicillium_. Later, several investigations were conducted on
+p24 c1 10.2pt | airborne fungi in different cities and seasons. In most studies
+p24 c1 10.2pt | only the fungal propagules were quantified and if identification
+p24 c1 10.2pt | was performed, then it was based on morphology (Wu _et_ _al._
+p24 c1 10.2pt | 2000, Li _et_ _al._ 2006, Si _et_ _al._ 2007, Liu _et_ _al._ 2014). Fang
+p24 c1 10.2pt | _et_ _al._ (2005) analysed the culturable airborne fungi in outdoor
+p24 c1 10.2pt | environments in Beijing, China. _Talaromyces_ _funiculosus_
+p24 c1 10.2pt | (= _Penicillium_ _funiculosum_), _T._ _pinophilus_ (= _P._ _pinophilum_),
+p24 c1 10.2pt | _T._ _ruber_ (= _P._ _rubrum_), _T._ _wortmannii_ (= _P._ _variabile_), and
+p24 c1 10.2pt | _T._ _fl__avus_ were identified using the Biolog Microstation System
+p24 c1 10.2pt | (Biolog, Hayward, CA). Li_ et al._ (2006) analysed the indoor and
+p24 c1 10.2pt | outdoor _Penicillium_ population in Nanchang city, Jiangxi prov-
+p24 c1 10.2pt | ince, and using morphological identification, _T._ _islandicus_
+p24 c1 10.2pt | (= _P._ _islandicum_) was found to be one of the predominant
+p24 c1 10.2pt | species. During a study on indoor fungi in Beijing, Fang _et_ _al._
+p24 c1 10.2pt | (2013) identified their isolates on genus level using ITS se-
+p24 c1 10.2pt | quences, and three of them belong to _Talaromyces_. In Flora
+p24 c1 10.2pt | Fungorum Sinicorum v35 _Penicillium_ et teleomorphi cognati,
+p24 c1 10.2pt | Kong (2007) described the most complete records of_ Penicillium_
+p24 c1 10.2pt | and its teleomorphs in China. _Talaromyces_ _funiculosus_
+p24 c1 10.2pt | (= _Penicillium_ _funiculosum_), _T._ _verruculosus_ (= _Penicillium_ _ver-_
+p24 c1 10.2pt | _ruculosum_) and _T._ _fl__avus_ were recorded from air.
+p24 c1 10.2pt | _Talaromyces_ contains several important etiologic agents.
+p24 c1 10.2pt | _Talaromyces_ _marneffei_, the only known dimorphic species in
+p24 c1 10.2pt | _Talaromyces_, has been considered to be exclusively associated
+p24 c1 10.2pt | with acquired immunodeficiency syndrome (AIDS) caused by
+p24 c1 10.2pt | human immunodeficiency virus (HIV) infections (Supparatpinyo
+p24 c1 10.2pt | _et_ _al._ 1994). Nowadays the epidemiology of _T._ _marneffei_ infec-
+p24 c1 10.2pt | tion has changed significantly with the improved treatment of
+p24 c1 10.2pt | HIV, and an increasing number and proportion of cases have
+p24 c1 10.2pt | been reported in non-HIV-infected patients, who had other
+p24 c1 10.2pt | immunocompromising conditions (Tang _et_ _al._ 2010, Lee _et_ _al._
+p24 c1 10.2pt | 2012, Lee _et_ _al._ 2014, Chan _et_ _al._ 2016). In our survey of in-
+p24 c1 10.2pt | door fungi in China we did not detect _T._ _marneffei_.
+p24 c1 10.2pt | Other medically important _Talaromyces_ species including
+p24 c1 10.2pt | _T._ _indigoticus_, _T._ _piceus_, _T._ _indigoticus_, _T._ _helicus_, _T._ _rugulosus_,
+p24 c1 10.2pt | _T._ _purpurogenus_, _T._ _radicus_ and _T._ _verruculosus_ have been re-
+p24 c1 10.2pt | ported in superficial or disseminated, fatal infections (Neuhann
+p24 c1 10.2pt | 1976, Swietliczkowa _et_ _al._ 1984, de Hoog _et_ _al._ 2000, Horr�e
+p24 c1 10.2pt | _et_ _al._ 2001, Santos _et_ _al._ 2006, de Vos _et_ _al._ 2009,
+p24 c1 10.2pt | Weisenborn _et_ _al._ 2010, Tomlinson _et_ _al._ 2011). Among the
+p24 c1 10.2pt | nine new species described here, _T._ _adpressus_, _T._ _beijingensis_,
+
+=== page 25, left column ===
+p25 c0 10.2pt | _T. diversiformis_,_ T. fusiformis_ and_ T. reverso-olivaceus_ grow well
+p25 c0 10.2pt | at 37 °C, thus are more risky for human health.
+p25 c0 10.2pt | In our study, 13 species were identified including_ T. islandicus_,
+p25 c0 10.2pt | _T._ _aurantiacus_, _T._ _siamensis_, _T._ _albobiverticillius_ and nine new
+p25 c0 10.2pt | species. The main focus of our study was to describe the indoor
+p25 c0 10.2pt | _Talaromyces_ diversity in houses in Beijing, China, and further
+p25 c0 10.2pt | research is needed to study the ecology of these species. The
+p25 c0 10.2pt | “old” _Penicillium_ and _Talaromyces_ concepts and morphological
+p25 c0 10.2pt | identification are still used in China nowadays, and it is expected
+p25 c0 10.2pt | that with the broad application of molecular diagnostics, the
+p25 c0 10.2pt | number of indoor _Talaromyces_ species in China will increase.
+p25 c0 12.2pt | **ACKNOWLEDGEMENTS**
+p25 c0 12.2pt | **APPENDIX** **A.** **SUPPLEMENTARY** **MATERIAL**
+p25 c0 10.2pt | Supplementary material related to this article can be found at
+p25 c0 10.2pt | http://dx.doi.org/10.1016/j.simyco.2016.11.003.
+p25 c0 12.2pt | **REFERENCES**
+p25 c0  8.1pt | _pathology_ **5**: 68–69.
+p25 c0  8.1pt | Chan JF, Lau SK, Yuen KY, _et_ _al_. (2016). _Talaromyces_ (_Penicillium_) _marneffei_
+
+=== page 25, right column ===
+p25 c1  8.1pt | _Penicillium_ species in subgenus _Biverticillium_. In: _The_ _fungal_ _holomorph:_
+p25 c1  8.1pt | _mitotic,_ _meiotic_ _and_ _pleomorphic_ _speciation_ _in_ _fungal_ _systematic_
+p25 c1  8.1pt | (Reyolds DR, Taylor JW, eds). C.A.B. International, Surrey: 115–119.
+p25 c1  8.1pt | Luo Y, Lu XH, Wu B, _et_ _al_. (2016). _Talaromyces_ _rubrifaciens_, a new species
+p25 c1  8.1pt | _Monatsblatter_ _fur_ _Augenheilkunde_ **169**: 459–462.
+p25 c1  8.1pt | Ogawa H, Sugiyama J (2000). Evolutionary relationships of the cleistothecial
+p25 c1  8.1pt | _omyces_ and related genera II. _Studies_ _in_ _Mycology_ **2**: 1–65.
+p25 c1  8.1pt | Supparatpinyo KC, Khamwan V, Baosoung KEN, _et_ _al_. (1994). Disseminated
+p25 c1  8.1pt | _Penicillium_ _marneffei_ infection in southeast Asia. _Lancet_ **344**: 110–113.
