@@ -4,7 +4,8 @@ A line starts a species section (a "heading") when all of these hold:
   * it begins with a bold "Genus epithet"
   * its font is larger than the body text, OR a nomenclatural cue follows
     (MycoBank / MB number / sp. nov. / comb. nov. / Fig. n / citation with a year)
-  * the genus is a known genus (accepted list or MycoBank), OR such a cue is present
+  * the genus is a known genus (accepted list or MycoBank), OR a naming cue is present
+    (sp. nov. / MycoBank / MB number / citation with a year - "Fig. n" alone is not enough here)
   * it is not a whole-line bold sub-heading ("Phylogenetic analysis") or a bold label ("Type:")
 A section ends at the next heading or at a major heading (DISCUSSION, REFERENCES, ...).
 If the paper has a TAXONOMY heading, only the part after it is searched.
@@ -25,10 +26,15 @@ END_HEADINGS = re.compile(r"^(DISCUSSION|ACKNOWLEDG|REFERENCES|CONCLUSION|SUPPLE
                           r"Discussion|Acknowledg|References|Conclusion)")
 TAXONOMY_HEADINGS = re.compile(r"(TAXONOMY|Taxonomy|SPECIES DESCRIPTIONS|Species descriptions|TAXONOMIC PART)")
 NON_EPITHETS = {"section", "sect", "subgenus", "subg", "series", "ser", "spp", "sp", "species", "and",
-                "et", "group", "clade", "complex", "gen", "nov", "is", "are", "was", "has", "in", "the"}
+                "et", "group", "clade", "complex", "gen", "nov", "is", "are", "was", "has", "in", "the",
+                "at", "on", "of", "for", "by", "with", "from", "to", "rate", "rates", "test", "tests", "novelties"}
 BINOMIAL = re.compile(r"^([A-Z][a-z]+)\s+([a-z][a-z\-]+)\b")
 CITATION_CUE = re.compile(r"MycoBank|Mycobank|\bMB\s?\d{4,}|\[MB|\b(sp|comb|nom|stat)\.\s*nov\.|\bnom\.\s*inval|"
                           r"\bFigs?\.\s*\d|:\s*\d+[\d\s–-]*\.\s*(1[7-9]|20)\d\d")
+# the same cues without "Fig. n": strong enough on their own when the genus is not known
+# ("Growth at different temperatures ... (Fig. 5)" is a methods heading, not a species)
+NAME_CUE = re.compile(r"MycoBank|Mycobank|\bMB\s?\d{4,}|\[MB|\b(sp|comb|nom|stat)\.\s*nov\.|\bnom\.\s*inval|"
+                      r":\s*\d+[\d\s–-]*\.\s*(1[7-9]|20)\d\d")
 DESCRIPTIVE_FIELDS = {"Description", "Micromorphology", "Macromorphology", "Colony characters", "Colony diam",
                       "Diagnosis", "Distinguishing characters", "Etymology", "Extrolites", "Notes",
                       "Similar species", "Additional materials examined", "Typus", "Molecular markers"}
@@ -37,11 +43,13 @@ DESCRIPTIVE_FIELDS = {"Description", "Micromorphology", "Macromorphology", "Colo
 def heading_name(r, body, is_genus, next_lines=()):
     """Return 'Genus epithet' if line r is a species heading, else None."""
     sp = lead_spans(r)
-    if not sp or not sp[0]["b"]:
+    # a first letter set apart in another font ("A" + "spergillus clavatonanicus", bold) counts as bold
+    first_letter = len(sp) > 1 and len(sp[0]["t"].strip()) == 1 and not sp[0]["b"] and sp[1]["b"]
+    if not sp or not (sp[0]["b"] or first_letter):
         return None
     bold, rest = "", ""
     for k, s in enumerate(r["sp"]):
-        if s["b"] or not s["t"].strip():
+        if s["b"] or not s["t"].strip() or (first_letter and s is sp[0]):
             bold += s["t"]
         else:
             rest = "".join(x["t"] for x in r["sp"][k:])
@@ -54,8 +62,8 @@ def heading_name(r, body, is_genus, next_lines=()):
     context = line_text(r) + " " + " ".join(line_text(x) for x in next_lines)
     cue = bool(CITATION_CUE.search(context))
     larger = sp[0]["s"] >= body + 0.4
-    if not (is_genus(m.group(1)) or cue):
-        return None
+    if not (is_genus(m.group(1)) or NAME_CUE.search(context)):
+        return None                                   # unknown genus needs a real naming cue
     if not (larger or cue):
         return None
     if not rest.strip() and not cue:

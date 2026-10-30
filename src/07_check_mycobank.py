@@ -14,8 +14,7 @@ Small differences that need no curator (year one apart: online vs print date) go
 
 Usage (from the repository folder):
   python src/07_check_mycobank.py                 # checks output/
-  python src/07_check_mycobank.py --out output_vol84
-
+  
 Writes <out>/mycobank_check.tsv (opens in Excel) and prints a summary per paper.
 """
 import argparse

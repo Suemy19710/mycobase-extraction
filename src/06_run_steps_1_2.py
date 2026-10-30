@@ -14,11 +14,14 @@ Output (default folder: output/):
   output/<paper>/clean_text.txt   step 1 result: clean lines, **bold**, _italic_, page/column, font size
   output/<paper>/sections.json    step 2 result: every species section with kind, name status, target,
                                   and its figures
-  output/<paper>/figures/         every figure as an image (fig06_p12.jpg, ...)
+  output/<paper>/figures/         species images: fig20_p30_Neosartorya coreana.jpg (--all-figures: every figure)
   output/<paper>/figures.json     per figure: number, page, file, caption, species attached
   output/figures_summary.tsv      one row per figure, all papers
   output/sections_summary.tsv     one row per species section, all papers
   output/run_stats.json           per paper: status, counts, seconds
+
+  # output 
+  python src/06_run_steps_1_2.py --pdf sim59 --out output_sim59
 """
 import argparse
 import collections
@@ -30,7 +33,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from extraction.figures import extract_figures, link_sections
+from extraction.figures import extract_figures, link_sections, save_species_images
 from extraction.layout import clean_lines, file_fingerprint, has_text_layer, pdf_lines, write_debug_text
 from extraction.names import NameIndex, build_mycobank_index
 from extraction.segment import classify, find_sections
@@ -40,7 +43,7 @@ ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
 
 
-def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150):
+def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all_figures=False):
     t0 = time.time()
     stem = re.sub(r"\.pdf$", "", os.path.basename(pdf), flags=re.I)
     lines = pdf_lines(pdf, find_tables=find_tables)
@@ -58,8 +61,8 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150):
         sections.append(rec)
     figs = []
     if figures:
-        figs = extract_figures(pdf, lines, clean, paper_dir / "figures", names,
-                               {s["species"] for s in sections}, dpi=dpi)
+        figs = extract_figures(pdf, lines, clean, names, {s["species"] for s in sections})
+        save_species_images(pdf, figs, sections, paper_dir / "figures", dpi=dpi, all_figures=all_figures)
         link_sections(sections, figs)
         for f in figs:
             f["source"] = os.path.basename(pdf)
@@ -89,6 +92,8 @@ def main():
     ap.add_argument("--build-mycobank-index", action="store_true", help="(re)build the MycoBank name index")
     ap.add_argument("--tables", action="store_true", help="also remove ruled tables (slower)")
     ap.add_argument("--no-figures", action="store_true", help="do not save figure images")
+    ap.add_argument("--all-figures", action="store_true",
+                    help="save every figure (trees, comparison plates ...), not only the species images")
     ap.add_argument("--fig-dpi", type=int, default=150, help="resolution of saved figures (default 150)")
     a = ap.parse_args()
 
@@ -121,7 +126,8 @@ def main():
             continue
         seen[fp] = os.path.basename(pdf)
         try:
-            sections, figs, st = run_paper(pdf, names, out_dir, a.tables, not a.no_figures, a.fig_dpi)
+            sections, figs, st = run_paper(pdf, names, out_dir, a.tables, not a.no_figures, a.fig_dpi,
+                                              a.all_figures)
         except Exception as e:                      # one broken PDF must not stop a batch
             st, sections, figs = {"paper": os.path.basename(pdf), "status": f"error: {e}"}, [], []
         stats.append(st)
@@ -130,7 +136,7 @@ def main():
             continue
         print(f"{st['paper'][:60]:60s} treatments={st['treatments']:4d} "
               f"(MycoBase {st['treatments_for_mycobase']}, raw only {st['treatments_raw_only']})  "
-              f"name entries={st['name_entries']}  figures={st['figures_saved']} "
+              f"name entries={st['name_entries']}  species images={st['figures_saved']} "
               f"(treatments with a figure {st['treatments_with_figure']})  {st['seconds']}s")
         for f in figs:
             fig_rows.append([f["source"], f["figure"], f["part"], f["page"], f["kind"], f["file"] or "",

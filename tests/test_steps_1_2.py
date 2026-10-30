@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 import tempfile  # noqa: E402
 
-from extraction.figures import extract_figures, figure_numbers, link_sections  # noqa: E402
+from extraction.figures import extract_figures, figure_numbers, link_sections, save_species_images  # noqa: E402
 from extraction.layout import clean_lines, pdf_lines  # noqa: E402
 from extraction.names import NameIndex  # noqa: E402
 from extraction.segment import classify, find_sections  # noqa: E402
@@ -135,8 +135,8 @@ def figs(paper):
     clean, body = clean_lines(lines)
     sections = [classify(s, names()) for s in find_sections(clean, body, names())]
     out = FIG_DIR / path.stem
-    figures = extract_figures(str(path), lines, clean, out / "figures", names(),
-                              {s["species"] for s in sections}, dpi=60)
+    figures = extract_figures(str(path), lines, clean, names(), {s["species"] for s in sections})
+    save_species_images(str(path), figures, sections, out / "figures", dpi=60)
     link_sections(sections, figures)
     return out, figures, sections
 
@@ -169,7 +169,7 @@ def test_tree_titles_are_not_captions():
     _, figures, _ = figs(SAMSON_2007)
     trees = [f for f in figures if f["figure"] in (1, 2, 3, 4)]
     assert sorted(f["figure"] for f in trees) == [1, 2, 3, 4]
-    assert all(f["file"] and f["kind"] == "phylogeny" for f in trees)
+    assert all(f["bbox"] and f["kind"] == "phylogeny" for f in trees)
 
 
 def test_tables_are_not_figures():
@@ -194,3 +194,20 @@ def test_caption_on_next_page_joined_to_tree():
     _, figures, _ = figs(TALAROMYCES_2016)
     f3 = [f for f in figures if f["figure"] == 3]
     assert len(f3) == 1 and f3[0]["page"] == 8 and f3[0]["caption"].startswith("Fig. 3")
+
+
+def test_only_species_images_are_saved():
+    # trees, "(Continued)" tree pages and comparison plates are listed but not saved
+    out, figures, _ = figs(CHEN_2017)
+    saved = [f for f in figures if f["file"]]
+    assert saved and all(f["kind"] == "plate" and f["main_species"] for f in saved)
+    assert not any(f["file"] for f in figures if f["kind"] == "phylogeny")
+    f6 = next(f for f in figures if f["figure"] == 6)            # ascospores of several species
+    assert f6["file"] is None and "several species" in f6["skipped"]
+
+
+def test_image_named_after_species_in_paper():
+    out, figures, _ = figs(SAMSON_2007)
+    f20 = next(f for f in figures if f["figure"] == 20)
+    assert f20["file"] == "figures/fig20_p30_Neosartorya coreana.jpg"
+    assert (out / f20["file"]).exists()

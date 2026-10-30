@@ -98,7 +98,7 @@ def clean_lines(lines):
     keep = []
     for rs in blocks.values():
         first = norm_ws(line_text(rs[0]))
-        if re.match(r"^(Fig\.|Figs\.|Figure|FIG\.|Table|TABLE)\s*\d", first):
+        if re.match(r"^(Figs?\.?|Figure|FIG\.?|Table|TABLE)\s*\d", first):
             continue                                            # caption block
         first_small = line_size(rs[0]) < small
         block_is_label = bool(starts_with_label(rs[0]))
