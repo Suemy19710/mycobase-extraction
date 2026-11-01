@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 import tempfile  # noqa: E402
 
+from extraction.fields import extract_fields  # noqa: E402
 from extraction.figures import extract_figures, figure_numbers, link_sections, save_species_images  # noqa: E402
 from extraction.layout import clean_lines, pdf_lines  # noqa: E402
 from extraction.names import NameIndex  # noqa: E402
@@ -24,6 +25,8 @@ CHEN_2017 = "Vol88Art2_Polyphasic-taxonomy-of-Aspergillus-section-Aspergillus--f
 TALAROMYCES_2016 = "Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
 SAMSON_2007 = "Samson et al 2007 Stud Mycol 59 147-203.pdf"
 VISAGIE_2014 = "sim78Art1.pdf"
+NIDULANTES_2016 = "Vol84Art1_Aspergillus-section-Nidulantes--formerly-Emericella---Polyp_2016_Studies-in-.pdf"
+CHAETOMIUM_2016 = "Vol84Art3_Diversity-and-taxonomy-of-Chaetomium-and-chaetomium-like-f_2016_Studies-in-M.pdf"
 
 
 @lru_cache(maxsize=1)
@@ -39,8 +42,9 @@ def run(paper):
         pytest.skip(f"{paper} not in studies_in_mycology/")
     clean, body = clean_lines(pdf_lines(str(path)))
     text = "\n".join(line_text(r) for r in clean)
-    sections = [dict(classify(s, names()), body_text=join_lines([line_text(r) for r in s["body"]]))
+    sections = [dict(classify(s, names()), body_text=join_lines([line_text(r) for r in s["body"]]), body=s["body"])
                 for s in find_sections(clean, body, names())]
+    extract_fields(sections)                          # step 3
     return text, sections
 
 
@@ -211,3 +215,45 @@ def test_image_named_after_species_in_paper():
     f20 = next(f for f in figures if f["figure"] == 20)
     assert f20["file"] == "figures/fig20_p30_Neosartorya coreana.jpg"
     assert (out / f20["file"]).exists()
+
+
+# ---------------------------------------------------------------- step 3: fields
+def test_fields_of_a_modern_treatment():
+    _, sections = run(TALAROMYCES_2016)
+    f = by_species(sections)["Talaromyces aerius"]["fields"]
+    assert f["Etymology"].startswith("Latin, aerius refers to its origin")
+    assert f["Classification"] == "Talaromyces section Trachyspermi"      # plain "In:" label
+    assert "holotype CBS H-22506" in f["Typus"] and "CBS 140611" in f["Typus"]
+    assert f["Molecular markers"].startswith("KU866647")                  # "ITS barcode:"
+    assert f["Colony diam"].startswith("CYA 17–18")
+    assert f["Extrolites"] == "Mitorubrinic acid."
+    assert "Diagnosis" in f and "Micromorphology" in f and "Distinguishing characters" in f
+
+
+def test_fields_of_an_older_treatment():
+    _, sections = run(SAMSON_2007)
+    s = by_species(sections)["Neosartorya fischeri"]
+    f = s["fields"]
+    assert f["Typus"].startswith("CBS 544.65")                            # label "Type"
+    assert s["field_labels"]["Typus"] == "Type"
+    assert "Other no. of the type" in f and "Extrolites" in f and "Pathogenicity" in f
+
+
+def test_every_label_is_in_the_dictionary():
+    for paper in (TALAROMYCES_2016, SAMSON_2007, CHEN_2017, VISAGIE_2014):
+        _, sections = run(paper)
+        unmapped = {l for s in sections for l in s["unmapped_labels"]}
+        assert not unmapped, f"{paper}: labels not in config/label_dictionary.json: {unmapped}"
+
+
+def test_small_print_synonym_kept():
+    # "≡ Emericella desertorum Samson & Mouch., ..." is 8 pt in its own paragraph under the heading
+    _, sections = run(NIDULANTES_2016)
+    syn = by_species(sections)["Aspergillus desertorum"]["fields"].get("Synonyms", "")
+    assert syn.startswith("Emericella desertorum Samson & Mouch.")
+
+
+def test_genus_treatment_ends_species_section():
+    # "Ovatospora X. Wei Wang, Samson & Crous, gen. nov." must not be added to the species before it
+    _, sections = run(CHAETOMIUM_2016)
+    assert not any("Type species" in l for s in sections for l in s["field_labels"].values())

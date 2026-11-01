@@ -71,6 +71,28 @@ def heading_name(r, body, is_genus, next_lines=()):
     return f"{m.group(1)} {m.group(2)}"
 
 
+def genus_heading(r, is_genus, next_lines=()):
+    """'Ovatospora X. Wei Wang, Samson & Crous, gen. nov. MycoBank MB818850' - a genus treatment.
+    It is not a species, but it ends the species section before it (its Etymology, Type species
+    and description belong to the genus)."""
+    sp = lead_spans(r)
+    if not sp or not sp[0]["b"]:
+        return False
+    word = norm_ws(fix_chars(sp[0]["t"]))
+    if not re.fullmatch(r"[A-Z][a-z]{2,}", word):
+        return False
+    if len(sp) > 1 and sp[1]["b"] and re.match(r"\s*[a-z]", sp[1]["t"]):
+        return False                                  # bold epithet follows: a species heading
+    t = norm_ws(fix_chars(line_text(r)))
+    if ":" in t[len(word):len(word) + 3]:
+        return False                                  # a label ("Notes:")
+    context = t + " " + " ".join(line_text(x) for x in next_lines)
+    if re.search(r"\bgen\.\s*nov\.", context):
+        return True
+    rest = t[len(word):].strip()
+    return bool(is_genus(word) and NAME_CUE.search(context) and re.match(r"(\(|[A-Z][a-z]*\.?\s|[A-Z]\.)", rest))
+
+
 def _belongs_to_heading(r, cur, body):
     """Is line r (before any body text) still part of the heading's name citation?"""
     if cur["body"] or len(cur["head"]) >= 4:
@@ -106,6 +128,10 @@ def find_sections(clean, body, names):
         big_bold = bool(sp) and sp[0]["b"] and sp[0]["s"] >= body + 1.4
         if cur and END_HEADINGS.match(t) and (big_bold or t.isupper()):
             sections.append(cur)
+            cur = None
+            continue
+        if cur and genus_heading(r, names.is_genus, clean[k + 1:k + 3]):
+            sections.append(cur)                      # a genus treatment starts: species section ends
             cur = None
             continue
         name = heading_name(r, body, names.is_genus, clean[k + 1:k + 3])

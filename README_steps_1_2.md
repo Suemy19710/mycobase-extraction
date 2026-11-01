@@ -78,6 +78,15 @@ the species heading that cites the figure ("MycoBank MB817398. Fig. 6."), and tr
 `sections.json` every species gets `figures` (its plates) and `in_trees` (trees that show it).
 Tables are not saved as figures. Use `--no-figures` to skip this, `--fig-dpi` to change the resolution.
 
+**Step 3** (`src/extraction/fields.py`) splits every section at its field labels: a bold/italic label
+with a colon ("Etymology:"), a short bold line ("Description"), or a dictionary label in plain text at
+the start of a paragraph ("In: Talaromyces section ..."). Labels not in the dictionary count only when
+they recur in at least a quarter of the paper's treatments. Labels are mapped to MycoBase columns
+with `config/label_dictionary.json`; unknown ones are kept as `Other: <label>` and listed first in
+`labels_report.tsv`, so the dictionary can be extended without changing code. Small-print synonym
+lines ("≡ Emericella desertorum ...") become `Synonyms`; unlabelled text under the heading becomes
+`Description`. A genus treatment ("Ovatospora ..., gen. nov.") ends the species section before it.
+
 ## Known limits
 
 * Scanned PDFs (no text layer, e.g. volume 45) are reported as `needs OCR` and skipped.

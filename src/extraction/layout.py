@@ -24,6 +24,9 @@ import re
 
 from .text import fix_chars, line_size, line_text, norm_ws, starts_with_label
 
+# a small-print synonym line under a species heading: "≡ Emericella desertorum Samson & Mouch., ..."
+SYNONYM_START = re.compile(r"^(≡|=|\?\s*=)\s*[A-Z][a-z]+\.?\s+[a-z]")
+
 # margins (PDF points) where running headers, footers and page numbers live
 TOP_MARGIN = 60
 BOTTOM_MARGIN = 45
@@ -102,14 +105,22 @@ def clean_lines(lines):
             continue                                            # caption block
         first_small = line_size(rs[0]) < small
         block_is_label = bool(starts_with_label(rs[0]))
+        in_synonym = False                                      # inside a small "≡ Genus epithet ..." entry
         for r in rs:
             t = norm_ws(line_text(r))
             if not t or r.get("tbl") or r.get("rot"):
                 continue
             if line_size(r) < small:
-                synonym_line = not first_small and re.match(r"^[≡=?]|^\? ?=", t)
-                if not (block_is_label or synonym_line):
+                starts_synonym = bool(SYNONYM_START.match(t)) or (
+                    not first_small and re.match(r"^[≡=?]|^\? ?=", t))
+                if starts_synonym:
+                    in_synonym = True
+                elif re.match(r"^[≡=?]", t):
+                    in_synonym = False
+                if not (block_is_label or starts_synonym or in_synonym):
                     continue                                    # table cell, footnote, caption text
+            else:
+                in_synonym = False
             if in_margin(r) and re.sub(r"\d+", "#", t) in running:
                 continue                                        # running header / footer
             if in_margin(r) and re.fullmatch(r"[\d\s–-]+", t):

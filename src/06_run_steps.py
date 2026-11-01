@@ -1,14 +1,14 @@
-"""Run step 1 (layout reconstruction) and step 2 (segmentation) on one or more papers.
+"""Run step 1 (layout reconstruction), step 2 (segmentation) and step 3 (field extraction).
 
 Examples (run from the repository folder):
   # one-time: build the MycoBank name index from data/excel/Mycobank.xlsx (~2-3 min)
-  python src/06_run_steps_1_2.py --build-mycobank-index
+  python src/06_run_steps.py --build-mycobank-index
 
   # one paper
-  python src/06_run_steps_1_2.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
+  python src/06_run_steps.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
 
   # a whole folder
-  python src/06_run_steps_1_2.py --pdf studies_in_mycology
+  python src/06_run_steps.py --pdf studies_in_mycology
 
 Output (default folder: output/):
   output/<paper>/clean_text.txt   step 1 result: clean lines, **bold**, _italic_, page/column, font size
@@ -19,12 +19,15 @@ Output (default folder: output/):
   output/figures_summary.tsv      one row per figure, all papers
   output/sections_summary.tsv     one row per species section, all papers
   output/run_stats.json           per paper: status, counts, seconds
+  output/species_fields.csv       step 3: one row per species treatment, one column per MycoBase field
+  output/labels_report.tsv        step 3: every label found, its MycoBase field, how often (unmapped first)
 
   # output 
-  python src/06_run_steps_1_2.py --pdf sim59 --out output_sim59
+  python src/06_run_steps.py --pdf sim59 --out output_sim59
 """
 import argparse
 import collections
+import csv
 import json
 import os
 import re
@@ -33,6 +36,7 @@ import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from extraction.fields import FIELD_ORDER, extract_fields
 from extraction.figures import extract_figures, link_sections, save_species_images
 from extraction.layout import clean_lines, file_fingerprint, has_text_layer, pdf_lines, write_debug_text
 from extraction.names import NameIndex, build_mycobank_index
@@ -58,7 +62,11 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all
         rec = classify(s, names)
         rec["body_text"] = join_lines([line_text(r) for r in s["body"]])
         rec["source"] = os.path.basename(pdf)
+        rec["body"] = s["body"]                       # step 3 needs the styled lines
         sections.append(rec)
+    label_counts = extract_fields(sections)           # step 3: fields per section
+    for rec in sections:
+        rec.pop("body")
     figs = []
     if figures:
         figs = extract_figures(pdf, lines, clean, names, {s["species"] for s in sections})
@@ -77,6 +85,7 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all
                       "treatments": kinds["treatment"], "name_entries": kinds["name_entry"],
                       "treatments_for_mycobase": targets["mycobase"], "treatments_raw_only": targets["raw_only"],
                       "figures_saved": sum(1 for f in figs if f["file"]),
+                      "labels": dict(label_counts.most_common()),
                       "treatments_with_figure": sum(1 for s in sections if s["kind"] == "treatment" and s.get("figures")),
                       "seconds": round(time.time() - t0, 2)}
 
@@ -118,6 +127,7 @@ def main():
     out_dir = Path(a.out)
     out_dir.mkdir(parents=True, exist_ok=True)
     stats, rows, fig_rows, seen = [], [], [], {}
+    field_rows, label_use = [], collections.defaultdict(lambda: {"field": "", "n": 0, "papers": set()})
     for pdf in pdfs:
         fp = file_fingerprint(pdf)
         if fp in seen:
@@ -145,6 +155,19 @@ def main():
                              "; ".join(sorted({x["accepted_name"] for x in f["species_in_caption"] if x["accepted_name"]})),
                              len(f["species_in_labels"]), f["caption"][:150]])
         for s in sections:
+            for col, lab in s["field_labels"].items():
+                for one in lab.split(" | "):
+                    u = label_use[one]
+                    u["field"] = "" if col.startswith("Other: ") else col
+                    u["n"] += 1
+                    u["papers"].add(st["paper"])
+            if s["kind"] == "treatment":
+                other = {k[7:]: v for k, v in s["fields"].items() if k.startswith("Other: ")}
+                field_rows.append({"source": s["source"], "species_in_paper": s["species"],
+                                   "accepted_name": s["name"]["accepted_name"], "target": s["target"],
+                                   "pages": f"{s['pages'][0]}-{s['pages'][1]}", "Species description": s["nomenclature"],
+                                   **{c: s["fields"].get(c, "") for c in FIELD_ORDER},
+                                   "Other fields": json.dumps(other, ensure_ascii=False) if other else ""})
             rows.append([s["source"], s["species"], s["kind"], s["name"]["status"], s["name"]["accepted_name"],
                          s["target"], f"{s['pages'][0]}-{s['pages'][1]}", s["mycobank_in_paper"],
                          s["name"]["mycobank_number"], len(s["labels_found"]), s["nomenclature"][:150]])
@@ -161,6 +184,16 @@ def main():
                 "accepted_names\tn_species_in_labels\tcaption\n")
         for r in fig_rows:
             f.write("\t".join(str(x).replace("\t", " ") for x in r) + "\n")
+    cols = ["source", "species_in_paper", "accepted_name", "target", "pages", "Species description"] + \
+        FIELD_ORDER + ["Other fields"]
+    with open(out_dir / "species_fields.csv", "w", encoding="utf-8-sig", newline="") as f:   # opens in Excel
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        w.writerows(field_rows)
+    with open(out_dir / "labels_report.tsv", "w", encoding="utf-8") as f:
+        f.write("label_in_paper\tmycobase_field\tsections\tpapers\n")
+        for lab, u in sorted(label_use.items(), key=lambda x: (x[1]["field"] != "", -x[1]["n"])):
+            f.write(f"{lab}\t{u['field'] or '(not in dictionary)'}\t{u['n']}\t{len(u['papers'])}\n")
     print(f"\n{len(rows)} sections from {sum(1 for s in stats if s['status'] == 'ok')} papers -> {out_dir}")
 
 
