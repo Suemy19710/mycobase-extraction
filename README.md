@@ -42,7 +42,7 @@ Each section's name is checked against the accepted list and the MycoBank name l
 | figures | save every figure as an image, attach the species it shows | done |
 | OCR | text for scanned PDFs (e.g. volume 45) | to do |
 | 3. Field extraction | split a section into fields (Etymology, Typus, Colony diam, ...) with `config/label_dictionary.json` | done |
-| 4. Value parsing | MycoBank numbers, GenBank accessions, culture numbers, measurements | to do |
+| 4. Value parsing | MYCOBANK, Literature, YEAR, TYPUS, EX_TYPUS, GenBank IDs, section, colony diameters | done |
 | 5. Validation | compare with MycoBank and the current MycoBase; confidence per record | to do |
 | 6. LLM fallback | only for sections with unknown labels; answer must be found word-for-word in the PDF | to do |
 | 7. Safe merge | curator-approved records into MycoBase, keeping the source paper and page | to do |
@@ -67,10 +67,11 @@ src/
     03_plot_comparison.py      plot that comparison
     04_convert_json_to_csv.py  species_description.json -> CSV
     05_plot_columns.py         plot which columns MycoBase has and how full they are
-    06_run_steps_1_2.py        the extraction tool: steps 1-2 and figures (command line)
+    06_run_steps.py            the extraction tool: steps 1-4 and species images (command line)
     07_check_mycobank.py       check the extracted names against MycoBank (OK / CHECK per species)
     08_plot_results.py         charts of the results
     09_compare_fields.py       compare the step-3 fields with the current MycoBase, field by field
+    10_compare_values.py       compare the step-4 values with the MycoBase backbone columns
     extraction/
         text.py                text and style helpers, label detection
         layout.py              step 1: PDF -> clean lines in reading order
@@ -78,6 +79,7 @@ src/
         names.py               accepted list + MycoBank name index, name resolution
         figures.py             species images (plates), named after the species
         fields.py              step 3: section -> MycoBase fields
+        values.py              step 4: fields -> MycoBase backbone values (TYPUS, EX_TYPUS, GenBank IDs ...)
 tests/
     test_steps_1_2.py          regression tests on real papers
 studies_in_mycology/           the PDF papers (not in git)
@@ -104,17 +106,17 @@ Files that are not in git and must be put in place by hand:
 Then build the MycoBank name index once (about 1 minute; it is cached in `data/cache/`):
 
 ```bash
-python src/06_run_steps_1_2.py --build-mycobank-index
+python src/06_run_steps.py --build-mycobank-index
 ```
 
 ## Usage
 
 ```bash
 # one paper
-python src/06_run_steps_1_2.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
+python src/06_run_steps.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
 
 # a whole folder
-python src/06_run_steps_1_2.py --pdf studies_in_mycology
+python src/06_run_steps.py --pdf studies_in_mycology
 
 # options
 #   --out DIR         output folder (default: output/)
@@ -132,6 +134,16 @@ python src/09_compare_fields.py --out output_vol84
 For every extracted species that is a MycoBase record, each description field is marked `same`,
 `close`, `partial`, `different` (often: MycoBase took the text from another publication), `new`
 (MycoBase is empty - step 3 fills a gap) or `missed`. Result: `<out>/fields_vs_mycobase.tsv`.
+
+### Compare the values with the MycoBase backbone
+
+```bash
+python src/10_compare_values.py --out output_vol84
+```
+
+MYCOBANK, YEAR, Literature, TYPUS, EX_TYPUS, the four GenBank IDs and section are compared with the
+accepted MycoBase record: `same`, `agree` (same content written differently, e.g. extra culture
+numbers), `different` (to check), `new`, `missed`. Result: `<out>/values_vs_mycobase.tsv`.
 
 ### Check the names against MycoBank
 
@@ -154,6 +166,7 @@ the reasons; the result is `<out>/mycobank_check.tsv`.
 | `output/<paper>/figures/` | every figure as an image: `fig06_p12.jpg` = Fig. 6 on page 12 |
 | `output/<paper>/figures.json` | per figure: number, page, kind (plate / phylogeny / drawing), caption, main species, species in the caption and in tree labels |
 | `output/species_fields.csv` | step 3: one row per species treatment, one column per MycoBase field (opens in Excel) |
+| `output/species_values.csv` | step 4: MYCOBANK, Literature, YEAR, TYPUS, EX_TYPUS, GenBank IDs, section, colony diameters per species |
 | `output/labels_report.tsv` | step 3: every label found in the papers, its MycoBase field, how often; labels not in the dictionary first |
 | `output/sections_summary.tsv` | all sections of all papers in one table (opens in Excel) |
 | `output/figures_summary.tsv` | all figures of all papers in one table |

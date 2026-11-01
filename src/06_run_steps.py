@@ -1,4 +1,4 @@
-"""Run step 1 (layout reconstruction), step 2 (segmentation) and step 3 (field extraction).
+"""Run steps 1-4: layout reconstruction, segmentation, field extraction and value parsing.
 
 Examples (run from the repository folder):
   # one-time: build the MycoBank name index from data/excel/Mycobank.xlsx (~2-3 min)
@@ -21,6 +21,7 @@ Output (default folder: output/):
   output/run_stats.json           per paper: status, counts, seconds
   output/species_fields.csv       step 3: one row per species treatment, one column per MycoBase field
   output/labels_report.tsv        step 3: every label found, its MycoBase field, how often (unmapped first)
+  output/species_values.csv       step 4: MYCOBANK, Literature, YEAR, TYPUS, EX_TYPUS, GenBank IDs, section per species
 
   # output 
   python src/06_run_steps.py --pdf sim59 --out output_sim59
@@ -42,6 +43,7 @@ from extraction.layout import clean_lines, file_fingerprint, has_text_layer, pdf
 from extraction.names import NameIndex, build_mycobank_index
 from extraction.segment import classify, find_sections
 from extraction.text import join_lines, line_text
+from extraction.values import VALUE_COLUMNS, paper_citation, parse_values
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "data"
@@ -65,8 +67,10 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all
         rec["body"] = s["body"]                       # step 3 needs the styled lines
         sections.append(rec)
     label_counts = extract_fields(sections)           # step 3: fields per section
+    cit = paper_citation(lines)                       # journal, volume, year, printed page numbers
     for rec in sections:
         rec.pop("body")
+        rec["values"] = parse_values(rec, cit)        # step 4: MycoBase backbone values
     figs = []
     if figures:
         figs = extract_figures(pdf, lines, clean, names, {s["species"] for s in sections})
@@ -86,6 +90,7 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all
                       "treatments_for_mycobase": targets["mycobase"], "treatments_raw_only": targets["raw_only"],
                       "figures_saved": sum(1 for f in figs if f["file"]),
                       "labels": dict(label_counts.most_common()),
+                      "citation": cit,
                       "treatments_with_figure": sum(1 for s in sections if s["kind"] == "treatment" and s.get("figures")),
                       "seconds": round(time.time() - t0, 2)}
 
@@ -127,6 +132,7 @@ def main():
     out_dir = Path(a.out)
     out_dir.mkdir(parents=True, exist_ok=True)
     stats, rows, fig_rows, seen = [], [], [], {}
+    value_rows = []
     field_rows, label_use = [], collections.defaultdict(lambda: {"field": "", "n": 0, "papers": set()})
     for pdf in pdfs:
         fp = file_fingerprint(pdf)
@@ -162,6 +168,12 @@ def main():
                     u["n"] += 1
                     u["papers"].add(st["paper"])
             if s["kind"] == "treatment":
+                value_rows.append({"source": s["source"], "species_in_paper": s["species"],
+                                   "accepted_name": s["name"]["accepted_name"], "target": s["target"],
+                                   "pages": f"{s['pages'][0]}-{s['pages'][1]}",
+                                   **{c: s["values"].get(c, "") for c in VALUE_COLUMNS},
+                                   "colony_diam": json.dumps(s["values"]["colony_diam"], ensure_ascii=False)
+                                   if s["values"]["colony_diam"] else ""})
                 other = {k[7:]: v for k, v in s["fields"].items() if k.startswith("Other: ")}
                 field_rows.append({"source": s["source"], "species_in_paper": s["species"],
                                    "accepted_name": s["name"]["accepted_name"], "target": s["target"],
@@ -190,6 +202,11 @@ def main():
         w = csv.DictWriter(f, fieldnames=cols)
         w.writeheader()
         w.writerows(field_rows)
+    vcols = ["source", "species_in_paper", "accepted_name", "target", "pages"] + VALUE_COLUMNS + ["colony_diam"]
+    with open(out_dir / "species_values.csv", "w", encoding="utf-8-sig", newline="") as f:   # opens in Excel
+        w = csv.DictWriter(f, fieldnames=vcols)
+        w.writeheader()
+        w.writerows(value_rows)
     with open(out_dir / "labels_report.tsv", "w", encoding="utf-8") as f:
         f.write("label_in_paper\tmycobase_field\tsections\tpapers\n")
         for lab, u in sorted(label_use.items(), key=lambda x: (x[1]["field"] != "", -x[1]["n"])):

@@ -23,7 +23,7 @@ src/extraction/
     layout.py                  step 1: PDF -> clean lines in reading order
     names.py                   accepted list + MycoBank name index, name resolution
     segment.py                 step 2: species sections, kind, name status, target
-src/06_run_steps_1_2.py        command line for steps 1-2
+src/06_run_steps.py        command line for steps 1-2
 tests/test_steps_1_2.py        regression tests on real papers
 ```
 
@@ -36,11 +36,11 @@ Not in git (see `.gitignore`): `studies_in_mycology/` (PDFs), `data/excel/Mycoba
 pip install -r requirements.txt
 
 # one time (about 2-3 minutes): build the MycoBank name index from data/excel/Mycobank.xlsx
-python src/06_run_steps_1_2.py --build-mycobank-index
+python src/06_run_steps.py --build-mycobank-index
 
 # one paper, or a whole folder
-python src/06_run_steps_1_2.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
-python src/06_run_steps_1_2.py --pdf studies_in_mycology
+python src/06_run_steps.py --pdf "studies_in_mycology/Vol84Art2_New-Talaromyces-species-from-indoor-environments-in-C_2016_Studies-in-Mycolo.pdf"
+python src/06_run_steps.py --pdf studies_in_mycology
 
 # tests
 python -m pytest -q tests

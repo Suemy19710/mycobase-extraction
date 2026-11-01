@@ -91,7 +91,7 @@ def verdict(ratio, contained):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--out", action="append", help="result folder of 06_run_steps_1_2.py (repeatable)")
+    ap.add_argument("--out", action="append", help="result folder of 06_run_steps.py (repeatable)")
     ap.add_argument("--species", default=str(ROOT / "data" / "species_description.json"))
     a = ap.parse_args()
     outs = a.out or [str(ROOT / "output")]
@@ -146,7 +146,7 @@ def main():
                                  "extracted": norm_ws(e)[:400], "mycobase": norm_ws(m)[:400]})
 
     if not rows:
-        sys.exit("no extracted species found in MycoBase - run 06_run_steps_1_2.py first (step 3 needs it)")
+        sys.exit("no extracted species found in MycoBase - run 06_run_steps.py first (step 3 needs it)")
     out_file = os.path.join(outs[0], "fields_vs_mycobase.tsv")
     with open(out_file, "w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0]), delimiter="\t")

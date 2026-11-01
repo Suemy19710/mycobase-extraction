@@ -1,6 +1,6 @@
 """Illustrate the results of the extraction tool (steps 1-2, figures, MycoBank check) with matplotlib.
 
-Reads the folders written by 06_run_steps_1_2.py (and 07_check_mycobank.py) and draws:
+Reads the folders written by 06_run_steps.py (and 07_check_mycobank.py) and draws:
 
   treatments_per_paper.png   species sections per paper: to MycoBase / raw only / name-list entries
   name_status.png            how the names were resolved: accepted, synonym, not accepted, unknown
@@ -161,7 +161,7 @@ def chart_figures(ax, papers):
         with_fig = sum(1 for s in tr if s.get("figures"))
         labels.append(f"{short(p, 28)}\n{with_fig}/{len(tr)} treatments with own figure")
     if not series:
-        ax.text(0.5, 0.5, "no figures.json found\n(run 06_run_steps_1_2.py without --no-figures)",
+        ax.text(0.5, 0.5, "no figures.json found\n(run 06_run_steps.py without --no-figures)",
                 ha="center", va="center", color=TEXT_2, transform=ax.transAxes)
         ax.set_axis_off()
         return
@@ -320,7 +320,7 @@ def write_png(fig, path, dpi=160):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--out", action="append", help="result folder of 06_run_steps_1_2.py (repeatable; default output/)")
+    ap.add_argument("--out", action="append", help="result folder of 06_run_steps.py (repeatable; default output/)")
     ap.add_argument("--save", help="folder for the charts (default: <first --out>/plots)")
     ap.add_argument("--page", nargs=2, metavar=("PDF", "PAGE"), help="also draw one annotated page of a paper")
     ap.add_argument("--species", default=str(DATA / "species_description.json"))
@@ -364,7 +364,7 @@ def main():
         fig.tight_layout(h_pad=3, w_pad=4)
         write_png(fig, save / "overview.png")
     else:
-        print("no sections.json found in", ", ".join(outs), "- run 06_run_steps_1_2.py first")
+        print("no sections.json found in", ", ".join(outs), "- run 06_run_steps.py first")
 
     if a.page:
         annotated_page(a.page[0], int(a.page[1]), save, a.species, a.mycobank_cache)

@@ -1,7 +1,7 @@
 """Check the species names found by steps 1-2 against MycoBank.
 
 For every species section in <out>/*/sections.json this compares what the paper says with the
-MycoBank export (data/cache/mycobank_index.tsv.gz, built with 06_run_steps_1_2.py --build-mycobank-index):
+MycoBank export (data/cache/mycobank_index.tsv.gz, built with 06_run_steps.py --build-mycobank-index):
 
   name        is the name in MycoBank?  If not: close names in the same genus (spelling / misread)
   number      does the MycoBank number printed in the paper belong to this name?
@@ -176,7 +176,7 @@ COLUMNS = ["paper", "species_in_paper", "kind", "pages", "mycobank_in_paper", "v
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--out", default=str(ROOT / "output"), help="folder written by 06_run_steps_1_2.py")
+    ap.add_argument("--out", default=str(ROOT / "output"), help="folder written by 06_run_steps.py")
     ap.add_argument("--species", default=str(DATA / "species_description.json"))
     ap.add_argument("--mycobank-cache", default=str(DATA / "cache" / "mycobank_index.tsv.gz"))
     ap.add_argument("--treatments-only", action="store_true", help="skip name-list entries")
@@ -184,12 +184,12 @@ def main():
 
     names = NameIndex(a.species, a.mycobank_cache)
     if not names.has_mycobank:
-        sys.exit("MycoBank index not found: run  python src/06_run_steps_1_2.py --build-mycobank-index")
+        sys.exit("MycoBank index not found: run  python src/06_run_steps.py --build-mycobank-index")
     checker = Checker(names)
 
     files = sorted(glob.glob(os.path.join(a.out, "*", "sections.json")))
     if not files:
-        sys.exit(f"no sections.json under {a.out}: run 06_run_steps_1_2.py first")
+        sys.exit(f"no sections.json under {a.out}: run 06_run_steps.py first")
     rows = []
     for f in files:
         paper = os.path.basename(os.path.dirname(f))
