@@ -43,7 +43,7 @@ Each section's name is checked against the accepted list and the MycoBank name l
 | OCR | text for scanned PDFs (e.g. volume 45) | to do |
 | 3. Field extraction | split a section into fields (Etymology, Typus, Colony diam, ...) with `config/label_dictionary.json` | done |
 | 4. Value parsing | MYCOBANK, Literature, YEAR, TYPUS, EX_TYPUS, GenBank IDs, section, colony diameters | done |
-| 5. Validation | compare with MycoBank and the current MycoBase; confidence per record | to do |
+| 5. Validation | confidence (high / medium / low) for every proposed MycoBase addition; review queue | done |
 | 6. LLM fallback | only for sections with unknown labels; answer must be found word-for-word in the PDF | to do |
 | 7. Safe merge | curator-approved records into MycoBase, keeping the source paper and page | to do |
 
@@ -73,6 +73,7 @@ src/
     09_compare_fields.py       compare the step-3 fields with the current MycoBase, field by field
     10_compare_values.py       compare the step-4 values with the MycoBase backbone columns
     11_fill_gaps.py            propose what MycoBase is missing - never replaces MycoBase data
+    12_validate.py             step 5: confidence (high / medium / low) for every proposed addition
     extraction/
         text.py                text and style helpers, label detection
         layout.py              step 1: PDF -> clean lines in reading order
@@ -154,6 +155,23 @@ python src/11_fill_gaps.py --out output_sim59 --write-copy     # also a filled c
 
 Results: `mycobase_additions.csv` (one row per addition, with paper and pages for checking),
 `mycobase_additions.json`, and with `--write-copy` `species_description_filled.json`.
+
+### Validate the additions (step 5)
+
+```bash
+python src/12_validate.py --out output_sim59 --out output_vol84 --additions output_additions
+```
+
+Every species and every proposed addition gets a confidence:
+
+* **identity** - is the paper section really this MycoBase species? Confirmed by the same MycoBank
+  number, a shared ex-type culture or a shared GenBank ID; a difference is an identity conflict
+* **quality** - unreadable characters, a field that ran into the next one (another label or species
+  heading inside it), badly formatted values, an image caption naming another species, papers that disagree
+
+`high` = identity confirmed and no problem; `medium` = nothing wrong but not confirmed; `low` = a
+conflict or a problem. `review_queue.csv` lists only the medium and low rows - the curator's to-do list.
+Also written: `validation_species.csv`, `additions_validated.csv`, `images_validated.csv`.
 
 ### Compare the values with the MycoBase backbone
 
