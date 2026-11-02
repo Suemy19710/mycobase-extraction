@@ -402,7 +402,11 @@ def link_sections(sections, figures):
         for f in figures:
             about = f["main_species"] == s["species"] or (
                 f["kind"] != "phylogeny" and any(x["name"] == s["species"] for x in f["species_in_caption"]))
-            is_plate = (f["figure"] in cited and f["kind"] != "phylogeny" and not f["uncaptioned"]) or about
+            # a heading's "Fig. 4" is not trusted when the caption of Fig. 4 names another species
+            # (sim59 Art10: the headings of A. campestris and A. candidus cite each other's plate)
+            other = f["main_species"] and not _close(f["main_species"], s["species"])
+            is_plate = (f["figure"] in cited and f["kind"] != "phylogeny" and not f["uncaptioned"]
+                        and not other) or about
             if is_plate and f["file"]:
                 plates.append({"figure": f["figure"], "page": f["page"], "file": f["file"],
                                "how": "heading cites figure" if f["figure"] in cited else "named in caption"})

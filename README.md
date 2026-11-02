@@ -72,6 +72,7 @@ src/
     08_plot_results.py         charts of the results
     09_compare_fields.py       compare the step-3 fields with the current MycoBase, field by field
     10_compare_values.py       compare the step-4 values with the MycoBase backbone columns
+    11_fill_gaps.py            propose what MycoBase is missing - never replaces MycoBase data
     extraction/
         text.py                text and style helpers, label detection
         layout.py              step 1: PDF -> clean lines in reading order
@@ -134,6 +135,25 @@ python src/09_compare_fields.py --out output_vol84
 For every extracted species that is a MycoBase record, each description field is marked `same`,
 `close`, `partial`, `different` (often: MycoBase took the text from another publication), `new`
 (MycoBase is empty - step 3 fills a gap) or `missed`. Result: `<out>/fields_vs_mycobase.tsv`.
+
+### Fill the gaps in MycoBase (never replace)
+
+MycoBase is the trusted reference. `11_fill_gaps.py` only proposes data that MycoBase does not have:
+
+```bash
+python src/11_fill_gaps.py --out output_sim59 --out output_vol84
+python src/11_fill_gaps.py --out output_sim59 --write-copy     # also a filled copy as a NEW file
+```
+
+* only accepted MycoBase records are filled; a species under an old name fills its accepted record
+  (descriptions, culture numbers, GenBank IDs only - not the old name's MycoBank number or citation)
+* a column is filled only when MycoBase has no value for it under any of its column names
+* MycoBase's own column names and formats are used
+* if two papers give different text for the same empty column, both are listed as `conflict`
+* `data/species_description.json` is only read (its checksum is checked before and after)
+
+Results: `mycobase_additions.csv` (one row per addition, with paper and pages for checking),
+`mycobase_additions.json`, and with `--write-copy` `species_description_filled.json`.
 
 ### Compare the values with the MycoBase backbone
 
