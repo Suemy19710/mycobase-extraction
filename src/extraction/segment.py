@@ -27,7 +27,8 @@ END_HEADINGS = re.compile(r"^(DISCUSSION|ACKNOWLEDG|REFERENCES|CONCLUSION|SUPPLE
 TAXONOMY_HEADINGS = re.compile(r"(TAXONOMY|Taxonomy|SPECIES DESCRIPTIONS|Species descriptions|TAXONOMIC PART)")
 NON_EPITHETS = {"section", "sect", "subgenus", "subg", "series", "ser", "spp", "sp", "species", "and",
                 "et", "group", "clade", "complex", "gen", "nov", "is", "are", "was", "has", "in", "the",
-                "at", "on", "of", "for", "by", "with", "from", "to", "rate", "rates", "test", "tests", "novelties"}
+                "at", "on", "of", "for", "by", "with", "from", "to", "rate", "rates", "test", "tests", "novelties",
+                "new", "combination", "combinations", "names", "taxa", "records", "species"}
 BINOMIAL = re.compile(r"^([A-Z][a-z]+)\s+([a-z][a-z\-]+)\b")
 CITATION_CUE = re.compile(r"MycoBank|Mycobank|\bMB\s?\d{4,}|\[MB|\b(sp|comb|nom|stat)\.\s*nov\.|\bnom\.\s*inval|"
                           r"\bFigs?\.\s*\d|:\s*\d+[\d\s–-]*\.\s*(1[7-9]|20)\d\d")
@@ -57,8 +58,8 @@ def heading_name(r, body, is_genus, next_lines=()):
     m = BINOMIAL.match(norm_ws(fix_chars(bold)))       # "aurantiacoﬂavus" -> "aurantiacoflavus"
     if not m or m.group(2) in NON_EPITHETS:
         return None
-    if ":" in rest[:3]:
-        return None                                   # bold label like "Aspergillus sp.: ..."
+    if ":" in rest[:3] or norm_ws(fix_chars(bold))[m.end():].lstrip().startswith(":"):
+        return None                                   # a label: "Aspergillus sp.: ...", "New combinations: 1) ..."
     context = line_text(r) + " " + " ".join(line_text(x) for x in next_lines)
     cue = bool(CITATION_CUE.search(context))
     larger = sp[0]["s"] >= body + 0.4

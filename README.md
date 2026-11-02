@@ -195,6 +195,23 @@ not), that the MycoBank number printed in the paper belongs to that name, that M
 year match the heading, and what MycoBank's current name is. Each section gets `OK` or `CHECK` with
 the reasons; the result is `<out>/mycobank_check.tsv`.
 
+## Workflow app (Streamlit)
+
+```bash
+pip install -r requirements.txt
+streamlit run app/review_app.py
+```
+
+A browser page with four tabs:
+
+1. **Upload & run** - upload PDF papers; steps 1-4, gap filling and validation run with progress
+2. **Species found** - per paper: species, name status, fields, values and species images
+3. **Review additions** - every proposed MycoBase addition, worst confidence first, with its reasons and
+   the PDF page it comes from; approve, reject, or correct and approve
+4. **Export** - only the approved additions, as `approved_additions.json` / `.csv` (+ images list) for the merge
+
+Each upload is a separate run in `app_runs/<name>/` (not in git). MycoBase and `data/images` are only read.
+
 ## Output
 
 | file | contents |

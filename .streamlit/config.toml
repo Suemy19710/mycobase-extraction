@@ -1,0 +1,5 @@
+# Streamlit settings for app/review_app.py (run "streamlit run app/review_app.py" from the repo folder)
+[server]
+# Studies in Mycology volumes can be several hundred MB; the default upload limit is 200 MB per file
+maxUploadSize = 2000
+maxMessageSize = 2000

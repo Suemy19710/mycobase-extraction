@@ -97,7 +97,9 @@ def run_paper(pdf, names, out_dir, find_tables=False, figures=True, dpi=150, all
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--pdf", action="append", help="PDF file or folder (repeatable)")
+    ap.add_argument("--pdf", action="append", default=[], help="PDF file or folder (repeatable)")
+    ap.add_argument("--pdf-list", help="text file with one PDF path per line (for many PDFs: avoids the "
+                                        "Windows command-line length limit)")
     ap.add_argument("--out", default=str(ROOT / "output"))
     ap.add_argument("--species", default=str(DATA / "species_description.json"),
                     help="MycoBase file; its 'is accepted: Yes' records = accepted list (Visagie et al. 2025)")
@@ -110,6 +112,9 @@ def main():
                     help="save every figure (trees, comparison plates ...), not only the species images")
     ap.add_argument("--fig-dpi", type=int, default=150, help="resolution of saved figures (default 150)")
     a = ap.parse_args()
+    if a.pdf_list:
+        with open(a.pdf_list, encoding="utf-8") as f:
+            a.pdf += [ln.strip() for ln in f if ln.strip()]
 
     if a.build_mycobank_index:
         build_mycobank_index(a.mycobank_xlsx, a.mycobank_cache)

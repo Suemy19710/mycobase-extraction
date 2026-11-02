@@ -235,13 +235,14 @@ def main():
         with open(add_dir / name, "w", encoding="utf-8-sig", newline="") as fh:
             w = csv.DictWriter(fh, fieldnames=fields or list(rows[0]))
             w.writeheader()
-            w.writerows(rows)
+            w.writerows([r for r in rows if r])
 
     sp_rows = [{"mycobase_record": k[0], "paper": k[1], "species_in_paper": k[2], "confidence": v["confidence"],
                 "identity_confirmed": "; ".join(v["confirmed"]), "identity_conflicts": "; ".join(v["conflicts"]),
                 "problems": "; ".join(v["problems"]), "notes": "; ".join(v["notes"])}
                for k, v in sorted(per_record.items(), key=lambda x: (RANK[x[1]["confidence"]], x[0]))]
-    write("validation_species.csv", sp_rows)
+    write("validation_species.csv", sp_rows or [{}], ["mycobase_record", "paper", "species_in_paper", "confidence",
+                                                    "identity_confirmed", "identity_conflicts", "problems", "notes"])
     if out_rows:
         write("additions_validated.csv", out_rows)
     if img_rows:
