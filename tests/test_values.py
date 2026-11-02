@@ -113,3 +113,22 @@ def test_isotype_is_not_the_type():
 
 def test_media_are_not_cultures():
     assert strains("CBS 121604 = CYA 25 = MEA 25 = YES 36") == ["CBS 121604"]
+
+
+def test_type_culture_from_any_collection_with_comma_list():
+    v = values("Aspergillus lentulus", "x", {"Typus": "FH5, from clinical specimens, U.S.A.",
+               "Other no. of the type": "KACC 41940, NRRL 35552; IBT 27201"}, cit=STUD_MYCOL_59)
+    assert v["EX_TYPUS"] == "FH 5 = KACC 41940 = NRRL 35552 = IBT 27201"
+
+
+def test_collection_names_with_letters():
+    assert strains("LSHB Ac27; RV 34434; Thom No. 4658.245; Warcup SA57") == \
+        ["LSHB Ac27", "RV 34434", "Thom 4658.245", "Warcup SA57"]
+
+
+def test_holotype_dried_culture_with_other_numbers():
+    v = values("Neosartorya australensis", "x", {"Typus": "Holotype of Neosartorya australensis, here designated as "
+               "CBS 112.55T (dried culture)", "Other no. of the type": "IMI 061450; NRRL 2392; IBT 3021"},
+               cit=STUD_MYCOL_59)
+    assert v["TYPUS"] == "CBS 112.55 (holotype)"
+    assert v["EX_TYPUS"] == "CBS 112.55 = IMI 061450 = NRRL 2392 = IBT 3021"

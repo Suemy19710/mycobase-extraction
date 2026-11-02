@@ -72,6 +72,10 @@ STRAIN = re.compile(r"\b([A-Z][A-Za-z]{1,7})\s?((?:[A-Z]{1,2}-?\s?)?\d[\d.\-/]*[
 MEDIA_NAMES = r"CYA|MEA|YES|OA|CREA|DG18|CY20S|M40Y|M60Y|CYAS|MEA10S|CZ|CZA|G25N|PDA"
 
 
+# "LSHB Ac27", "Thom No. 4658.245", "Warcup SA57": a collection name + a number with letters
+LETTERED = re.compile(r"([A-Z][A-Za-z]{1,7})\s+(?:No\.\s*([\d][\d.]*)|([A-Z][a-z]?\s?\d[\d.\-/]*[A-Za-z]{0,3}))\b")
+
+
 def clean_strain(s):
     """'CGMCC3. 18197' -> 'CGMCC 3.18197';  'CBS140611' -> 'CBS 140611';  'IMI 061455ii.' -> 'IMI 061455ii'"""
     s = norm_ws(s).rstrip(".,;)")
@@ -86,11 +90,18 @@ def strains(text):
     """Culture numbers in '... CBS 140611 = CGMCC3. 18197 = DTO 317-C7' (split at '=' or ';')."""
     out = []
     text = re.sub(r"(\d)\.\s+(\d)", r"\1.\2", text)              # "CGMCC3. 18197" broken at a line end
-    for part in re.split(r"\s*[=;]\s*", text):
+    for part in re.split(r"\s*(?:[=;,&]|\band\b)\s*", text):
         part = part.strip(" .,()")
-        m = STRAIN.search(part)
-        if m and not re.fullmatch(ACCESSION, m.group(1) + m.group(2)):
-            s = clean_strain(m.group(0))
+        m = LETTERED.match(part)
+        if m:
+            s = f"{m.group(1)} {m.group(2) or m.group(3)}"          # "Thom No. 4658.245" -> "Thom 4658.245"
+        else:
+            m = STRAIN.search(part)
+            if not m or re.fullmatch(r"[A-Z]\d{5}|[A-Z]{2}_?\d{6,8}", m.group(1) + m.group(2)):
+                continue                                          # nothing, or a GenBank number
+            s = m.group(0)
+        if True:
+            s = clean_strain(s)
             if s not in out and not re.match(r"(Fig|Figs|ITS|BenA|CaM|RPB2|Table|" + MEDIA_NAMES + r")\b", s):
                 out.append(s)
     return out
@@ -132,7 +143,7 @@ def parse_type(fields):
     typus = fields.get("Typus", "")
     ex_field = fields.get("Ex-type", "")
     other = fields.get("Other no. of the type", "")
-    kind, specimen, ex = "", "", []
+    kind, specimen, ex, more_types = "", "", [], []
 
     # "(holotype CBS H-22506, culture ex-type CBS 140611 = ...)"  /  "IMI 86806. Culture ex-type: CBS 589.65 = ..."
     m = re.search(r"\b(" + "|".join(TYPE_KINDS) + r")\b\s*(?:of [^,;:]{0,40})?,?\s*(?:designated[^,;:]{0,40})?[:\s]*"
@@ -150,13 +161,18 @@ def parse_type(fields):
         before = re.split(r"(?:culture\s+)?ex-?\s?(?:epi|neo|holo|iso)?type", typus, flags=re.I)[0]
         ss = strains(before.split(",")[0]) if before.strip() else []
         if ss:
-            specimen = ss[0]                                        # "IMI 86806. Culture ex-type: ..."
+            specimen, more_types = ss[0], ss[1:]                    # "IMI 86806. Culture ex-type: ..."
+            # "CBS 598.74 & CBS 599.74" (two type strains of a heterothallic species): both stay
     if ex_field:
         ex = ex or strains(ex_field)
-    if not ex and specimen and not mx and not kind:
+    if not ex and specimen and not mx and not re.search(r"\bH-", specimen):
         # older papers: "Type: CBS 544.65, from canned apples" + "Other no. of the type: ATCC 1020; DSM 3700"
-        if re.match(r"(CBS|NRRL|IBT|DTO|ATCC|IMI|CCF)\b", specimen) and not re.search(r"\bH-", specimen):
-            ex = [specimen] + [s for s in strains(other) if s != specimen]
+        # The type is a culture (any collection: CBS, KACC, PF, IFM, NHL, CBM ...); the "other numbers of the
+        # type" are the same strain in other collections. A holotype that is only a dried culture and has no
+        # other numbers stays out of EX_TYPUS.
+        others = [s for s in strains(other) if s != specimen]
+        if not kind or others:
+            ex = [specimen] + more_types + [s for s in others if s not in more_types]
     typus_value = f"{specimen} ({kind})" if specimen and kind else specimen
     return typus_value, kind, " = ".join(ex)
 

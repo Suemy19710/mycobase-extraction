@@ -40,7 +40,8 @@ FIELD_ORDER = ["Synonyms", "Basionym", "Typus", "Ex-type", "Other no. of the typ
                "Teleomorph", "Notes", "References"]
 
 SYNONYM_LINE = re.compile(r"^\s*(≡|=|\?\s*=)\s*[A-Z][a-z]+\.?\s+[a-z]")     # not "= NRRL 4993 = ATCC ..."
-TYPE_IN_TEXT = re.compile(r"((?:Holotype|Neotype|Lectotype|Epitype|Typus)\b[^.]{0,80}?here designated[^.]*\.)")
+TYPE_IN_TEXT = re.compile(r"((?:Holotype|Neotype|Lectotype|Epitype|Typus)\b[^.]{0,80}?here designated"
+                          r"(?:[^.]|\.(?=\d))*\.)")      # "... designated as CBS 112.55T (dried culture) ..."
 
 
 def _plain_known_label(r, prev):
