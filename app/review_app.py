@@ -9,6 +9,8 @@ Run from the repository folder:
   3  Review           proposed MycoBase additions with confidence, reasons and the PDF page they come
                       from; approve, reject or correct each one
   4  Export           the approved additions as JSON / CSV for the merge (step 7)
+  5  Species data     species_description_data = MycoBase + the new data for ACCEPTED species (only empty
+                      columns are filled); everything outside MycoBase goes to raw_species.json
 
 Every upload is a separate run in app_runs/<run name>/ (pdfs/, output/, additions/, decisions.csv).
 MycoBase (data/species_description.json) and data/images are only read, never written.
@@ -209,8 +211,8 @@ with st.sidebar.expander("How it works"):
     st.markdown("MycoBase is the trusted reference: the tool only **proposes what MycoBase does not have**, "
                 "and a curator approves it. `data/species_description.json` is never written.")
 
-tab_run, tab_species, tab_review, tab_export = st.tabs(
-    ["1 · Upload & run", "2 · Species found", "3 · Review additions", "4 · Export"])
+tab_run, tab_species, tab_review, tab_export, tab_data = st.tabs(
+    ["1 · Upload & run", "2 · Species found", "3 · Review additions", "4 · Export", "5 · Species description data"])
 
 # ------------------------------------------------------------------ 1 upload & run
 with tab_run:
@@ -446,3 +448,239 @@ with tab_export:
         st.dataframe(pd.DataFrame(ok), width="stretch", hide_index=True)
     else:
         st.info("No approved additions yet - approve them in tab 3.")
+
+# ------------------------------------------------------------------ 5 species description data
+SPECIES_JSON = ROOT / "data" / "species_description.json"
+MB_IMAGES = ROOT / "data" / "images"
+MODES = ["Approved + high / medium confidence", "Approved only", "Everything not rejected"]
+
+
+def is_empty(v):
+    return v is None or str(v).strip() in ("", "{}", "[]", "None")
+
+
+def mycobase_image(rec):
+    for ext in (".jpg", ".jpeg", ".png", ".webp"):
+        p = MB_IMAGES / f"{rec} Mycochat{ext}"
+        if p.exists():
+            return p
+    return None
+
+
+def new_data(dirs, db, mode):
+    """The additions that go into species_description_data: only ACCEPTED records, only EMPTY columns.
+
+    Returns ({record: {column: row}}, {record: [image row]}, [(record, column) left out because papers disagree])."""
+    adds = read_csv(dirs["add"] / "additions_validated.csv")
+    if adds is None:
+        adds = read_csv(dirs["add"] / "mycobase_additions.csv")
+    imgs = read_csv(dirs["add"] / "images_validated.csv")
+    if imgs is None:
+        imgs = read_csv(dirs["add"] / "mycobase_images.csv")
+    decisions = load_decisions(dirs["decisions"])
+
+    def take(r):
+        d = decisions.get(row_key(r), {}).get("decision", "open")
+        if d in ("approved", "corrected"):
+            return True, decisions[row_key(r)]["value"] if d == "corrected" else r["value"]
+        if d == "rejected" or mode == MODES[1] or r.get("status") == "conflict":
+            return False, None                      # conflicts between papers need a curator's choice
+        if mode == MODES[0] and (r.get("confidence") or "medium") == "low":
+            return False, None
+        return True, r["value"]
+
+    def accepted(rec):
+        return rec in db and str(db[rec].get("is accepted", "")).strip().lower() == "yes"
+
+    cand = {}
+    for r in (adds.to_dict("records") if adds is not None else []):
+        ok, val = take(r)
+        rec, col = r["mycobase_record"], r["column"]
+        if ok and accepted(rec) and is_empty(db[rec].get(col)):        # never replace MycoBase data
+            cand.setdefault((rec, col), []).append({**r, "value": val})
+    values, disputed = {}, []
+    for (rec, col), rs in sorted(cand.items()):
+        if len({re.sub(r"\s+", " ", str(x["value"])).lower() for x in rs}) > 1:
+            disputed.append((rec, col))
+            continue
+        values.setdefault(rec, {})[col] = rs[0]
+    images = {}
+    for r in (imgs.to_dict("records") if imgs is not None else []):
+        r = {**r, "column": "(image)", "value": r["image"], "pages": r.get("page", "")}
+        ok, _ = take(r)
+        if ok and accepted(r["mycobase_record"]) and (dirs["add"] / r["image"]).exists():
+            images.setdefault(r["mycobase_record"], []).append(r)
+    return values, images, disputed
+
+
+def raw_species(dirs):
+    """Species descriptions outside MycoBase (not on the accepted list), grouped by the name in the paper."""
+    out = {}
+    for f in sorted(dirs["out"].glob("*/sections.json")) if dirs["out"].exists() else []:
+        paper = f.parent.name
+        for s in read_json(f) or []:
+            if s["kind"] != "treatment" or s.get("target") == "mycobase":
+                continue
+            out.setdefault(s["species"], []).append({
+                "paper": paper, "pages": f"{s['pages'][0]}-{s['pages'][1]}", "name_status": s["name"]["status"],
+                "accepted_name": s["name"]["accepted_name"], "nomenclature": s.get("nomenclature", ""),
+                "fields": s.get("fields", {}),
+                "values": {k: v for k, v in s.get("values", {}).items() if v},
+                "images": [f"{paper}/{x['file']}" for x in s.get("figures", []) if x.get("file")]})
+    return dict(sorted(out.items()))
+
+
+HELP.update({
+    "MycoBase records": "Records in data/species_description.json - all of them are kept unchanged.",
+    "updated": "Accepted species that get at least one new value or image from the papers.",
+    "new values": "Values that were EMPTY in MycoBase and are filled from a paper. Nothing is replaced.",
+    "new images": "Species images (plates) from the papers for accepted species.",
+    "raw species": "Species described in the papers that are not accepted in MycoBase (other genera, "
+                   "unknown names). Stored in raw_species.json for later use, not in species_description_data.",
+})
+
+with tab_data:
+    st.header("species_description_data - MycoBase + what the papers add")
+    st.markdown("All MycoBase records are kept **as they are**. Accepted species only get values for columns that "
+                "are **empty** in MycoBase, plus species images. Species outside MycoBase go to "
+                "`raw_species.json`. `data/species_description.json` is never written.")
+    db = read_json(SPECIES_JSON)
+    if db is None:
+        st.error(f"{SPECIES_JSON} not found.")
+    elif not dirs["out"].exists():
+        st.info("No results yet - upload and run papers in tab 1.")
+    else:
+        mode = st.radio("Which proposals go in", MODES, horizontal=True, key="sd_mode",
+                        help="Approved / corrected proposals (tab 3) always go in, rejected never. Proposals where "
+                             "two papers disagree go in only after approval.")
+        values, images, disputed = new_data(dirs, db, mode)
+        raw = raw_species(dirs)
+        updated = sorted(set(values) | set(images))
+        m = st.columns(5)
+        m[0].metric("MycoBase records", len(db), help=HELP["MycoBase records"])
+        m[1].metric("Accepted species updated", len(updated), help=HELP["updated"])
+        m[2].metric("New values", sum(len(v) for v in values.values()), help=HELP["new values"])
+        m[3].metric("New images", sum(len(v) for v in images.values()), help=HELP["new images"])
+        m[4].metric("Raw species (other file)", len(raw), help=HELP["raw species"])
+        if disputed:
+            st.caption(f"{len(disputed)} column(s) left out because papers disagree - approve one value in tab 3.")
+
+        which = st.radio("Show", ["Accepted species with new data", "All accepted species", "Raw species (outside MycoBase)"],
+                         horizontal=True, key="sd_which")
+        if which == "Raw species (outside MycoBase)":
+            names = list(raw)
+        elif which == "All accepted species":
+            names = sorted(k for k, v in db.items() if str(v.get("is accepted", "")).lower() == "yes")
+        else:
+            names = updated
+        if not names:
+            st.info("Nothing to show - no new data for accepted species with this choice.")
+        else:
+            tbl = pd.DataFrame([{"species": n, "new values": len(values.get(n, {})), "new images": len(images.get(n, []))}
+                                for n in names]) if which != "Raw species (outside MycoBase)" else \
+                pd.DataFrame([{"species": n, "papers": ", ".join(sorted({x["paper"] for x in raw[n]})),
+                               "name status": raw[n][0]["name_status"],
+                               "images": sum(len(x["images"]) for x in raw[n])} for n in names])
+            st.dataframe(tbl.astype(str), width="stretch", hide_index=True, height=220, column_config=col_help(tbl))
+            sp = st.selectbox("Species", names, key="sd_species")
+            left, right = st.columns([3, 2])
+            if which == "Raw species (outside MycoBase)":
+                for x in raw[sp]:
+                    with left:
+                        st.markdown(f"**{x['nomenclature'] or sp}**")
+                        st.caption(f"{x['paper']} · pages {x['pages']} · {x['name_status']} · "
+                                   f"accepted name: {x['accepted_name'] or '-'}")
+                        for k, v in x["fields"].items():
+                            st.markdown(f"- **{k}**: {v}")
+                        vals = {k: str(v) for k, v in x["values"].items() if k != "colony_diam"}
+                        if vals:
+                            st.table(pd.DataFrame(vals.items(), columns=["column", "value"]))
+                    with right:
+                        for im in x["images"]:
+                            p = dirs["out"] / im
+                            if p.exists():
+                                st.image(str(p), caption=p.name)
+            else:
+                rec, new = db[sp], values.get(sp, {})
+                with left:
+                    st.markdown(f"### *{sp}*")
+                    st.caption("🆕 = new from a paper (the column was empty in MycoBase). Everything else is MycoBase.")
+                    for col, val in rec.items():
+                        if col in new:
+                            r = new[col]
+                            st.markdown(f"- 🆕 **{col}**: {r['value']}  \n  <span style='color:gray'>from {r['paper']} · "
+                                        f"page {r['pages']} · {CONF_ICON.get(r.get('confidence') or 'medium', '')}</span>",
+                                        unsafe_allow_html=True)
+                        elif not is_empty(val):
+                            st.markdown(f"- **{col}**: {val}")
+                    for col, r in new.items():
+                        if col not in rec:                      # a MycoBase column this record did not have
+                            st.markdown(f"- 🆕 **{col}**: {r['value']}  \n  <span style='color:gray'>from {r['paper']} · "
+                                        f"page {r['pages']} · {CONF_ICON.get(r.get('confidence') or 'medium', '')}</span>",
+                                        unsafe_allow_html=True)
+                    n_empty = sum(1 for c, v in rec.items() if is_empty(v) and c not in new)
+                    if n_empty:
+                        st.caption(f"{n_empty} column(s) still empty.")
+                with right:
+                    p = mycobase_image(sp)
+                    if p:
+                        st.image(str(p), caption="MycoBase image")
+                    for r in images.get(sp, []):
+                        st.image(str(dirs["add"] / r["image"]),
+                                 caption=f"🆕 {r['paper']} · Fig. {r['figure']} · page {r['page']} - "
+                                         f"{str(r.get('caption', ''))[:160]}")
+                    if not p and not images.get(sp):
+                        st.caption("No image for this species.")
+
+        st.divider()
+        save_dir = dirs["base"] / "species_description_data"
+        st.markdown(f"**Save** writes to `app_runs/{run}/species_description_data/`: "
+                    "`species_description_data.json` (all MycoBase records + new values), `species_images.json` "
+                    "+ `images/`, `new_values.csv` (where each new value comes from) and `raw_species.json`.")
+        if st.button("💾 Save species_description_data", type="primary"):
+            import shutil
+            md5 = hashlib.md5(SPECIES_JSON.read_bytes()).hexdigest()
+            data = json.loads(SPECIES_JSON.read_text(encoding="utf-8"))      # a fresh copy, not the cached one
+            for rec, cols in values.items():
+                for col, r in cols.items():
+                    assert is_empty(data[rec].get(col)), (rec, col)        # safety: never overwrite
+                    data[rec][col] = r["value"]
+            (save_dir / "images").mkdir(parents=True, exist_ok=True)
+            img_index = {}
+            for rec in sorted(k for k, v in data.items() if str(v.get("is accepted", "")).lower() == "yes"):
+                lst = []
+                p = mycobase_image(rec)
+                if p:
+                    lst.append({"file": f"data/images/{p.name}", "source": "MycoBase"})
+                for r in images.get(rec, []):
+                    src = dirs["add"] / r["image"]
+                    shutil.copy2(src, save_dir / "images" / src.name)
+                    lst.append({"file": f"images/{src.name}", "source": f"{r['paper']} fig {r['figure']} p{r['page']}",
+                                "caption": r.get("caption", "")})
+                if lst:
+                    img_index[rec] = lst
+            with open(save_dir / "species_description_data.json", "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=1)
+            with open(save_dir / "species_images.json", "w", encoding="utf-8") as f:
+                json.dump(img_index, f, ensure_ascii=False, indent=1)
+            with open(save_dir / "raw_species.json", "w", encoding="utf-8") as f:
+                json.dump(raw, f, ensure_ascii=False, indent=1)
+            used = [{"mycobase_record": rec, "column": col, "value": r["value"], "paper": r["paper"],
+                     "pages": r["pages"], "confidence": r.get("confidence", ""), "species_in_paper": r.get("species_in_paper", "")}
+                    for rec, cols in values.items() for col, r in cols.items()]
+            with open(save_dir / "new_values.csv", "w", encoding="utf-8-sig", newline="") as f:
+                w = csv.DictWriter(f, fieldnames=["mycobase_record", "column", "value", "paper", "pages", "confidence",
+                                                  "species_in_paper"])
+                w.writeheader()
+                w.writerows(used)
+            assert hashlib.md5(SPECIES_JSON.read_bytes()).hexdigest() == md5      # MycoBase not touched
+            st.success(f"Saved {len(data)} records ({len(updated)} updated), {len(raw)} raw species → "
+                       f"app_runs/{run}/species_description_data/")
+        if (save_dir / "species_description_data.json").exists():
+            d1, d2 = st.columns(2)
+            d1.download_button("⬇ species_description_data.json",
+                               (save_dir / "species_description_data.json").read_bytes(),
+                               file_name="species_description_data.json", mime="application/json")
+            if (save_dir / "raw_species.json").exists():
+                d2.download_button("⬇ raw_species.json", (save_dir / "raw_species.json").read_bytes(),
+                                   file_name="raw_species.json", mime="application/json")
