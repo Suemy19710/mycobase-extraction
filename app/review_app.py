@@ -513,6 +513,38 @@ def new_data(dirs, db, mode):
     return values, images, disputed
 
 
+def as_text(v):
+    """A cell for a CSV: dicts and lists (e.g. Molecular markers) become JSON text."""
+    return (json.dumps(v, ensure_ascii=False) if v else "") if isinstance(v, (dict, list)) else v
+
+
+def species_csv(data):
+    """species_description_data as CSV: one row per species; the JSON key is the Species column
+    (MycoBase's own "Species" column is often empty, so it is left out)."""
+    cols = []
+    for rec in data.values():
+        for c in rec:
+            if c not in cols and c != "Species":
+                cols.append(c)
+    df = pd.DataFrame([{"Species": k, **{c: as_text(rec.get(c, "")) for c in cols}} for k, rec in data.items()])
+    return df.to_csv(index=False).encode("utf-8-sig")          # utf-8-sig: Excel shows accents correctly
+
+
+def raw_csv(raw):
+    """raw_species as CSV: one row per species treatment in a paper; fields and values as columns."""
+    rows = []
+    for sp, lst in raw.items():
+        for x in lst:
+            row = {"Species (as printed)": sp, "paper": x.get("paper", ""), "pages": x.get("pages", ""),
+                   "name status": x.get("name_status", ""), "accepted name": x.get("accepted_name", ""),
+                   "nomenclature": x.get("nomenclature", "")}
+            row.update({k: as_text(v) for k, v in (x.get("values") or {}).items()})
+            row.update({f"field: {k}": as_text(v) for k, v in (x.get("fields") or {}).items()})
+            row["images"] = "; ".join(x.get("images") or [])
+            rows.append(row)
+    return pd.DataFrame(rows).to_csv(index=False).encode("utf-8-sig")
+
+
 def raw_species(dirs):
     """Species descriptions outside MycoBase (not on the accepted list), grouped by the name in the paper."""
     out = {}
@@ -635,8 +667,8 @@ with tab_data:
         st.divider()
         save_dir = dirs["base"] / "species_description_data"
         st.markdown(f"**Save** writes to `app_runs/{run}/species_description_data/`: "
-                    "`species_description_data.json` (all MycoBase records + new values), `species_images.json` "
-                    "+ `images/`, `new_values.csv` (where each new value comes from) and `raw_species.json`.")
+                    "`species_description_data.json` / `.csv` (all MycoBase records + new values), `species_images.json` "
+                    "+ `images/`, `new_values.csv` (where each new value comes from) and `raw_species.json` / `.csv`.")
         if st.button("💾 Save species_description_data", type="primary"):
             import shutil
             md5 = hashlib.md5(SPECIES_JSON.read_bytes()).hexdigest()
@@ -665,6 +697,8 @@ with tab_data:
                 json.dump(img_index, f, ensure_ascii=False, indent=1)
             with open(save_dir / "raw_species.json", "w", encoding="utf-8") as f:
                 json.dump(raw, f, ensure_ascii=False, indent=1)
+            (save_dir / "species_description_data.csv").write_bytes(species_csv(data))
+            (save_dir / "raw_species.csv").write_bytes(raw_csv(raw))
             used = [{"mycobase_record": rec, "column": col, "value": r["value"], "paper": r["paper"],
                      "pages": r["pages"], "confidence": r.get("confidence", ""), "species_in_paper": r.get("species_in_paper", "")}
                     for rec, cols in values.items() for col, r in cols.items()]
@@ -677,10 +711,22 @@ with tab_data:
             st.success(f"Saved {len(data)} records ({len(updated)} updated), {len(raw)} raw species → "
                        f"app_runs/{run}/species_description_data/")
         if (save_dir / "species_description_data.json").exists():
+            # a run saved before the CSV export existed: make the CSVs from the saved JSON once
+            for name, make in (("species_description_data", species_csv), ("raw_species", raw_csv)):
+                if (save_dir / f"{name}.json").exists() and not (save_dir / f"{name}.csv").exists():
+                    (save_dir / f"{name}.csv").write_bytes(
+                        make(json.loads((save_dir / f"{name}.json").read_text(encoding="utf-8"))))
             d1, d2 = st.columns(2)
             d1.download_button("⬇ species_description_data.json",
                                (save_dir / "species_description_data.json").read_bytes(),
                                file_name="species_description_data.json", mime="application/json")
+            d1.download_button("⬇ species_description_data.csv",
+                               (save_dir / "species_description_data.csv").read_bytes(),
+                               file_name="species_description_data.csv", mime="text/csv",
+                               help="One row per species; opens in Excel")
             if (save_dir / "raw_species.json").exists():
                 d2.download_button("⬇ raw_species.json", (save_dir / "raw_species.json").read_bytes(),
                                    file_name="raw_species.json", mime="application/json")
+                d2.download_button("⬇ raw_species.csv", (save_dir / "raw_species.csv").read_bytes(),
+                                   file_name="raw_species.csv", mime="text/csv",
+                                   help="One row per species treatment in a paper; opens in Excel")
